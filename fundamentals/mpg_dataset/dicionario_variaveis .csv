@@ -1,0 +1,12 @@
+Nº,Nome Original,Nome Traduzido,Descrição,Tipo de Dado,Níveis
+1,mpg,mpg,Milhas por galão (consumo urbano de combustível),Real,–
+2,cylinders,cilindros,Número de cilindros do motor,Inteiro,"3, 4, 5, 6, 8"
+3,displacement,cilindrada,Volume deslocado pelo motor em polegadas cúbicas,Inteiro,–
+4,horsepower,potência,Potência do carro,Inteiro,– (possui valores ausentes)
+5,weight,peso,Peso do veículo,Inteiro,–
+6,acceleration,aceleração,Tempo para acelerar de 0 a 60 mph,Real,–
+7,model_year,ano_modelo,Ano do modelo do veículo,Categórica,70 a 82
+8,origin,origem,Origem geográfica do veículo,Categórica,"1 = EUA
+2 = Europa
+3 = Japão"
+9,car_name,nome_carro,"Nome do modelo do carro (texto livre, único para cada instância)",Texto,–
