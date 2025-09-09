@@ -1,0 +1,15 @@
+nome_original,nome_traduzido,descrição,tipo,níveis
+Anonymous Customer ID,id_anonimo,Identificador único do cliente,numérico,
+Call Failures,falhas_chamada,Número de falhas em chamadas,numérico,
+Complains,reclamacoes,Indica se houve reclamação,categórica,0: Sem reclamação; 1: Com reclamação
+Subscription Length,tempo_assinatura,Total de meses de assinatura,numérico,
+Charge Amount,valor_cobrado,Valor cobrado em escala ordinal,ordinal,0: valor mais baixo; 9: valor mais alto
+Seconds of Use,segundos_uso,Total de segundos em chamadas,numérico,
+Frequency of use,freq_uso,Número total de chamadas,numérico,
+Frequency of SMS,freq_sms,Número total de mensagens de texto,numérico,
+Distinct Called Numbers,numeros_dist_chamados,Número total de números de telefone distintos chamados,numérico,
+Age Group,faixa_etaria,Faixa etária em escala ordinal,ordinal,1: mais jovem; 5: mais velho
+Tariff Plan,plano,Tipo de plano tarifário,categórica,1: Pré-pago; 2: Contrato
+Status,situacao,Situação do cliente,categórica,1: Ativo; 2: Inativo
+Churn,cancelamento,Indica se o cliente cancelou,categórica,0: Não cancelou; 1: Cancelou
+Customer Value,valor_cliente,Valor calculado do cliente,numérico,
