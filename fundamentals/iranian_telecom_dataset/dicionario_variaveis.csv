@@ -1,14 +1,15 @@
-nome_original,nome_traduzido,descriÃ§Ã£o,tipo,nÃ­veis
-Call Failures,falhas_chamada,NÃºmero de falhas em chamadas,numÃ©rico,
-Complains,reclamacoes,Indica se houve reclamaÃ§Ã£o,categÃ³rica,0: Sem reclamaÃ§Ã£o; 1: Com reclamaÃ§Ã£o
-Subscription Length,tempo_assinatura,Total de meses de assinatura,numÃ©rico,
+Column1,Column2,Column3,Column4,Column5
+nome_original,nome_traduzido,descrição,tipo,níveis
+Call Failures,falhas_chamada,Número de falhas em chamadas,numérico,
+Complains,reclamacoes,Indica se houve reclamação,categórica,0: Sem reclamação; 1: Com reclamação
+Subscription Length,tempo_assinatura,Total de meses de assinatura,numérico,
 Charge Amount,valor_cobrado,Valor cobrado em escala ordinal,ordinal,0: valor mais baixo; 9: valor mais alto
-Seconds of Use,segundos_uso,Total de segundos em chamadas,numÃ©rico,
-Frequency of use,freq_uso,NÃºmero total de chamadas,numÃ©rico,
-Frequency of SMS,freq_sms,NÃºmero total de mensagens de texto,numÃ©rico,
-Distinct Called Numbers,numeros_dist_chamados,NÃºmero total de nÃºmeros de telefone distintos chamados,numÃ©rico,
-Tariff Plan,plano,,categÃ³rica,1: PrÃ©-pago; 2: Contrato
-Status,situacao,SituaÃ§Ã£o do cliente,categÃ³rica,1: Ativo; 2: Inativo
+Seconds of Use,segundos_uso,Total de segundos em chamadas,numérico,
+Frequency of use,freq_uso,Número total de chamadas,numérico,
+Frequency of SMS,freq_sms,Número total de mensagens de texto,numérico,
+Distinct Called Numbers,numeros_dist_chamados,Número total de números de telefone distintos chamados,numérico,
+Tariff Plan,plano,,categórica,1: Pré-pago; 2: Contrato
+Status,situacao,Situação do cliente,categórica,1: Ativo; 2: Inativo
 Age,idade,Idade em anos,numérico,
-Customer Value,valor_cliente,Valor calculado do cliente,numÃ©rico,
-Churn,cancelamento,Indica se o cliente cancelou,categÃ³rica,0: NÃ£o cancelou; 1: Cancelou
+Customer Value,valor_cliente,Valor calculado do cliente,numérico,
+Churn,cancelamento,Indica se o cliente cancelou,categórica,0: Não cancelou; 1: Cancelou
