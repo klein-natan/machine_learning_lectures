@@ -1,0 +1,9 @@
+variável,Descrição
+datahora,Data e hora do registro
+temperatura,Temperatura em graus celsius
+umidade,Concentração de vapor no ar
+velocidade_vento,Velocidade do vento em km/h
+dif_gas_geral,Medida de quanto as emissões de gases se difundem na atmosfera ampla
+dif_gas_local,Medida de quanto as emissões de gases se difundem na atmosfera local
+zona,"Zona de energia da usina (1, 2 ou 3)"
+consumo,Consumo em Kw/h
