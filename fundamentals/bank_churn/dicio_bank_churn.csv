@@ -1,0 +1,15 @@
+﻿nome,descrição,tipo,níveis
+id_anonimo,Identificador único do cliente,numérico,
+falhas_chamada,Número de falhas em chamadas,numérico,
+reclamacoes,Indica se houve reclamação,categórica,0: Sem reclamação; 1: Com reclamação
+tempo_assinatura,Total de meses de assinatura,numérico,
+valor_cobrado,Valor cobrado em escala ordinal,ordinal,0: valor mais baixo; 9: valor mais alto
+segundos_uso,Total de segundos em chamadas,numérico,
+freq_uso,Número total de chamadas,numérico,
+freq_sms,Número total de mensagens de texto,numérico,
+numeros_dist_chamados,Número total de números de telefone distintos chamados,numérico,
+faixa_etaria,Faixa etária em escala ordinal,ordinal,1: mais jovem; 5: mais velho
+plano,Tipo de plano tarifário,categórica,1: Pré-pago; 2: Contrato
+situacao,Situação do cliente,categórica,1: Ativo; 2: Inativo
+cancelamento,Indica se o cliente cancelou,categórica,0: Não cancelou; 1: Cancelou
+valor_cliente,Valor calculado do cliente,numérico,

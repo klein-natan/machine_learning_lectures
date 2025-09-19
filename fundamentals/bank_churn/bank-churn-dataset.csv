@@ -1,0 +1,3151 @@
+﻿falhas_chamada,reclamacoes,tempo_assinatura,valor_cobrado,segundos_uso,freq_uso,freq_sms,numeros_dist_chamados,plano,situacao,idade,valor_cliente,cancelamento
+8,0,38,0,4370,71,5,17,Pré-Pago,Ativo,30,19764,Não Cancelou
+0,0,39,0,318,5,7,4,Pré-Pago,Inativo,25,46035,Não Cancelou
+10,0,37,0,2453,60,359,24,Pré-Pago,Ativo,30,153652,Não Cancelou
+10,0,38,0,4198,66,1,35,Pré-Pago,Ativo,15,24002,Não Cancelou
+3,0,38,0,2393,58,2,33,Pré-Pago,Ativo,15,145805,Não Cancelou
+11,0,38,1,3775,82,32,28,Pré-Pago,Ativo,30,28228,Não Cancelou
+4,0,38,0,2360,39,285,18,Pré-Pago,Ativo,30,123596,Não Cancelou
+13,0,37,2,9115,121,144,43,Pré-Pago,Ativo,30,94544,Não Cancelou
+7,0,38,0,13773,169,0,44,Pré-Pago,Ativo,30,55768,Não Cancelou
+7,0,38,1,4515,83,2,25,Pré-Pago,Ativo,30,19192,Não Cancelou
+6,0,38,0,5918,95,7,12,Pré-Pago,Ativo,30,26852,Não Cancelou
+9,0,38,0,2238,54,8,17,Pré-Pago,Inativo,30,12368,Não Cancelou
+25,0,38,3,15140,225,54,32,Pré-Pago,Ativo,30,8306,Não Cancelou
+4,0,38,1,3095,27,483,8,Pré-Pago,Ativo,30,205688,Não Cancelou
+9,0,37,0,15485,182,150,30,Pré-Pago,Ativo,25,1380015,Não Cancelou
+3,0,37,1,6500,86,186,26,Pré-Pago,Ativo,30,100744,Não Cancelou
+0,0,37,0,875,14,0,11,Pré-Pago,Inativo,25,40005,Cancelou
+2,0,38,0,710,14,13,8,Pré-Pago,Inativo,30,8096,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+3,0,37,0,7508,127,384,43,Pré-Pago,Ativo,25,2071575,Não Cancelou
+7,0,37,1,11465,154,11,47,Pré-Pago,Ativo,45,317975,Não Cancelou
+8,0,37,1,6718,75,108,37,Pré-Pago,Ativo,25,791685,Não Cancelou
+23,1,33,0,955,47,16,17,Pré-Pago,Inativo,25,11709,Cancelou
+21,1,36,8,10435,93,1,42,Contrato,Ativo,55,15942,Não Cancelou
+13,1,36,1,5818,98,26,24,Pré-Pago,Ativo,25,38322,Cancelou
+1,0,34,0,2840,22,0,14,Pré-Pago,Ativo,30,11448,Não Cancelou
+9,0,35,0,2990,41,9,16,Pré-Pago,Inativo,30,15724,Cancelou
+9,1,36,0,2268,44,34,31,Pré-Pago,Inativo,30,22848,Cancelou
+0,0,36,0,133,2,0,2,Pré-Pago,Inativo,30,54,Cancelou
+1,0,36,0,1668,25,0,6,Pré-Pago,Ativo,30,6772,Não Cancelou
+3,0,33,1,6785,97,14,22,Pré-Pago,Ativo,55,12423,Não Cancelou
+0,1,36,0,628,7,9,4,Pré-Pago,Inativo,45,38375,Cancelou
+0,0,36,1,338,4,4,2,Pré-Pago,Ativo,55,1113,Não Cancelou
+25,0,31,3,16075,238,0,80,Contrato,Ativo,25,734085,Não Cancelou
+6,0,34,3,6965,116,271,33,Contrato,Ativo,25,1538145,Não Cancelou
+2,0,36,0,3718,82,2,28,Pré-Pago,Ativo,25,180,Não Cancelou
+3,0,35,0,1665,44,38,20,Pré-Pago,Inativo,30,22036,Não Cancelou
+6,0,36,0,2780,53,175,23,Pré-Pago,Ativo,25,914985,Não Cancelou
+4,0,27,1,1315,36,193,11,Contrato,Ativo,25,929295,Não Cancelou
+4,0,26,0,1568,39,30,68,Pré-Pago,Ativo,45,115175,Não Cancelou
+11,0,27,0,700,25,10,7,Pré-Pago,Inativo,25,77625,Não Cancelou
+0,0,26,0,825,10,21,3,Pré-Pago,Inativo,45,73375,Cancelou
+10,0,25,0,1225,32,19,13,Pré-Pago,Ativo,25,142065,Não Cancelou
+2,0,25,0,3225,61,8,23,Pré-Pago,Ativo,30,16344,Não Cancelou
+2,0,18,0,1695,26,28,14,Pré-Pago,Ativo,25,203445,Não Cancelou
+16,0,17,1,6393,141,85,42,Contrato,Ativo,25,67653,Não Cancelou
+12,0,15,0,8933,171,73,40,Pré-Pago,Ativo,45,4101,Não Cancelou
+8,0,16,3,2853,45,31,19,Contrato,Ativo,30,23992,Não Cancelou
+2,0,9,1,4390,40,215,10,Pré-Pago,Ativo,30,10372,Não Cancelou
+3,0,9,1,1488,19,0,7,Pré-Pago,Ativo,30,6028,Cancelou
+11,0,40,1,4430,74,10,19,Pré-Pago,Ativo,30,22016,Não Cancelou
+3,0,41,1,378,8,12,6,Pré-Pago,Ativo,30,6344,Não Cancelou
+13,0,39,1,2513,63,364,26,Pré-Pago,Ativo,30,155904,Não Cancelou
+13,0,40,1,4258,69,6,37,Pré-Pago,Ativo,15,270985,Não Cancelou
+6,0,40,1,2453,61,7,35,Pré-Pago,Ativo,25,14463,Não Cancelou
+14,0,40,2,3835,85,37,30,Contrato,Ativo,30,3048,Não Cancelou
+7,0,40,1,2420,42,290,20,Pré-Pago,Ativo,30,125848,Não Cancelou
+16,0,39,3,9175,124,149,45,Pré-Pago,Ativo,30,96796,Não Cancelou
+10,0,40,1,13833,172,5,46,Pré-Pago,Ativo,30,5802,Não Cancelou
+10,0,40,2,4575,86,7,27,Pré-Pago,Ativo,30,21444,Não Cancelou
+9,0,40,1,5978,98,12,14,Pré-Pago,Ativo,30,29104,Não Cancelou
+12,0,40,1,2298,57,13,19,Pré-Pago,Ativo,30,1462,Não Cancelou
+28,0,40,4,15200,228,59,34,Pré-Pago,Ativo,30,85312,Não Cancelou
+7,0,40,2,3155,30,488,10,Pré-Pago,Ativo,30,20794,Não Cancelou
+12,0,39,1,15545,185,155,32,Pré-Pago,Ativo,25,140535,Não Cancelou
+6,0,39,2,6560,89,191,28,Pré-Pago,Ativo,30,102996,Não Cancelou
+3,0,39,1,935,17,5,13,Pré-Pago,Ativo,25,6534,Não Cancelou
+5,0,40,1,770,17,18,10,Pré-Pago,Ativo,30,10348,Não Cancelou
+3,1,39,1,60,3,5,2,Pré-Pago,Ativo,25,25335,Cancelou
+6,0,39,1,7568,130,389,45,Pré-Pago,Ativo,30,186392,Não Cancelou
+10,0,39,2,11525,157,16,49,Contrato,Ativo,45,33205,Não Cancelou
+11,0,39,2,6778,78,113,39,Pré-Pago,Ativo,25,81702,Não Cancelou
+26,1,35,1,1015,50,21,19,Pré-Pago,Ativo,30,1266,Cancelou
+24,1,38,9,10495,96,6,44,Contrato,Ativo,55,167865,Não Cancelou
+16,0,38,2,5878,101,31,26,Pré-Pago,Ativo,25,408555,Não Cancelou
+4,0,36,1,2900,25,5,16,Pré-Pago,Ativo,30,137,Não Cancelou
+12,0,37,1,3050,44,14,18,Pré-Pago,Ativo,30,17976,Cancelou
+12,1,38,1,2328,47,39,33,Pré-Pago,Ativo,30,251,Cancelou
+3,0,38,1,193,5,5,4,Pré-Pago,Ativo,30,2792,Cancelou
+4,0,38,1,1728,28,5,8,Pré-Pago,Ativo,45,564,Não Cancelou
+6,0,35,2,6845,100,19,24,Pré-Pago,Ativo,55,132675,Não Cancelou
+3,0,38,1,688,10,14,6,Pré-Pago,Ativo,45,5245,Cancelou
+3,0,38,2,398,7,9,4,Pré-Pago,Ativo,55,19575,Não Cancelou
+28,0,33,4,16135,241,5,82,Pré-Pago,Ativo,25,75942,Não Cancelou
+9,1,36,4,7025,119,276,35,Contrato,Ativo,30,138976,Não Cancelou
+5,0,38,1,3778,85,7,30,Pré-Pago,Ativo,30,18252,Não Cancelou
+6,0,37,1,1725,47,43,22,Pré-Pago,Ativo,30,24288,Não Cancelou
+9,0,38,1,2840,56,180,25,Pré-Pago,Ativo,25,94032,Não Cancelou
+7,0,29,2,1375,39,198,13,Contrato,Ativo,30,84856,Não Cancelou
+7,0,28,1,1628,42,35,70,Pré-Pago,Ativo,45,12925,Não Cancelou
+14,0,29,1,760,28,15,9,Pré-Pago,Ativo,30,9152,Não Cancelou
+3,0,28,1,885,13,26,5,Pré-Pago,Ativo,45,8745,Não Cancelou
+13,0,27,1,1285,35,24,15,Pré-Pago,Ativo,25,1674,Não Cancelou
+5,0,27,1,3285,64,13,25,Pré-Pago,Ativo,30,18596,Não Cancelou
+5,0,20,1,1755,29,33,16,Pré-Pago,Ativo,25,22878,Não Cancelou
+19,0,19,2,6453,144,90,44,Contrato,Ativo,25,701865,Não Cancelou
+15,0,17,1,8993,174,78,42,Pré-Pago,Ativo,55,254505,Não Cancelou
+11,0,18,4,2913,48,36,21,Pré-Pago,Ativo,30,26244,Não Cancelou
+5,0,11,2,4450,43,220,12,Pré-Pago,Ativo,30,105972,Não Cancelou
+6,1,11,2,1548,22,5,9,Pré-Pago,Ativo,30,828,Cancelou
+5,0,36,0,4310,68,0,15,Pré-Pago,Ativo,25,19701,Não Cancelou
+0,0,37,0,258,2,2,2,Pré-Pago,Inativo,25,207,Não Cancelou
+7,0,35,0,2393,57,354,22,Pré-Pago,Ativo,25,170325,Não Cancelou
+7,0,36,0,4138,63,0,33,Pré-Pago,Ativo,15,231055,Não Cancelou
+0,0,36,0,2333,55,0,31,Pré-Pago,Ativo,15,13134,Não Cancelou
+8,0,36,0,3715,79,27,26,Pré-Pago,Ativo,30,25976,Não Cancelou
+1,0,36,0,2300,36,280,16,Pré-Pago,Ativo,30,121344,Não Cancelou
+10,0,35,1,9055,118,139,41,Pré-Pago,Ativo,30,92292,Não Cancelou
+4,0,36,0,13713,166,0,42,Pré-Pago,Ativo,30,55516,Não Cancelou
+4,0,36,0,4455,80,0,23,Pré-Pago,Ativo,30,1814,Não Cancelou
+3,0,36,0,5858,92,2,10,Pré-Pago,Ativo,25,27675,Não Cancelou
+6,1,36,0,2178,51,3,15,Pré-Pago,Inativo,30,10116,Não Cancelou
+22,0,36,2,15080,222,49,30,Pré-Pago,Ativo,30,80808,Não Cancelou
+1,0,36,0,3035,24,478,6,Pré-Pago,Ativo,30,203436,Não Cancelou
+6,0,35,0,15425,179,145,28,Pré-Pago,Ativo,25,135468,Não Cancelou
+0,0,35,0,6440,83,181,24,Pré-Pago,Ativo,30,98492,Não Cancelou
+0,0,35,0,815,11,0,9,Pré-Pago,Inativo,25,3717,Não Cancelou
+0,0,36,0,650,11,8,6,Pré-Pago,Inativo,25,65745,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,35,0,7448,124,379,41,Pré-Pago,Ativo,25,204624,Não Cancelou
+4,0,35,0,11405,151,6,45,Pré-Pago,Ativo,30,48624,Não Cancelou
+5,0,35,0,6658,72,103,35,Pré-Pago,Ativo,25,76635,Não Cancelou
+20,0,31,0,895,44,11,15,Pré-Pago,Inativo,25,91755,Cancelou
+18,0,34,7,10375,90,0,40,Pré-Pago,Ativo,45,261625,Não Cancelou
+10,0,34,0,5758,95,21,22,Pré-Pago,Ativo,25,357885,Cancelou
+0,0,32,0,2780,19,0,12,Pré-Pago,Ativo,30,11196,Não Cancelou
+6,0,33,0,2930,38,4,14,Pré-Pago,Inativo,25,15156,Cancelou
+6,1,34,0,2208,41,29,29,Pré-Pago,Inativo,30,20596,Cancelou
+0,1,34,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,34,0,1608,22,0,4,Pré-Pago,Ativo,30,652,Não Cancelou
+0,0,31,0,6725,94,9,20,Pré-Pago,Ativo,45,192975,Não Cancelou
+0,0,34,0,568,4,4,2,Pré-Pago,Inativo,45,243,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+22,0,29,2,16015,235,0,78,Pré-Pago,Ativo,25,73125,Não Cancelou
+3,0,32,2,6905,113,266,31,Contrato,Ativo,25,151281,Não Cancelou
+0,0,34,0,3658,79,0,26,Pré-Pago,Ativo,25,168165,Não Cancelou
+0,0,33,0,1605,41,33,18,Pré-Pago,Inativo,30,19784,Não Cancelou
+3,0,34,0,2720,50,170,21,Pré-Pago,Ativo,25,88965,Não Cancelou
+1,0,25,0,1255,33,188,9,Contrato,Ativo,25,90396,Não Cancelou
+1,0,24,0,1508,36,25,66,Pré-Pago,Ativo,45,1011,Não Cancelou
+8,0,25,0,640,22,5,5,Pré-Pago,Inativo,25,5229,Não Cancelou
+0,1,24,0,765,7,16,1,Pré-Pago,Inativo,45,593,Cancelou
+7,0,23,0,1165,29,14,11,Pré-Pago,Ativo,25,11673,Não Cancelou
+0,0,23,0,3165,58,3,21,Pré-Pago,Ativo,30,14092,Não Cancelou
+0,0,16,0,1635,23,23,12,Pré-Pago,Ativo,25,17811,Não Cancelou
+13,0,15,0,6333,138,80,40,Contrato,Ativo,15,795905,Não Cancelou
+9,0,13,0,8873,168,68,38,Pré-Pago,Ativo,45,396025,Não Cancelou
+5,0,14,2,2793,42,26,17,Pré-Pago,Ativo,30,2174,Não Cancelou
+0,0,7,0,4330,37,210,8,Pré-Pago,Ativo,30,101468,Não Cancelou
+0,0,7,0,1428,16,0,5,Pré-Pago,Ativo,30,5776,Cancelou
+9,0,42,1,4450,73,15,21,Pré-Pago,Ativo,30,24092,Não Cancelou
+1,1,43,0,398,7,17,8,Pré-Pago,Inativo,30,842,Cancelou
+11,0,41,1,2533,62,369,28,Pré-Pago,Ativo,30,15798,Não Cancelou
+11,0,42,1,4278,68,11,39,Pré-Pago,Ativo,15,29953,Não Cancelou
+4,0,42,1,2473,60,12,37,Pré-Pago,Ativo,25,167985,Não Cancelou
+12,0,42,2,3855,84,42,32,Pré-Pago,Ativo,30,32556,Não Cancelou
+5,0,42,1,2440,41,295,22,Pré-Pago,Ativo,30,127924,Não Cancelou
+14,0,41,3,9195,123,154,47,Pré-Pago,Ativo,30,98872,Não Cancelou
+8,0,42,1,13853,171,10,48,Pré-Pago,Ativo,30,60096,Não Cancelou
+8,0,42,2,4595,85,12,29,Pré-Pago,Ativo,30,2352,Não Cancelou
+7,0,42,1,5998,97,17,16,Pré-Pago,Ativo,30,3118,Não Cancelou
+10,0,42,0,2318,56,18,21,Pré-Pago,Inativo,30,16696,Não Cancelou
+26,0,42,4,15220,227,64,36,Contrato,Ativo,30,87388,Não Cancelou
+5,0,42,2,3175,29,493,12,Pré-Pago,Ativo,30,210016,Não Cancelou
+10,0,41,1,15565,184,160,34,Pré-Pago,Ativo,25,1428705,Não Cancelou
+4,0,41,2,6580,88,196,30,Pré-Pago,Ativo,30,105072,Não Cancelou
+1,0,41,0,955,16,10,15,Pré-Pago,Inativo,25,88695,Não Cancelou
+3,0,42,0,790,16,23,12,Pré-Pago,Inativo,30,12424,Não Cancelou
+1,0,41,0,80,2,10,4,Pré-Pago,Inativo,25,4869,Cancelou
+4,0,41,1,7588,129,394,47,Pré-Pago,Ativo,30,188468,Não Cancelou
+8,0,41,2,11545,156,21,51,Pré-Pago,Ativo,45,345025,Não Cancelou
+9,0,41,2,6798,77,118,41,Pré-Pago,Ativo,25,840375,Não Cancelou
+24,1,37,0,1035,49,26,21,Pré-Pago,Inativo,30,14736,Cancelou
+22,1,40,9,10515,95,11,46,Pré-Pago,Ativo,55,17565,Não Cancelou
+14,0,40,2,5898,100,36,28,Pré-Pago,Ativo,25,43191,Cancelou
+2,0,38,1,2920,24,10,18,Pré-Pago,Ativo,30,15776,Não Cancelou
+10,0,39,0,3070,43,19,20,Pré-Pago,Inativo,30,20052,Cancelou
+10,1,40,0,2348,46,44,35,Pré-Pago,Inativo,30,27176,Cancelou
+1,0,40,0,213,4,10,6,Pré-Pago,Inativo,30,4868,Cancelou
+2,0,40,1,1748,27,10,10,Pré-Pago,Ativo,45,69375,Não Cancelou
+4,0,37,2,6865,99,24,26,Pré-Pago,Ativo,55,14046,Não Cancelou
+1,1,40,0,708,9,19,8,Pré-Pago,Inativo,45,65425,Cancelou
+1,0,40,2,418,6,14,6,Pré-Pago,Ativo,55,2736,Não Cancelou
+26,0,35,4,16155,240,10,84,Pré-Pago,Ativo,25,782775,Não Cancelou
+7,1,38,4,7045,118,281,37,Contrato,Ativo,25,1586835,Não Cancelou
+3,0,40,1,3798,84,12,32,Pré-Pago,Ativo,30,20328,Não Cancelou
+4,0,39,0,1745,46,48,24,Pré-Pago,Inativo,30,26364,Não Cancelou
+7,0,40,1,2860,55,185,27,Pré-Pago,Ativo,25,963675,Não Cancelou
+5,0,31,2,1395,38,203,15,Contrato,Ativo,25,977985,Não Cancelou
+5,0,30,1,1648,41,40,72,Pré-Pago,Ativo,45,142225,Não Cancelou
+12,0,31,0,780,27,20,11,Pré-Pago,Inativo,30,11228,Não Cancelou
+1,0,30,0,905,12,31,7,Pré-Pago,Inativo,45,100425,Não Cancelou
+11,0,29,1,1305,34,29,17,Pré-Pago,Ativo,25,190755,Não Cancelou
+3,0,29,1,3305,63,18,27,Pré-Pago,Ativo,30,20672,Não Cancelou
+3,0,22,1,1775,28,38,18,Pré-Pago,Ativo,25,252135,Não Cancelou
+17,0,21,2,6473,143,95,46,Contrato,Ativo,25,72522,Não Cancelou
+13,0,19,1,9013,173,83,44,Pré-Pago,Ativo,55,26229,Não Cancelou
+9,0,20,4,2933,47,41,23,Pré-Pago,Ativo,30,2832,Não Cancelou
+3,0,13,2,4470,42,225,14,Pré-Pago,Ativo,30,108048,Não Cancelou
+4,0,13,2,1568,21,10,11,Pré-Pago,Ativo,30,10356,Cancelou
+7,0,34,0,4290,69,0,13,Pré-Pago,Ativo,25,196155,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+9,0,33,0,2373,58,349,20,Pré-Pago,Ativo,25,1679895,Não Cancelou
+9,0,34,0,4118,64,0,31,Pré-Pago,Ativo,15,23001,Não Cancelou
+2,0,34,0,2313,56,0,29,Pré-Pago,Ativo,15,130295,Não Cancelou
+10,0,34,0,3695,80,22,24,Pré-Pago,Ativo,30,239,Não Cancelou
+3,0,34,0,2280,37,275,14,Pré-Pago,Ativo,30,119268,Não Cancelou
+12,0,33,1,9035,119,134,39,Pré-Pago,Ativo,30,90216,Não Cancelou
+6,0,34,0,13693,167,0,40,Pré-Pago,Ativo,30,5544,Não Cancelou
+6,0,34,0,4435,81,0,21,Pré-Pago,Ativo,30,18064,Não Cancelou
+5,0,34,0,5838,93,0,8,Pré-Pago,Ativo,25,266895,Não Cancelou
+8,0,34,0,2158,52,0,13,Pré-Pago,Inativo,30,884,Não Cancelou
+24,0,34,2,15060,223,44,28,Pré-Pago,Ativo,30,78732,Não Cancelou
+3,0,34,0,3015,25,473,4,Pré-Pago,Ativo,30,20136,Não Cancelou
+8,0,33,0,15405,180,140,26,Pré-Pago,Ativo,25,1331325,Não Cancelou
+2,0,33,0,6420,84,176,22,Pré-Pago,Ativo,30,96416,Não Cancelou
+0,0,33,0,795,12,0,7,Pré-Pago,Inativo,25,36315,Não Cancelou
+1,0,34,0,630,12,3,4,Pré-Pago,Inativo,25,4239,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+2,0,33,0,7428,125,374,39,Pré-Pago,Ativo,25,2022885,Não Cancelou
+6,0,33,0,11385,152,1,43,Pré-Pago,Ativo,30,46548,Não Cancelou
+7,0,33,0,6638,73,98,33,Pré-Pago,Ativo,25,742995,Não Cancelou
+22,0,29,0,875,45,6,13,Pré-Pago,Inativo,25,684,Cancelou
+20,0,32,7,10355,91,0,38,Pré-Pago,Ativo,45,26115,Não Cancelou
+12,1,32,0,5738,96,16,20,Pré-Pago,Ativo,25,33453,Cancelou
+0,0,30,0,2760,20,0,10,Pré-Pago,Ativo,30,1112,Não Cancelou
+8,1,31,0,2910,39,0,12,Pré-Pago,Inativo,30,11796,Cancelou
+8,0,32,0,2188,42,24,27,Pré-Pago,Inativo,30,1852,Cancelou
+0,1,32,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,32,0,1588,23,0,2,Pré-Pago,Ativo,30,6444,Não Cancelou
+2,0,29,0,6705,95,4,18,Pré-Pago,Ativo,45,180,Não Cancelou
+0,0,32,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,32,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+24,0,27,2,15995,236,0,76,Pré-Pago,Ativo,25,730395,Não Cancelou
+5,0,30,2,6885,114,261,29,Contrato,Ativo,25,1489455,Não Cancelou
+1,0,32,0,3638,80,0,24,Pré-Pago,Ativo,25,16731,Não Cancelou
+2,0,31,0,1585,42,28,16,Pré-Pago,Inativo,30,17708,Não Cancelou
+5,0,32,0,2700,51,165,19,Pré-Pago,Ativo,25,866295,Não Cancelou
+3,0,23,0,1235,34,183,7,Contrato,Ativo,25,880605,Não Cancelou
+3,0,22,0,1488,37,20,64,Pré-Pago,Ativo,45,88125,Não Cancelou
+10,0,23,0,620,23,0,3,Pré-Pago,Inativo,25,28935,Não Cancelou
+0,0,22,0,0,0,11,0,Pré-Pago,Inativo,45,275,Não Cancelou
+9,0,21,0,1145,30,9,9,Pré-Pago,Ativo,25,93375,Não Cancelou
+1,0,21,0,3145,59,0,19,Pré-Pago,Ativo,30,12816,Não Cancelou
+1,0,14,0,1615,24,18,10,Pré-Pago,Ativo,25,154755,Não Cancelou
+15,0,13,0,6313,139,75,38,Contrato,Ativo,15,76736,Não Cancelou
+11,0,11,0,8853,169,63,36,Pré-Pago,Ativo,45,38305,Não Cancelou
+7,0,12,2,2773,43,21,15,Pré-Pago,Ativo,30,19664,Não Cancelou
+1,0,5,0,4310,38,205,6,Pré-Pago,Ativo,30,99392,Não Cancelou
+2,0,5,0,1408,17,0,3,Pré-Pago,Ativo,30,57,Cancelou
+13,0,44,1,4630,81,20,23,Pré-Pago,Ativo,30,26844,Não Cancelou
+5,0,45,0,578,15,22,10,Pré-Pago,Inativo,30,11172,Não Cancelou
+15,0,43,1,2713,70,374,30,Pré-Pago,Ativo,30,160732,Não Cancelou
+15,0,44,1,4458,76,16,41,Pré-Pago,Ativo,15,33737,Não Cancelou
+8,0,44,1,2653,68,17,39,Pré-Pago,Ativo,25,198945,Não Cancelou
+16,0,44,2,4035,92,47,34,Pré-Pago,Ativo,30,35308,Não Cancelou
+9,0,44,1,2620,49,300,24,Pré-Pago,Ativo,30,130676,Não Cancelou
+18,0,43,3,9375,131,159,49,Pré-Pago,Ativo,30,101624,Não Cancelou
+12,0,44,1,14033,179,15,50,Pré-Pago,Ativo,30,62848,Não Cancelou
+12,0,44,2,4775,93,17,31,Pré-Pago,Ativo,30,26272,Não Cancelou
+11,0,44,1,6178,105,22,18,Pré-Pago,Ativo,30,33932,Não Cancelou
+14,1,44,0,2498,64,23,23,Pré-Pago,Inativo,30,19448,Não Cancelou
+30,0,44,4,15400,235,69,38,Pré-Pago,Ativo,30,9014,Não Cancelou
+9,0,44,2,3355,37,498,14,Pré-Pago,Ativo,30,212768,Não Cancelou
+14,0,43,1,15745,192,165,36,Pré-Pago,Ativo,25,1459665,Não Cancelou
+8,0,43,2,6760,96,201,32,Pré-Pago,Ativo,30,107824,Não Cancelou
+5,0,43,0,1135,24,15,17,Pré-Pago,Inativo,25,119655,Não Cancelou
+7,0,44,0,970,24,28,14,Pré-Pago,Inativo,30,15176,Não Cancelou
+5,0,43,0,260,10,15,6,Pré-Pago,Inativo,25,7965,Cancelou
+8,0,43,1,7768,137,399,49,Pré-Pago,Ativo,30,19122,Não Cancelou
+12,0,43,2,11725,164,26,53,Pré-Pago,Ativo,45,362225,Não Cancelou
+13,0,43,2,6978,85,123,43,Pré-Pago,Ativo,25,871335,Não Cancelou
+28,1,39,0,1215,57,31,23,Pré-Pago,Inativo,30,17488,Cancelou
+26,0,42,9,10695,103,16,48,Contrato,Ativo,55,18597,Não Cancelou
+18,0,42,2,6078,108,41,30,Pré-Pago,Ativo,25,46287,Não Cancelou
+6,0,40,1,3100,32,15,20,Pré-Pago,Ativo,30,18528,Não Cancelou
+14,1,41,0,3250,51,24,22,Pré-Pago,Inativo,30,22804,Cancelou
+14,1,42,0,2528,54,49,37,Pré-Pago,Inativo,45,18705,Cancelou
+5,0,42,0,393,12,15,8,Pré-Pago,Inativo,30,762,Cancelou
+6,0,42,1,1928,35,15,12,Pré-Pago,Ativo,45,86575,Não Cancelou
+8,0,39,2,7045,107,29,28,Pré-Pago,Ativo,55,15078,Não Cancelou
+5,0,42,0,888,17,24,10,Pré-Pago,Inativo,45,82625,Cancelou
+5,0,42,2,598,14,19,8,Pré-Pago,Ativo,55,3768,Não Cancelou
+30,1,37,4,16335,248,15,86,Pré-Pago,Ativo,25,813735,Não Cancelou
+11,1,40,4,7225,126,286,39,Contrato,Ativo,30,143804,Não Cancelou
+7,0,42,1,3978,92,17,34,Pré-Pago,Ativo,30,2308,Não Cancelou
+8,0,41,0,1925,54,53,26,Pré-Pago,Inativo,30,29116,Não Cancelou
+11,0,42,1,3040,63,190,29,Pré-Pago,Ativo,25,994635,Não Cancelou
+9,0,33,2,1575,46,208,17,Contrato,Ativo,30,89684,Não Cancelou
+9,0,32,1,1828,49,45,74,Pré-Pago,Ativo,55,95655,Não Cancelou
+16,0,33,0,960,35,25,13,Pré-Pago,Inativo,30,1398,Não Cancelou
+5,0,32,0,1085,20,36,9,Pré-Pago,Inativo,45,117625,Não Cancelou
+15,0,31,1,1485,42,34,19,Pré-Pago,Ativo,25,221715,Não Cancelou
+7,0,31,1,3485,71,23,29,Pré-Pago,Ativo,30,23424,Não Cancelou
+7,0,24,1,1955,36,43,20,Pré-Pago,Ativo,30,25164,Não Cancelou
+21,0,23,2,6653,151,100,48,Contrato,Ativo,25,75618,Não Cancelou
+17,0,21,1,9193,181,88,46,Pré-Pago,Ativo,55,27261,Não Cancelou
+13,0,22,4,3113,55,46,25,Pré-Pago,Ativo,30,31072,Não Cancelou
+7,0,15,2,4650,50,230,16,Pré-Pago,Ativo,30,1108,Não Cancelou
+8,1,15,2,1748,29,15,13,Pré-Pago,Ativo,30,13108,Cancelou
+3,0,32,0,4110,61,0,11,Pré-Pago,Ativo,25,187695,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+5,0,31,0,2193,50,344,18,Pré-Pago,Ativo,25,1648935,Não Cancelou
+5,0,32,0,3938,56,0,29,Pré-Pago,Ativo,15,21967,Não Cancelou
+0,0,32,0,2133,48,0,27,Pré-Pago,Ativo,15,119955,Não Cancelou
+6,0,32,0,3515,72,17,22,Pré-Pago,Ativo,25,237915,Não Cancelou
+0,0,32,0,2100,29,270,12,Pré-Pago,Ativo,30,116516,Não Cancelou
+8,0,31,1,8855,111,129,37,Pré-Pago,Ativo,30,87464,Não Cancelou
+2,0,32,0,13513,159,0,38,Pré-Pago,Ativo,30,54688,Não Cancelou
+2,0,32,0,4255,73,0,19,Pré-Pago,Ativo,30,17312,Não Cancelou
+1,0,32,0,5658,85,0,6,Pré-Pago,Ativo,25,258435,Não Cancelou
+4,0,32,0,1978,44,0,11,Pré-Pago,Inativo,30,8088,Não Cancelou
+20,0,32,2,14880,215,39,26,Pré-Pago,Ativo,30,7598,Não Cancelou
+0,0,32,0,2835,17,468,2,Pré-Pago,Ativo,30,198608,Não Cancelou
+4,0,31,0,15225,172,135,24,Pré-Pago,Ativo,25,1300365,Não Cancelou
+0,0,31,0,6240,76,171,20,Pré-Pago,Ativo,30,93664,Não Cancelou
+0,0,31,0,615,4,0,5,Pré-Pago,Inativo,25,27855,Não Cancelou
+0,0,32,0,450,4,0,2,Pré-Pago,Inativo,25,2043,Não Cancelou
+0,0,31,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,31,0,7248,117,369,37,Pré-Pago,Ativo,25,1991925,Não Cancelou
+2,0,31,0,11205,144,0,41,Pré-Pago,Ativo,30,45396,Não Cancelou
+3,0,31,0,6458,65,93,31,Pré-Pago,Ativo,25,712035,Não Cancelou
+18,1,27,0,695,37,1,11,Pré-Pago,Inativo,25,3744,Cancelou
+16,0,30,7,10175,83,0,36,Pré-Pago,Ativo,45,25645,Não Cancelou
+8,1,30,0,5558,88,11,18,Pré-Pago,Ativo,25,30357,Cancelou
+0,0,28,0,2580,12,0,8,Pré-Pago,Ativo,30,10368,Não Cancelou
+4,0,29,0,2730,31,0,10,Pré-Pago,Inativo,25,124245,Cancelou
+4,1,30,0,2008,34,19,25,Pré-Pago,Inativo,30,15768,Cancelou
+0,0,30,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,30,0,0,0,0,0,Pré-Pago,Ativo,30,0,Não Cancelou
+0,0,27,0,6525,87,0,16,Pré-Pago,Ativo,45,1653,Não Cancelou
+0,1,30,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,1,30,0,0,0,0,0,Pré-Pago,Ativo,55,0,Cancelou
+20,0,25,2,15815,228,0,74,Pré-Pago,Ativo,25,721935,Não Cancelou
+1,0,28,2,6705,106,256,27,Contrato,Ativo,25,1458495,Não Cancelou
+0,0,30,0,3458,72,0,22,Pré-Pago,Ativo,25,15885,Não Cancelou
+0,0,29,0,1405,34,23,14,Pré-Pago,Inativo,30,14956,Não Cancelou
+1,0,30,0,2520,43,160,17,Pré-Pago,Ativo,25,835335,Não Cancelou
+0,0,21,0,1055,26,178,5,Contrato,Ativo,25,849645,Não Cancelou
+0,0,20,0,1308,29,15,62,Pré-Pago,Ativo,45,70925,Não Cancelou
+6,0,21,0,440,15,0,1,Pré-Pago,Inativo,25,20475,Não Cancelou
+0,0,20,0,0,0,6,0,Pré-Pago,Inativo,45,15,Não Cancelou
+5,0,19,0,965,22,4,7,Pré-Pago,Ativo,25,62415,Não Cancelou
+0,0,19,0,2965,51,0,17,Pré-Pago,Ativo,30,12064,Não Cancelou
+0,0,12,0,1435,16,13,8,Pré-Pago,Ativo,25,123795,Não Cancelou
+11,0,11,0,6133,131,70,36,Contrato,Ativo,15,72952,Não Cancelou
+7,0,9,0,8673,161,58,34,Pré-Pago,Ativo,45,36585,Não Cancelou
+3,0,10,2,2593,35,16,13,Pré-Pago,Ativo,30,16912,Não Cancelou
+0,0,3,0,4130,30,200,4,Pré-Pago,Ativo,30,9664,Não Cancelou
+0,1,3,0,1228,9,0,1,Pré-Pago,Ativo,25,55665,Cancelou
+10,0,41,0,4550,79,16,22,Pré-Pago,Ativo,30,24916,Não Cancelou
+2,0,42,0,498,13,18,9,Pré-Pago,Inativo,25,103995,Não Cancelou
+12,0,40,0,2633,68,370,29,Pré-Pago,Ativo,30,158804,Não Cancelou
+12,0,41,0,4378,74,12,40,Pré-Pago,Ativo,15,31086,Não Cancelou
+5,0,41,0,2573,66,13,38,Pré-Pago,Ativo,15,216645,Não Cancelou
+13,0,41,1,3955,90,43,33,Pré-Pago,Ativo,30,3338,Não Cancelou
+6,0,41,0,2540,47,296,23,Pré-Pago,Ativo,30,128748,Não Cancelou
+15,0,40,2,9295,129,155,48,Pré-Pago,Ativo,30,99696,Não Cancelou
+9,0,41,0,13953,177,11,49,Pré-Pago,Ativo,30,6092,Não Cancelou
+9,0,41,1,4695,91,13,30,Pré-Pago,Ativo,30,24344,Não Cancelou
+8,0,41,0,6098,103,18,17,Pré-Pago,Ativo,30,32004,Não Cancelou
+11,0,41,0,2418,62,19,22,Pré-Pago,Inativo,30,1752,Não Cancelou
+27,0,41,3,15320,233,65,37,Pré-Pago,Ativo,30,88212,Não Cancelou
+6,0,41,1,3275,35,494,13,Pré-Pago,Ativo,30,21084,Não Cancelou
+11,0,40,0,15665,190,161,35,Pré-Pago,Ativo,25,1437975,Não Cancelou
+5,0,40,1,6680,94,197,31,Pré-Pago,Ativo,30,105896,Não Cancelou
+2,0,40,0,1055,22,11,16,Pré-Pago,Inativo,25,97965,Não Cancelou
+4,0,41,0,890,22,24,13,Pré-Pago,Inativo,30,13248,Não Cancelou
+2,0,40,0,180,8,11,5,Pré-Pago,Inativo,25,5796,Cancelou
+5,0,40,0,7688,135,395,48,Pré-Pago,Ativo,25,2129535,Não Cancelou
+9,0,40,1,11645,162,22,52,Pré-Pago,Ativo,45,350175,Não Cancelou
+10,0,40,1,6898,83,119,42,Pré-Pago,Ativo,25,849645,Não Cancelou
+25,1,36,0,1135,55,27,22,Pré-Pago,Inativo,25,17505,Cancelou
+23,0,39,8,10615,101,12,47,Pré-Pago,Ativo,55,17874,Não Cancelou
+15,0,39,1,5998,106,37,29,Pré-Pago,Ativo,25,44118,Não Cancelou
+3,0,37,0,3020,30,11,19,Pré-Pago,Ativo,30,166,Não Cancelou
+11,1,38,0,3170,49,20,21,Pré-Pago,Inativo,30,20876,Cancelou
+11,1,39,0,2448,52,45,36,Pré-Pago,Inativo,30,280,Cancelou
+2,1,39,0,313,10,11,7,Pré-Pago,Inativo,30,5692,Cancelou
+3,0,39,0,1848,33,11,11,Pré-Pago,Ativo,30,11924,Não Cancelou
+5,0,36,1,6965,105,25,27,Pré-Pago,Ativo,55,14355,Não Cancelou
+2,0,39,0,808,15,20,9,Pré-Pago,Inativo,45,70575,Cancelou
+2,0,39,1,518,12,15,7,Pré-Pago,Ativo,55,3045,Não Cancelou
+27,1,34,3,16255,246,11,85,Pré-Pago,Ativo,25,792045,Não Cancelou
+8,0,37,3,7145,124,282,38,Contrato,Ativo,25,1596105,Não Cancelou
+4,0,39,0,3898,90,13,33,Pré-Pago,Ativo,25,23796,Não Cancelou
+5,0,38,0,1845,52,49,25,Pré-Pago,Inativo,30,27188,Não Cancelou
+8,0,39,0,2960,61,186,28,Pré-Pago,Ativo,25,972945,Não Cancelou
+6,1,30,1,1495,44,204,16,Contrato,Ativo,25,987255,Cancelou
+6,0,29,0,1748,47,41,73,Pré-Pago,Ativo,45,147375,Não Cancelou
+13,0,30,0,880,33,21,12,Pré-Pago,Inativo,25,135585,Não Cancelou
+2,0,29,0,1005,18,32,8,Pré-Pago,Inativo,45,105575,Não Cancelou
+12,0,28,0,1405,40,30,18,Pré-Pago,Ativo,25,200025,Não Cancelou
+4,0,28,0,3405,69,19,28,Pré-Pago,Ativo,30,21496,Não Cancelou
+4,0,21,0,1875,34,39,19,Pré-Pago,Ativo,25,261405,Não Cancelou
+18,0,20,1,6573,149,96,47,Contrato,Ativo,25,73449,Não Cancelou
+14,0,18,0,9113,179,84,45,Pré-Pago,Ativo,45,4423,Não Cancelou
+10,0,19,3,3033,53,42,24,Pré-Pago,Ativo,30,29144,Não Cancelou
+4,0,12,1,4570,48,226,15,Pré-Pago,Ativo,30,108872,Não Cancelou
+5,0,12,1,1668,27,11,12,Pré-Pago,Ativo,30,1118,Cancelou
+6,0,35,0,4190,63,0,12,Pré-Pago,Ativo,30,17012,Não Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+8,0,34,0,2273,52,348,19,Pré-Pago,Ativo,30,1485,Não Cancelou
+8,0,35,0,4018,58,0,30,Pré-Pago,Ativo,15,22418,Não Cancelou
+1,0,35,0,2213,50,0,28,Pré-Pago,Ativo,15,124465,Não Cancelou
+9,0,35,1,3595,74,21,23,Pré-Pago,Ativo,30,23076,Não Cancelou
+2,0,35,0,2180,31,274,13,Pré-Pago,Ativo,30,118444,Não Cancelou
+11,0,34,2,8935,113,133,38,Pré-Pago,Ativo,30,89392,Não Cancelou
+5,0,35,0,13593,161,0,39,Pré-Pago,Ativo,30,55016,Não Cancelou
+5,0,35,1,4335,75,0,20,Pré-Pago,Ativo,30,1764,Não Cancelou
+4,0,35,0,5738,87,0,7,Pré-Pago,Ativo,30,233,Não Cancelou
+7,0,35,0,2058,46,0,12,Pré-Pago,Inativo,30,8416,Não Cancelou
+23,0,35,3,14960,217,43,27,Pré-Pago,Ativo,30,77908,Não Cancelou
+2,0,35,1,2915,19,472,3,Pré-Pago,Ativo,30,200536,Não Cancelou
+7,0,34,0,15305,174,139,25,Pré-Pago,Ativo,25,1322055,Não Cancelou
+1,0,34,1,6320,78,175,21,Pré-Pago,Ativo,30,95592,Não Cancelou
+0,0,34,0,695,6,0,6,Pré-Pago,Inativo,25,31545,Não Cancelou
+0,0,35,0,530,6,2,3,Pré-Pago,Inativo,30,2944,Não Cancelou
+0,1,34,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+1,0,34,0,7328,119,373,38,Pré-Pago,Ativo,25,2013615,Não Cancelou
+5,0,34,1,11285,146,0,42,Pré-Pago,Ativo,45,285775,Não Cancelou
+6,0,34,1,6538,67,97,32,Pré-Pago,Ativo,25,733725,Não Cancelou
+21,1,30,0,775,39,5,12,Pré-Pago,Inativo,25,5913,Cancelou
+19,0,33,8,10255,85,0,37,Pré-Pago,Ativo,55,1551,Não Cancelou
+11,1,33,1,5638,90,15,19,Pré-Pago,Ativo,25,32526,Cancelou
+0,0,31,0,2660,14,0,9,Pré-Pago,Ativo,30,10696,Não Cancelou
+7,0,32,0,2810,33,0,11,Pré-Pago,Inativo,30,11372,Cancelou
+7,1,33,0,2088,36,23,26,Pré-Pago,Inativo,30,17696,Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,33,0,1488,17,0,1,Pré-Pago,Ativo,30,602,Não Cancelou
+1,0,30,1,6605,89,3,17,Pré-Pago,Ativo,55,10491,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+23,0,28,3,15895,230,0,75,Pré-Pago,Ativo,25,725625,Não Cancelou
+4,0,31,3,6785,108,260,28,Contrato,Ativo,25,1480185,Não Cancelou
+0,0,33,0,3538,74,0,23,Pré-Pago,Ativo,25,16254,Não Cancelou
+1,0,32,0,1485,36,27,15,Pré-Pago,Inativo,30,16884,Não Cancelou
+4,0,33,0,2600,45,164,18,Pré-Pago,Ativo,25,857025,Não Cancelou
+2,0,24,1,1135,28,182,6,Contrato,Ativo,25,871335,Não Cancelou
+2,0,23,0,1388,31,19,63,Pré-Pago,Ativo,45,82975,Não Cancelou
+9,0,24,0,520,17,0,2,Pré-Pago,Inativo,25,24165,Não Cancelou
+0,0,23,0,0,0,10,0,Pré-Pago,Inativo,45,25,Não Cancelou
+8,0,22,0,1045,24,8,8,Pré-Pago,Ativo,25,84105,Não Cancelou
+0,0,22,0,3045,53,0,18,Pré-Pago,Ativo,30,12392,Não Cancelou
+0,0,15,0,1515,18,17,9,Pré-Pago,Ativo,25,145485,Não Cancelou
+14,0,14,1,6213,133,74,37,Contrato,Ativo,25,61857,Não Cancelou
+10,0,12,0,8753,163,62,35,Pré-Pago,Ativo,45,3779,Não Cancelou
+6,0,13,3,2673,37,20,14,Pré-Pago,Ativo,30,1884,Não Cancelou
+0,0,6,1,4210,32,204,5,Pré-Pago,Ativo,30,98568,Não Cancelou
+1,0,6,1,1308,11,0,2,Pré-Pago,Ativo,30,5276,Cancelou
+12,0,38,2,4970,81,26,32,Pré-Pago,Ativo,30,30604,Não Cancelou
+4,0,39,0,918,15,28,19,Pré-Pago,Inativo,30,14932,Não Cancelou
+14,0,37,2,3053,70,380,39,Pré-Pago,Ativo,30,164492,Não Cancelou
+14,0,38,2,4798,76,22,50,Pré-Pago,Ativo,15,38907,Não Cancelou
+7,0,38,2,2993,68,23,48,Pré-Pago,Ativo,25,241245,Não Cancelou
+15,0,38,3,4375,92,53,43,Pré-Pago,Ativo,30,39068,Não Cancelou
+8,0,38,2,2960,49,306,33,Pré-Pago,Ativo,30,134436,Não Cancelou
+17,0,37,4,9715,131,165,58,Contrato,Ativo,30,105384,Não Cancelou
+11,0,38,2,14373,179,21,59,Pré-Pago,Ativo,30,66608,Não Cancelou
+11,0,38,3,5115,93,23,40,Pré-Pago,Ativo,30,30032,Não Cancelou
+10,0,38,2,6518,105,28,27,Pré-Pago,Ativo,30,37692,Não Cancelou
+13,0,38,0,2838,64,29,32,Pré-Pago,Inativo,30,23208,Não Cancelou
+29,0,38,5,15740,235,75,47,Pré-Pago,Ativo,30,939,Não Cancelou
+8,0,38,3,3695,37,504,23,Pré-Pago,Ativo,30,216528,Não Cancelou
+13,0,37,2,16085,192,171,45,Pré-Pago,Ativo,25,1501965,Não Cancelou
+7,0,37,3,7100,96,207,41,Pré-Pago,Ativo,30,111584,Não Cancelou
+4,0,37,0,1475,24,21,26,Pré-Pago,Inativo,25,161955,Não Cancelou
+6,0,38,0,1310,24,34,23,Pré-Pago,Inativo,30,18936,Não Cancelou
+4,0,37,0,600,10,21,15,Pré-Pago,Inativo,25,12195,Cancelou
+7,0,37,2,8108,137,405,58,Pré-Pago,Ativo,30,19498,Não Cancelou
+11,0,37,3,12065,164,32,62,Pré-Pago,Ativo,45,385725,Não Cancelou
+12,0,37,3,7318,85,129,52,Pré-Pago,Ativo,25,913635,Não Cancelou
+27,1,33,0,1555,57,37,32,Pré-Pago,Inativo,30,21248,Cancelou
+25,0,36,10,11035,103,22,57,Contrato,Ativo,55,20007,Não Cancelou
+17,0,36,3,6418,108,47,39,Pré-Pago,Ativo,25,50517,Não Cancelou
+5,0,34,2,3440,32,21,29,Pré-Pago,Ativo,30,22288,Não Cancelou
+13,1,35,0,3590,51,30,31,Pré-Pago,Inativo,30,26564,Cancelou
+13,1,36,0,2868,54,55,46,Pré-Pago,Inativo,30,33688,Cancelou
+4,0,36,0,733,12,21,17,Pré-Pago,Inativo,30,1138,Cancelou
+5,0,36,2,2268,35,21,21,Pré-Pago,Ativo,45,110075,Não Cancelou
+7,0,33,3,7385,107,35,37,Pré-Pago,Ativo,55,16488,Não Cancelou
+4,0,36,0,1228,17,30,19,Pré-Pago,Inativo,45,106125,Cancelou
+4,0,36,3,938,14,25,17,Pré-Pago,Ativo,55,5178,Não Cancelou
+29,0,31,5,16675,248,21,95,Pré-Pago,Ativo,25,856035,Não Cancelou
+10,0,34,5,7565,126,292,48,Contrato,Ativo,25,1660095,Não Cancelou
+6,0,36,2,4318,92,23,43,Pré-Pago,Ativo,30,2684,Não Cancelou
+7,1,35,0,2265,54,59,35,Pré-Pago,Inativo,30,32876,Cancelou
+10,0,36,2,3380,63,196,38,Pré-Pago,Ativo,25,1036935,Não Cancelou
+8,0,27,3,1915,46,214,26,Contrato,Ativo,25,1051245,Não Cancelou
+8,0,26,2,2168,49,51,83,Pré-Pago,Ativo,45,182925,Não Cancelou
+15,0,27,0,1300,35,31,22,Pré-Pago,Inativo,30,1774,Não Cancelou
+4,0,26,0,1425,20,42,18,Pré-Pago,Inativo,45,141125,Não Cancelou
+14,0,25,2,1825,42,40,28,Pré-Pago,Ativo,25,264015,Não Cancelou
+6,0,25,2,3825,71,29,38,Pré-Pago,Ativo,30,27184,Não Cancelou
+6,0,18,2,2295,36,49,29,Pré-Pago,Ativo,25,325395,Não Cancelou
+20,0,17,3,6993,151,106,57,Contrato,Ativo,25,79848,Não Cancelou
+16,0,15,2,9533,181,94,55,Pré-Pago,Ativo,55,28671,Não Cancelou
+12,0,16,5,3453,55,52,34,Pré-Pago,Ativo,30,34832,Não Cancelou
+6,0,9,3,4990,50,236,25,Pré-Pago,Ativo,30,11456,Não Cancelou
+7,1,9,3,2088,29,21,22,Pré-Pago,Ativo,30,16868,Cancelou
+4,0,38,0,3770,61,0,2,Pré-Pago,Ativo,25,172395,Não Cancelou
+0,0,39,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+6,0,37,0,1853,50,338,9,Pré-Pago,Ativo,25,1606635,Não Cancelou
+6,0,38,0,3598,56,0,20,Pré-Pago,Ativo,15,20097,Não Cancelou
+0,0,38,0,1793,48,0,18,Pré-Pago,Ativo,15,101255,Não Cancelou
+7,0,38,0,3175,72,11,13,Pré-Pago,Ativo,30,17388,Não Cancelou
+0,0,38,0,1760,29,264,3,Pré-Pago,Ativo,30,112756,Não Cancelou
+9,0,37,0,8515,111,123,28,Pré-Pago,Ativo,30,83704,Não Cancelou
+3,0,38,0,13173,159,0,29,Pré-Pago,Ativo,30,53328,Não Cancelou
+3,0,38,0,3915,73,0,10,Pré-Pago,Ativo,30,15952,Não Cancelou
+2,0,38,0,5318,85,0,15,Pré-Pago,Ativo,25,243135,Não Cancelou
+5,0,38,0,1638,44,0,2,Pré-Pago,Inativo,30,6728,Não Cancelou
+21,0,38,1,14540,215,33,17,Pré-Pago,Ativo,30,7222,Não Cancelou
+0,0,38,0,2495,17,462,7,Pré-Pago,Ativo,30,194848,Não Cancelou
+5,0,37,0,14885,172,129,15,Pré-Pago,Ativo,25,1258065,Não Cancelou
+0,0,37,0,5900,76,165,11,Pré-Pago,Ativo,30,89904,Não Cancelou
+0,0,37,0,275,4,0,1,Pré-Pago,Inativo,25,12555,Não Cancelou
+0,0,38,0,110,4,0,1,Pré-Pago,Inativo,25,513,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,37,0,6908,117,363,28,Pré-Pago,Ativo,25,1949625,Não Cancelou
+3,0,37,0,10865,144,0,32,Pré-Pago,Ativo,30,44036,Não Cancelou
+4,0,37,0,6118,65,87,22,Pré-Pago,Ativo,25,669735,Não Cancelou
+19,0,33,0,355,37,0,2,Pré-Pago,Inativo,25,1764,Cancelou
+17,0,36,6,9835,83,0,27,Pré-Pago,Ativo,45,24795,Não Cancelou
+9,1,36,0,5218,88,5,9,Pré-Pago,Ativo,25,26127,Cancelou
+0,0,34,0,2240,12,0,4,Pré-Pago,Ativo,30,9008,Não Cancelou
+5,0,35,0,2390,31,0,1,Pré-Pago,Inativo,30,9684,Cancelou
+5,0,36,0,1668,34,13,16,Pré-Pago,Inativo,30,12008,Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,36,0,1068,15,0,3,Pré-Pago,Ativo,30,4332,Não Cancelou
+0,0,33,0,6185,87,0,7,Pré-Pago,Ativo,45,1568,Não Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+21,0,31,1,15475,228,0,65,Pré-Pago,Ativo,25,706635,Não Cancelou
+2,0,34,1,6365,106,250,18,Contrato,Ativo,25,1416195,Não Cancelou
+0,0,36,0,3118,72,0,13,Pré-Pago,Ativo,25,14355,Não Cancelou
+0,0,35,0,1065,34,17,5,Pré-Pago,Inativo,30,11196,Não Cancelou
+2,0,36,0,2180,43,154,8,Pré-Pago,Ativo,25,793035,Não Cancelou
+0,0,27,0,715,26,172,1,Contrato,Ativo,25,807345,Não Cancelou
+0,0,26,0,968,29,9,53,Pré-Pago,Ativo,45,47425,Não Cancelou
+7,0,27,0,100,15,0,3,Pré-Pago,Inativo,25,5175,Não Cancelou
+0,0,26,0,0,0,0,0,Pré-Pago,Inativo,45,0,Não Cancelou
+6,0,25,0,625,22,0,2,Pré-Pago,Ativo,25,29115,Não Cancelou
+0,0,25,0,2625,51,0,8,Pré-Pago,Ativo,30,10704,Não Cancelou
+0,0,18,0,1095,16,7,6,Pré-Pago,Ativo,25,81495,Não Cancelou
+12,0,17,0,5793,131,64,27,Contrato,Ativo,15,67782,Não Cancelou
+8,0,15,0,8333,161,52,25,Pré-Pago,Ativo,45,34235,Não Cancelou
+4,0,16,1,2253,35,10,4,Pré-Pago,Ativo,30,13152,Não Cancelou
+0,0,9,0,3790,30,194,23,Pré-Pago,Ativo,30,9288,Não Cancelou
+0,1,9,0,888,9,0,3,Pré-Pago,Ativo,30,3588,Cancelou
+8,0,39,1,4485,77,37,21,Pré-Pago,Ativo,30,33048,Não Cancelou
+0,0,40,0,433,11,39,8,Pré-Pago,Inativo,30,17376,Não Cancelou
+10,0,38,1,2568,66,391,28,Pré-Pago,Ativo,30,166936,Não Cancelou
+10,0,39,1,4313,72,33,39,Pré-Pago,Ativo,15,422675,Não Cancelou
+3,0,39,1,2508,64,34,37,Pré-Pago,Ativo,25,26874,Não Cancelou
+11,0,39,2,3890,88,64,32,Pré-Pago,Ativo,30,41512,Não Cancelou
+4,0,39,1,2475,45,317,22,Pré-Pago,Ativo,45,8555,Não Cancelou
+13,0,38,3,9230,127,176,47,Pré-Pago,Ativo,30,107828,Não Cancelou
+7,0,39,1,13888,175,32,48,Pré-Pago,Ativo,30,69052,Não Cancelou
+7,0,39,2,4630,89,34,29,Pré-Pago,Ativo,30,32476,Não Cancelou
+6,0,39,1,6033,101,39,16,Pré-Pago,Ativo,30,40136,Não Cancelou
+9,1,39,0,2353,60,40,21,Pré-Pago,Inativo,30,25652,Não Cancelou
+25,0,39,4,15255,231,86,36,Pré-Pago,Ativo,30,96344,Não Cancelou
+4,0,39,2,3210,33,515,12,Pré-Pago,Ativo,45,1368575,Não Cancelou
+9,0,38,1,15600,188,182,34,Pré-Pago,Ativo,25,152946,Não Cancelou
+3,0,38,2,6615,92,218,30,Pré-Pago,Ativo,30,114028,Não Cancelou
+0,0,38,0,990,20,32,15,Pré-Pago,Inativo,25,18945,Não Cancelou
+2,0,39,0,825,20,45,12,Pré-Pago,Inativo,30,2138,Não Cancelou
+0,0,38,0,115,6,32,4,Pré-Pago,Inativo,25,149445,Cancelou
+3,0,38,1,7623,133,416,47,Pré-Pago,Ativo,30,197424,Não Cancelou
+7,0,38,2,11580,160,43,51,Pré-Pago,Ativo,45,401,Não Cancelou
+8,0,38,2,6833,81,140,41,Pré-Pago,Ativo,25,94113,Não Cancelou
+23,1,34,0,1070,53,48,21,Pré-Pago,Inativo,30,23692,Cancelou
+21,0,37,9,10550,99,33,46,Pré-Pago,Ativo,55,209235,Não Cancelou
+13,0,37,2,5933,104,58,28,Pré-Pago,Ativo,30,47348,Não Cancelou
+1,0,35,1,2955,28,32,18,Pré-Pago,Ativo,30,24732,Não Cancelou
+9,1,36,0,3105,47,41,20,Pré-Pago,Inativo,30,29008,Cancelou
+9,0,37,0,2383,50,66,35,Pré-Pago,Inativo,45,225825,Cancelou
+0,0,37,0,248,8,32,6,Pré-Pago,Inativo,30,13824,Cancelou
+1,0,37,1,1783,31,32,10,Pré-Pago,Ativo,45,12535,Não Cancelou
+3,0,34,2,6900,103,46,26,Pré-Pago,Ativo,55,174045,Não Cancelou
+0,0,37,0,743,13,41,8,Pré-Pago,Inativo,45,1214,Cancelou
+0,0,37,2,453,10,36,6,Pré-Pago,Ativo,55,60945,Não Cancelou
+25,0,32,4,16190,244,32,84,Contrato,Ativo,25,88353,Não Cancelou
+6,0,35,4,7080,122,303,37,Contrato,Ativo,30,150008,Não Cancelou
+2,0,37,1,3833,88,34,32,Pré-Pago,Ativo,30,29284,Não Cancelou
+3,0,36,0,1780,50,70,24,Pré-Pago,Inativo,45,22075,Não Cancelou
+6,0,37,1,2895,59,207,27,Pré-Pago,Ativo,25,106443,Não Cancelou
+4,0,28,2,1430,42,225,15,Contrato,Ativo,30,95888,Não Cancelou
+4,0,27,1,1683,45,62,72,Pré-Pago,Ativo,55,11892,Não Cancelou
+11,0,28,0,815,31,42,11,Pré-Pago,Inativo,30,20184,Não Cancelou
+0,0,27,0,940,16,53,7,Pré-Pago,Inativo,45,1564,Não Cancelou
+10,0,26,1,1340,38,51,17,Pré-Pago,Ativo,25,29151,Não Cancelou
+2,0,26,1,3340,67,40,27,Pré-Pago,Ativo,30,29628,Não Cancelou
+2,0,19,1,1810,32,60,18,Pré-Pago,Ativo,30,31368,Não Cancelou
+16,0,18,2,6508,147,117,46,Contrato,Ativo,25,825975,Não Cancelou
+12,0,16,1,9048,177,105,44,Pré-Pago,Ativo,55,295875,Não Cancelou
+8,0,17,4,2968,51,63,23,Contrato,Ativo,30,37276,Não Cancelou
+2,0,10,2,4505,46,247,14,Pré-Pago,Ativo,30,117004,Não Cancelou
+3,0,10,2,1603,25,32,11,Pré-Pago,Ativo,30,19312,Cancelou
+8,0,37,0,4255,65,0,13,Pré-Pago,Ativo,25,1944,Não Cancelou
+0,0,38,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+10,0,36,0,2338,54,327,20,Pré-Pago,Ativo,25,157914,Não Cancelou
+10,0,37,0,4083,60,0,31,Pré-Pago,Ativo,15,227865,Não Cancelou
+3,0,37,0,2278,52,0,29,Pré-Pago,Ativo,15,12815,Não Cancelou
+11,0,37,0,3660,76,0,24,Pré-Pago,Ativo,25,16812,Não Cancelou
+4,0,37,0,2245,33,253,14,Pré-Pago,Ativo,30,110312,Não Cancelou
+13,0,36,1,9000,115,112,39,Pré-Pago,Ativo,30,8126,Não Cancelou
+7,0,37,0,13658,163,0,40,Pré-Pago,Ativo,30,55284,Não Cancelou
+7,0,37,0,4400,77,0,21,Pré-Pago,Ativo,30,17908,Não Cancelou
+6,0,37,0,5803,89,0,8,Pré-Pago,Ativo,25,26514,Não Cancelou
+9,0,37,0,2123,48,0,13,Pré-Pago,Inativo,30,8684,Não Cancelou
+25,0,37,2,15025,219,22,28,Pré-Pago,Ativo,30,69776,Não Cancelou
+4,0,37,0,2980,21,451,4,Pré-Pago,Ativo,30,192404,Não Cancelou
+9,0,36,0,15370,176,118,26,Pré-Pago,Ativo,25,123057,Não Cancelou
+3,0,36,0,6385,80,154,22,Pré-Pago,Ativo,30,8746,Não Cancelou
+0,0,36,0,760,8,0,7,Pré-Pago,Inativo,25,3456,Não Cancelou
+2,0,37,0,595,8,0,4,Pré-Pago,Inativo,25,27135,Não Cancelou
+0,1,36,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+3,0,36,0,7393,121,352,39,Pré-Pago,Ativo,25,192213,Não Cancelou
+7,0,36,0,11350,148,0,43,Pré-Pago,Ativo,30,45992,Não Cancelou
+8,0,36,0,6603,69,76,33,Pré-Pago,Ativo,25,64224,Não Cancelou
+23,0,32,0,840,41,0,13,Pré-Pago,Inativo,25,39645,Cancelou
+21,0,35,7,10320,87,0,38,Contrato,Ativo,45,260175,Não Cancelou
+13,1,35,0,5703,92,0,20,Pré-Pago,Ativo,25,260775,Cancelou
+1,0,33,0,2725,16,0,10,Pré-Pago,Ativo,30,10964,Não Cancelou
+9,1,34,0,2875,35,0,12,Pré-Pago,Inativo,25,13095,Cancelou
+9,0,35,0,2153,38,2,27,Pré-Pago,Inativo,30,9564,Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+1,0,35,0,1553,19,0,2,Pré-Pago,Ativo,30,6288,Não Cancelou
+3,0,32,0,6670,91,0,18,Pré-Pago,Ativo,45,169025,Não Cancelou
+0,0,35,0,513,1,0,3,Pré-Pago,Inativo,45,1285,Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Ativo,45,0,Não Cancelou
+25,0,30,2,15960,232,0,76,Pré-Pago,Ativo,25,72864,Não Cancelou
+6,0,33,2,6850,110,239,29,Contrato,Ativo,25,13887,Não Cancelou
+2,0,35,0,3603,76,0,24,Pré-Pago,Ativo,25,165555,Não Cancelou
+3,0,34,0,1550,38,6,16,Pré-Pago,Inativo,30,8752,Não Cancelou
+6,0,35,0,2665,47,143,19,Pré-Pago,Ativo,25,76554,Não Cancelou
+4,0,26,0,1200,30,161,7,Contrato,Ativo,25,77985,Não Cancelou
+4,0,25,0,1453,33,0,64,Pré-Pago,Ativo,45,3715,Não Cancelou
+11,0,26,0,585,19,0,3,Pré-Pago,Inativo,25,2718,Não Cancelou
+0,0,25,0,710,4,0,1,Pré-Pago,Inativo,45,1785,Não Cancelou
+10,0,24,0,1110,26,0,9,Pré-Pago,Ativo,25,5112,Não Cancelou
+2,0,24,0,3110,55,0,19,Pré-Pago,Ativo,30,1266,Não Cancelou
+2,0,17,0,1580,20,0,10,Pré-Pago,Ativo,25,72,Não Cancelou
+16,0,16,0,6278,135,53,38,Contrato,Ativo,15,644215,Não Cancelou
+12,0,14,0,8818,165,41,36,Pré-Pago,Ativo,45,327075,Não Cancelou
+8,0,15,2,2738,39,0,15,Pré-Pago,Ativo,30,11108,Não Cancelou
+2,0,8,0,4275,34,183,6,Pré-Pago,Ativo,30,90436,Não Cancelou
+3,1,8,0,1373,13,0,3,Pré-Pago,Ativo,25,6237,Cancelou
+10,0,38,0,4560,72,14,20,Pré-Pago,Ativo,30,24128,Não Cancelou
+2,0,39,0,508,6,16,7,Pré-Pago,Inativo,25,9513,Não Cancelou
+12,0,37,0,2643,61,368,27,Pré-Pago,Ativo,30,158016,Não Cancelou
+12,0,38,0,4388,67,10,38,Pré-Pago,Ativo,15,300025,Não Cancelou
+5,0,38,0,2583,59,11,36,Pré-Pago,Ativo,15,20581,Não Cancelou
+13,0,38,1,3965,83,41,31,Pré-Pago,Ativo,30,32592,Não Cancelou
+6,0,38,0,2550,40,294,21,Pré-Pago,Ativo,30,12796,Não Cancelou
+15,0,37,2,9305,122,153,46,Pré-Pago,Ativo,30,98908,Não Cancelou
+9,0,38,0,13963,170,9,47,Pré-Pago,Ativo,30,60132,Não Cancelou
+9,0,38,1,4705,84,11,28,Pré-Pago,Ativo,30,23556,Não Cancelou
+8,0,38,0,6108,96,16,15,Pré-Pago,Ativo,30,31216,Não Cancelou
+11,1,38,0,2428,55,17,20,Pré-Pago,Inativo,30,16732,Não Cancelou
+27,0,38,3,15330,226,63,35,Pré-Pago,Ativo,30,87424,Não Cancelou
+6,0,38,1,3285,28,492,11,Pré-Pago,Ativo,30,210052,Não Cancelou
+11,0,37,0,15675,183,159,33,Pré-Pago,Ativo,25,142911,Não Cancelou
+5,0,37,1,6690,87,195,29,Pré-Pago,Ativo,30,105108,Não Cancelou
+2,0,37,0,1065,15,9,14,Pré-Pago,Inativo,25,891,Não Cancelou
+4,0,38,0,900,15,22,11,Pré-Pago,Inativo,30,1246,Não Cancelou
+2,0,37,0,190,1,9,3,Pré-Pago,Inativo,25,49095,Cancelou
+5,0,37,0,7698,128,393,46,Pré-Pago,Ativo,25,212067,Não Cancelou
+9,0,37,1,11655,155,20,50,Pré-Pago,Ativo,45,34525,Não Cancelou
+10,0,37,1,6908,76,117,40,Pré-Pago,Ativo,25,84078,Não Cancelou
+25,1,33,0,1145,48,25,20,Pré-Pago,Inativo,25,166185,Cancelou
+23,0,36,8,10625,94,10,45,Pré-Pago,Ativo,55,175785,Não Cancelou
+15,0,36,1,6008,99,35,27,Pré-Pago,Ativo,25,432315,Cancelou
+3,0,34,0,3030,23,9,17,Pré-Pago,Ativo,30,15812,Não Cancelou
+11,1,35,0,3180,42,18,19,Pré-Pago,Inativo,30,20088,Cancelou
+11,1,36,0,2458,45,43,34,Pré-Pago,Inativo,30,27212,Cancelou
+2,0,36,0,323,3,9,5,Pré-Pago,Inativo,30,4904,Cancelou
+3,0,36,0,1858,26,9,9,Pré-Pago,Ativo,30,11136,Não Cancelou
+5,0,33,1,6975,98,23,25,Pré-Pago,Ativo,55,140595,Não Cancelou
+2,0,36,0,818,8,18,7,Pré-Pago,Inativo,45,6565,Cancelou
+2,0,36,1,528,5,13,5,Pré-Pago,Ativo,55,27495,Não Cancelou
+27,0,31,3,16265,239,9,83,Pré-Pago,Ativo,25,78318,Não Cancelou
+8,0,34,3,7155,117,280,36,Contrato,Ativo,25,158724,Não Cancelou
+4,0,36,0,3908,83,11,31,Pré-Pago,Ativo,25,229095,Não Cancelou
+5,0,35,0,1855,45,47,23,Pré-Pago,Inativo,30,264,Não Cancelou
+8,0,36,0,2970,54,184,26,Pré-Pago,Ativo,25,96408,Não Cancelou
+6,1,27,1,1505,37,202,14,Contrato,Ativo,25,97839,Cancelou
+6,0,26,0,1758,40,39,71,Pré-Pago,Ativo,45,14245,Não Cancelou
+13,0,27,0,890,26,19,10,Pré-Pago,Inativo,25,12672,Não Cancelou
+2,0,26,0,1015,11,30,6,Pré-Pago,Inativo,45,10065,Não Cancelou
+12,0,25,0,1415,33,28,16,Pré-Pago,Ativo,25,19116,Não Cancelou
+4,0,25,0,3415,62,17,26,Pré-Pago,Ativo,30,20708,Não Cancelou
+4,0,18,0,1885,27,37,17,Pré-Pago,Ativo,25,25254,Não Cancelou
+18,0,17,1,6582,142,94,45,Contrato,Ativo,25,72558,Não Cancelou
+14,0,15,0,9122,172,82,43,Pré-Pago,Ativo,45,43735,Não Cancelou
+10,0,16,3,3042,46,40,22,Pré-Pago,Ativo,30,28352,Não Cancelou
+4,0,9,1,4580,41,224,13,Pré-Pago,Ativo,30,108084,Não Cancelou
+5,0,9,1,1677,20,9,10,Pré-Pago,Ativo,30,10388,Cancelou
+6,0,38,0,4180,70,0,14,Pré-Pago,Ativo,30,170,Não Cancelou
+0,0,39,0,128,4,0,1,Pré-Pago,Inativo,25,594,Não Cancelou
+8,0,37,0,2263,59,350,21,Pré-Pago,Ativo,30,149288,Não Cancelou
+8,0,38,0,4008,65,0,32,Pré-Pago,Ativo,15,224015,Não Cancelou
+1,0,38,0,2203,57,0,30,Pré-Pago,Ativo,15,1243,Não Cancelou
+9,0,38,1,3585,81,23,25,Pré-Pago,Ativo,30,23864,Não Cancelou
+2,0,38,0,2170,38,276,15,Pré-Pago,Ativo,30,119232,Não Cancelou
+11,0,37,2,8925,120,135,40,Pré-Pago,Ativo,30,9018,Não Cancelou
+5,0,38,0,13583,168,0,41,Pré-Pago,Ativo,30,55004,Não Cancelou
+5,0,38,1,4325,82,0,22,Pré-Pago,Ativo,30,17628,Não Cancelou
+4,0,38,0,5728,94,0,9,Pré-Pago,Ativo,30,23288,Não Cancelou
+7,0,38,0,2048,53,0,14,Pré-Pago,Inativo,30,8404,Não Cancelou
+23,0,38,3,14950,224,45,29,Pré-Pago,Ativo,30,78696,Não Cancelou
+2,0,38,1,2905,26,474,5,Pré-Pago,Ativo,30,201324,Não Cancelou
+7,0,37,0,15295,181,141,27,Pré-Pago,Ativo,25,133092,Não Cancelou
+1,0,37,1,6310,85,177,23,Pré-Pago,Ativo,30,9638,Não Cancelou
+0,0,37,0,685,13,0,8,Pré-Pago,Inativo,25,3141,Não Cancelou
+0,0,38,0,520,13,4,5,Pré-Pago,Inativo,30,3732,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+1,0,37,0,7318,126,375,40,Pré-Pago,Ativo,25,202248,Não Cancelou
+5,0,37,1,11275,153,2,44,Pré-Pago,Ativo,45,2907,Não Cancelou
+6,0,37,1,6528,74,99,34,Pré-Pago,Ativo,25,74259,Não Cancelou
+21,0,33,0,765,46,7,14,Pré-Pago,Inativo,25,67995,Cancelou
+19,0,36,8,10245,92,0,39,Contrato,Ativo,55,155055,Não Cancelou
+11,0,36,1,5628,97,17,21,Pré-Pago,Ativo,25,334125,Cancelou
+0,0,34,0,2650,21,0,11,Pré-Pago,Ativo,30,10684,Não Cancelou
+7,1,35,0,2800,40,0,13,Pré-Pago,Inativo,30,1136,Cancelou
+7,0,36,0,2078,43,25,28,Pré-Pago,Inativo,30,18484,Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,36,0,1478,24,0,3,Pré-Pago,Ativo,30,6008,Não Cancelou
+1,0,33,1,6595,96,5,19,Pré-Pago,Ativo,55,107865,Não Cancelou
+0,0,36,0,438,6,0,1,Pré-Pago,Inativo,45,111,Cancelou
+0,0,36,1,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+23,0,31,3,15885,237,0,77,Pré-Pago,Ativo,25,72549,Não Cancelou
+4,0,34,3,6775,115,262,30,Contrato,Ativo,25,148905,Não Cancelou
+0,0,36,0,3528,81,0,25,Pré-Pago,Ativo,25,162405,Não Cancelou
+1,0,35,0,1475,43,29,17,Pré-Pago,Inativo,30,17672,Não Cancelou
+4,0,36,0,2590,52,166,20,Pré-Pago,Ativo,25,86589,Não Cancelou
+2,0,27,1,1125,35,184,8,Contrato,Ativo,25,8802,Não Cancelou
+2,0,26,0,1378,38,21,65,Pré-Pago,Ativo,45,879,Não Cancelou
+9,0,27,0,510,24,1,4,Pré-Pago,Inativo,25,2853,Não Cancelou
+0,0,26,0,635,9,12,1,Pré-Pago,Inativo,45,461,Não Cancelou
+8,0,25,0,1035,31,10,10,Pré-Pago,Ativo,25,9297,Não Cancelou
+0,0,25,0,3035,60,0,20,Pré-Pago,Ativo,30,1238,Não Cancelou
+0,0,18,0,1505,25,19,11,Pré-Pago,Ativo,25,15435,Não Cancelou
+14,0,17,1,6202,140,76,39,Contrato,Ativo,25,62739,Não Cancelou
+10,0,15,0,8742,170,64,37,Pré-Pago,Ativo,45,3828,Não Cancelou
+6,0,16,3,2662,44,22,16,Pré-Pago,Ativo,30,19624,Não Cancelou
+0,0,9,1,4200,39,206,7,Pré-Pago,Ativo,30,99356,Não Cancelou
+1,0,9,1,1297,18,0,4,Pré-Pago,Ativo,30,526,Cancelou
+6,0,33,0,4370,65,0,16,Pré-Pago,Ativo,25,199575,Não Cancelou
+0,0,34,0,318,4,0,3,Pré-Pago,Inativo,25,1449,Não Cancelou
+8,0,32,0,2453,54,351,23,Pré-Pago,Ativo,25,1692315,Não Cancelou
+8,0,33,0,4198,60,0,34,Pré-Pago,Ativo,15,23419,Não Cancelou
+1,0,33,0,2393,52,0,32,Pré-Pago,Ativo,15,134475,Não Cancelou
+9,0,33,0,3775,76,24,27,Pré-Pago,Ativo,25,281295,Não Cancelou
+2,0,33,0,2360,33,277,17,Pré-Pago,Ativo,30,120372,Não Cancelou
+11,0,32,1,9115,115,136,42,Pré-Pago,Ativo,30,9132,Não Cancelou
+5,0,33,0,13773,163,0,43,Pré-Pago,Ativo,30,55744,Não Cancelou
+5,0,33,0,4515,77,0,24,Pré-Pago,Ativo,30,18368,Não Cancelou
+4,0,33,0,5918,89,0,11,Pré-Pago,Ativo,25,270315,Não Cancelou
+7,1,33,0,2238,48,0,16,Pré-Pago,Inativo,30,9144,Não Cancelou
+23,0,33,2,15140,219,46,31,Pré-Pago,Ativo,30,79836,Não Cancelou
+2,0,33,0,3095,21,475,7,Pré-Pago,Ativo,30,202464,Não Cancelou
+7,0,32,0,15485,176,142,29,Pré-Pago,Ativo,25,1343745,Não Cancelou
+1,0,32,0,6500,80,178,25,Pré-Pago,Ativo,30,9752,Não Cancelou
+0,0,32,0,875,8,0,10,Pré-Pago,Inativo,25,39735,Não Cancelou
+0,0,33,0,710,8,5,7,Pré-Pago,Inativo,25,5481,Não Cancelou
+0,0,32,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+1,0,32,0,7508,121,376,42,Pré-Pago,Ativo,25,2035305,Não Cancelou
+5,0,32,0,11465,148,3,46,Pré-Pago,Ativo,30,47652,Não Cancelou
+6,0,32,0,6718,69,100,36,Pré-Pago,Ativo,25,755415,Não Cancelou
+21,1,28,0,955,41,8,16,Pré-Pago,Inativo,25,8082,Cancelou
+19,0,31,7,10435,87,0,41,Pré-Pago,Ativo,45,26305,Não Cancelou
+11,0,31,0,5818,92,18,23,Pré-Pago,Ativo,25,34695,Cancelou
+0,0,29,0,2840,16,0,13,Pré-Pago,Ativo,30,11424,Não Cancelou
+7,1,30,0,2990,35,1,15,Pré-Pago,Inativo,25,140625,Cancelou
+7,1,31,0,2268,38,26,30,Pré-Pago,Inativo,30,19624,Cancelou
+0,1,31,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,31,0,1668,19,0,5,Pré-Pago,Ativo,30,6748,Não Cancelou
+1,0,28,0,6785,91,6,21,Pré-Pago,Ativo,45,1869,Não Cancelou
+0,0,31,0,628,1,1,3,Pré-Pago,Inativo,45,18225,Cancelou
+0,0,31,0,338,5,0,1,Pré-Pago,Ativo,45,8575,Não Cancelou
+23,0,26,2,16075,232,0,79,Pré-Pago,Ativo,25,733815,Não Cancelou
+4,0,29,2,6965,110,263,32,Contrato,Ativo,25,1501875,Não Cancelou
+0,0,31,0,3718,76,0,27,Pré-Pago,Ativo,25,17073,Não Cancelou
+1,0,30,0,1665,38,30,19,Pré-Pago,Inativo,30,18812,Não Cancelou
+4,0,31,0,2780,47,167,22,Pré-Pago,Ativo,25,878715,Não Cancelou
+2,0,22,0,1315,30,185,10,Contrato,Ativo,25,893025,Não Cancelou
+2,0,21,0,1568,33,22,67,Pré-Pago,Ativo,45,95025,Não Cancelou
+9,0,22,0,700,19,2,6,Pré-Pago,Inativo,25,41355,Não Cancelou
+0,0,21,0,825,4,13,2,Pré-Pago,Inativo,45,53225,Não Cancelou
+8,0,20,0,1225,26,11,12,Pré-Pago,Ativo,25,105795,Não Cancelou
+0,0,20,0,3225,55,0,22,Pré-Pago,Ativo,30,1312,Não Cancelou
+0,0,13,0,1695,20,20,13,Pré-Pago,Ativo,25,167175,Não Cancelou
+14,0,12,0,6392,135,77,41,Contrato,Ativo,15,782485,Não Cancelou
+10,0,10,0,8932,165,65,39,Pré-Pago,Ativo,45,389925,Não Cancelou
+6,0,11,2,2852,39,23,18,Pré-Pago,Ativo,30,20764,Não Cancelou
+0,0,4,0,4390,34,207,9,Pré-Pago,Ativo,30,100496,Não Cancelou
+1,0,4,0,1487,13,0,6,Pré-Pago,Ativo,25,675,Cancelou
+10,0,43,1,4370,77,13,18,Pré-Pago,Ativo,30,22988,Não Cancelou
+2,0,44,0,318,11,15,5,Pré-Pago,Inativo,30,7316,Não Cancelou
+12,0,42,1,2453,66,367,25,Pré-Pago,Ativo,30,156876,Não Cancelou
+12,0,43,1,4198,72,9,36,Pré-Pago,Ativo,15,28435,Não Cancelou
+5,0,43,1,2393,64,10,34,Pré-Pago,Ativo,25,155565,Não Cancelou
+13,0,43,2,3775,88,40,29,Pré-Pago,Ativo,30,31452,Não Cancelou
+6,0,43,1,2360,45,293,19,Pré-Pago,Ativo,45,792625,Não Cancelou
+15,0,42,3,9115,127,152,44,Pré-Pago,Ativo,30,97768,Não Cancelou
+9,0,43,1,13773,175,8,45,Pré-Pago,Ativo,30,58992,Não Cancelou
+9,0,43,2,4515,89,10,26,Pré-Pago,Ativo,30,22416,Não Cancelou
+8,0,43,1,5918,101,15,13,Pré-Pago,Ativo,30,30076,Não Cancelou
+11,1,43,0,2238,60,16,18,Pré-Pago,Inativo,30,15592,Não Cancelou
+27,0,43,4,15140,231,62,33,Pré-Pago,Ativo,30,86284,Não Cancelou
+6,0,43,2,3095,33,491,9,Pré-Pago,Ativo,45,13057,Não Cancelou
+11,0,42,1,15485,188,158,31,Pré-Pago,Ativo,25,1416285,Não Cancelou
+5,0,42,2,6500,92,194,27,Pré-Pago,Ativo,30,103968,Não Cancelou
+2,0,42,0,875,20,8,12,Pré-Pago,Inativo,25,76275,Não Cancelou
+4,0,43,0,710,20,21,9,Pré-Pago,Inativo,30,1132,Não Cancelou
+0,0,42,0,0,0,8,0,Pré-Pago,Inativo,25,36,Cancelou
+5,0,42,1,7508,133,392,44,Pré-Pago,Ativo,30,187364,Não Cancelou
+9,0,42,2,11465,160,19,48,Pré-Pago,Ativo,45,338125,Não Cancelou
+10,0,42,2,6718,81,116,38,Pré-Pago,Ativo,25,827955,Não Cancelou
+25,1,38,0,955,53,24,18,Pré-Pago,Inativo,30,13632,Cancelou
+23,0,41,9,10435,99,9,43,Contrato,Ativo,55,17151,Não Cancelou
+15,0,41,2,5818,104,34,25,Pré-Pago,Ativo,30,37288,Não Cancelou
+3,0,39,1,2840,28,8,15,Pré-Pago,Ativo,30,14672,Não Cancelou
+11,0,40,0,2990,47,17,17,Pré-Pago,Inativo,30,18948,Cancelou
+11,1,41,0,2268,50,42,32,Pré-Pago,Inativo,45,16295,Cancelou
+2,0,41,0,133,8,8,3,Pré-Pago,Inativo,30,3764,Cancelou
+3,0,41,1,1668,31,8,7,Pré-Pago,Ativo,45,62475,Não Cancelou
+5,0,38,2,6785,103,22,23,Pré-Pago,Ativo,55,13632,Não Cancelou
+2,0,41,0,628,13,17,5,Pré-Pago,Inativo,45,58525,Cancelou
+2,0,41,2,338,10,12,3,Pré-Pago,Ativo,55,2322,Não Cancelou
+27,0,36,4,16075,244,8,81,Pré-Pago,Ativo,25,770355,Não Cancelou
+8,0,39,4,6965,122,279,34,Contrato,Ativo,30,139948,Não Cancelou
+4,0,41,1,3718,88,10,29,Pré-Pago,Ativo,30,19224,Não Cancelou
+5,0,40,0,1665,50,46,21,Pré-Pago,Inativo,45,157875,Não Cancelou
+8,0,41,1,2780,59,183,24,Pré-Pago,Ativo,25,951255,Não Cancelou
+6,1,32,2,1315,42,201,12,Contrato,Ativo,30,85828,Cancelou
+6,0,31,1,1568,45,38,69,Pré-Pago,Ativo,55,81195,Não Cancelou
+13,0,32,0,700,31,18,8,Pré-Pago,Inativo,30,10124,Não Cancelou
+2,0,31,0,825,16,29,4,Pré-Pago,Inativo,45,93525,Não Cancelou
+12,0,30,1,1225,38,27,14,Pré-Pago,Ativo,25,178335,Não Cancelou
+4,0,30,1,3225,67,16,24,Pré-Pago,Ativo,30,19568,Não Cancelou
+4,0,23,1,1695,32,36,15,Pré-Pago,Ativo,30,21308,Não Cancelou
+18,0,22,2,6392,147,93,43,Contrato,Ativo,25,712755,Não Cancelou
+14,0,20,1,8932,177,81,41,Pré-Pago,Ativo,55,258135,Não Cancelou
+10,0,21,4,2852,51,39,20,Pré-Pago,Ativo,30,27212,Não Cancelou
+4,0,14,2,4390,46,223,11,Pré-Pago,Ativo,30,106944,Não Cancelou
+5,1,14,2,1487,25,8,8,Pré-Pago,Ativo,30,9248,Cancelou
+14,0,39,1,5080,82,30,17,Pré-Pago,Ativo,30,32648,Não Cancelou
+6,0,40,0,1028,16,15,4,Pré-Pago,Inativo,30,10176,Não Cancelou
+16,0,38,1,3163,71,367,24,Pré-Pago,Ativo,30,159736,Não Cancelou
+16,0,39,1,4908,77,9,35,Pré-Pago,Ativo,15,323675,Não Cancelou
+9,0,39,1,3103,69,10,33,Pré-Pago,Ativo,25,18774,Não Cancelou
+17,0,39,2,4485,93,40,28,Pré-Pago,Ativo,30,34312,Não Cancelou
+10,0,39,1,3070,50,293,18,Pré-Pago,Ativo,30,12968,Não Cancelou
+19,0,38,3,9825,132,152,43,Pré-Pago,Ativo,30,100628,Não Cancelou
+13,0,39,1,14483,180,8,44,Pré-Pago,Ativo,30,61852,Não Cancelou
+13,0,39,2,5225,94,10,25,Pré-Pago,Ativo,30,25276,Não Cancelou
+12,0,39,1,6628,106,15,12,Pré-Pago,Ativo,30,32936,Não Cancelou
+15,0,39,0,2948,65,16,17,Pré-Pago,Inativo,30,18452,Não Cancelou
+31,1,39,4,15850,236,62,32,Pré-Pago,Ativo,30,89144,Não Cancelou
+10,0,39,2,3805,38,491,8,Pré-Pago,Ativo,30,211772,Não Cancelou
+15,0,38,1,16195,193,158,30,Pré-Pago,Ativo,25,144846,Não Cancelou
+9,0,38,2,7210,97,194,26,Pré-Pago,Ativo,30,106828,Não Cancelou
+6,0,38,0,1585,25,8,11,Pré-Pago,Inativo,25,10845,Não Cancelou
+8,0,39,0,1420,25,21,8,Pré-Pago,Inativo,30,1418,Não Cancelou
+6,0,38,0,710,11,8,2,Pré-Pago,Inativo,25,68445,Cancelou
+9,0,38,1,8218,138,392,43,Pré-Pago,Ativo,30,190224,Não Cancelou
+13,0,38,2,12175,165,19,47,Pré-Pago,Ativo,45,356,Não Cancelou
+14,0,38,2,7428,86,116,37,Pré-Pago,Ativo,25,86013,Não Cancelou
+29,1,34,0,1665,58,24,17,Pré-Pago,Inativo,30,16492,Cancelou
+27,0,37,9,11145,104,9,42,Contrato,Ativo,55,182235,Não Cancelou
+19,0,37,2,6528,109,34,24,Pré-Pago,Ativo,25,451665,Não Cancelou
+7,0,35,1,3550,33,8,14,Pré-Pago,Ativo,30,17532,Não Cancelou
+15,1,36,0,3700,52,17,16,Pré-Pago,Inativo,30,21808,Cancelou
+15,1,37,0,2978,55,42,31,Pré-Pago,Inativo,30,28932,Cancelou
+6,0,37,0,843,13,8,2,Pré-Pago,Inativo,30,6624,Cancelou
+7,0,37,1,2378,36,8,6,Pré-Pago,Ativo,45,8035,Não Cancelou
+9,0,34,2,7495,108,22,22,Pré-Pago,Ativo,55,147045,Não Cancelou
+6,1,37,0,1338,18,17,4,Pré-Pago,Inativo,45,764,Cancelou
+6,0,37,2,1048,15,12,2,Pré-Pago,Ativo,55,33945,Não Cancelou
+31,1,32,4,16785,249,8,80,Pré-Pago,Ativo,25,80253,Não Cancelou
+12,1,35,4,7675,127,279,33,Contrato,Ativo,30,142808,Não Cancelou
+8,0,37,1,4428,93,10,28,Pré-Pago,Ativo,30,22084,Não Cancelou
+9,0,36,0,2375,55,46,20,Pré-Pago,Inativo,30,2812,Não Cancelou
+12,0,37,1,3490,64,183,23,Pré-Pago,Ativo,25,98343,Não Cancelou
+10,0,28,2,2025,47,201,11,Contrato,Ativo,30,88688,Não Cancelou
+10,0,27,1,2278,50,38,68,Pré-Pago,Ativo,45,1532,Não Cancelou
+17,0,28,0,1410,36,18,7,Pré-Pago,Inativo,30,12984,Não Cancelou
+6,0,27,0,1535,21,29,3,Pré-Pago,Inativo,45,1114,Não Cancelou
+16,0,26,1,1935,43,27,13,Pré-Pago,Ativo,25,21051,Não Cancelou
+8,0,26,1,3935,72,16,23,Pré-Pago,Ativo,30,22428,Não Cancelou
+8,0,19,1,2405,37,36,14,Pré-Pago,Ativo,25,27189,Não Cancelou
+22,0,18,2,7102,152,93,42,Contrato,Ativo,25,74493,Não Cancelou
+18,0,16,1,9642,182,81,40,Pré-Pago,Ativo,55,26886,Não Cancelou
+14,0,17,4,3562,56,39,19,Contrato,Ativo,30,30072,Não Cancelou
+8,0,10,2,5100,51,223,10,Pré-Pago,Ativo,30,109804,Não Cancelou
+9,0,10,2,2197,30,8,7,Pré-Pago,Ativo,30,12108,Cancelou
+2,0,37,0,3660,60,0,17,Pré-Pago,Ativo,25,1674,Não Cancelou
+0,0,38,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+4,0,36,0,1743,49,334,24,Pré-Pago,Ativo,25,158364,Não Cancelou
+4,0,37,0,3488,55,0,35,Pré-Pago,Ativo,15,194865,Não Cancelou
+0,0,37,0,1683,47,0,33,Pré-Pago,Ativo,15,9515,Não Cancelou
+5,0,37,0,3065,71,7,28,Pré-Pago,Ativo,30,15344,Não Cancelou
+0,0,37,0,1650,28,260,18,Pré-Pago,Ativo,30,110712,Não Cancelou
+7,0,36,1,8405,110,119,43,Pré-Pago,Ativo,30,8166,Não Cancelou
+1,0,37,0,13063,158,0,44,Pré-Pago,Ativo,30,52884,Não Cancelou
+1,0,37,0,3805,72,0,25,Pré-Pago,Ativo,30,15508,Não Cancelou
+0,0,37,0,5208,84,0,12,Pré-Pago,Ativo,25,23814,Não Cancelou
+3,0,37,0,1528,43,0,17,Pré-Pago,Inativo,30,6284,Não Cancelou
+19,0,37,2,14430,214,29,32,Pré-Pago,Ativo,30,70176,Não Cancelou
+0,0,37,0,2385,16,458,8,Pré-Pago,Ativo,30,192804,Não Cancelou
+3,0,36,0,14775,171,125,30,Pré-Pago,Ativo,25,123507,Não Cancelou
+0,0,36,0,5790,75,161,26,Pré-Pago,Ativo,30,8786,Não Cancelou
+0,0,36,0,165,3,0,11,Pré-Pago,Inativo,25,756,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,36,0,6798,116,359,43,Pré-Pago,Ativo,25,192663,Não Cancelou
+1,0,36,0,10755,143,0,47,Pré-Pago,Ativo,30,43592,Não Cancelou
+2,0,36,0,6008,64,83,37,Pré-Pago,Ativo,25,64674,Não Cancelou
+17,0,32,0,245,36,0,17,Pré-Pago,Inativo,25,12645,Cancelou
+15,0,35,7,9725,82,0,42,Pré-Pago,Ativo,45,245175,Não Cancelou
+7,0,35,0,5108,87,1,24,Pré-Pago,Ativo,25,238275,Cancelou
+0,0,33,0,2130,11,0,14,Pré-Pago,Ativo,30,8564,Não Cancelou
+3,1,34,0,2280,30,0,16,Pré-Pago,Inativo,25,10395,Cancelou
+3,0,35,0,1558,33,9,31,Pré-Pago,Inativo,30,9964,Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,35,0,958,14,0,6,Pré-Pago,Ativo,30,3888,Não Cancelou
+0,0,32,0,6075,86,0,22,Pré-Pago,Ativo,45,154025,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+19,0,30,2,15365,227,0,80,Pré-Pago,Ativo,25,70164,Não Cancelou
+0,0,33,2,6255,105,246,33,Contrato,Ativo,25,13932,Não Cancelou
+0,0,35,0,3008,71,0,28,Pré-Pago,Ativo,25,138555,Não Cancelou
+0,0,34,0,955,33,13,20,Pré-Pago,Inativo,30,9152,Não Cancelou
+0,0,35,0,2070,42,150,23,Pré-Pago,Ativo,25,77004,Não Cancelou
+0,0,26,0,605,25,168,11,Contrato,Ativo,25,78435,Não Cancelou
+0,0,25,0,858,28,5,68,Pré-Pago,Ativo,45,3465,Não Cancelou
+0,0,26,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,25,0,0,0,0,0,Pré-Pago,Inativo,45,0,Não Cancelou
+4,0,24,0,515,21,0,13,Pré-Pago,Ativo,25,2412,Não Cancelou
+0,0,24,0,2515,50,0,23,Pré-Pago,Ativo,30,1026,Não Cancelou
+0,0,17,0,985,15,3,14,Pré-Pago,Ativo,25,585,Não Cancelou
+10,0,16,0,5682,130,60,42,Contrato,Ativo,15,64966,Não Cancelou
+6,0,14,0,8222,160,48,40,Pré-Pago,Ativo,45,32955,Não Cancelou
+2,0,15,2,2142,34,6,19,Pré-Pago,Ativo,30,11104,Não Cancelou
+0,0,8,0,3680,29,190,10,Pré-Pago,Ativo,30,90836,Não Cancelou
+0,0,8,0,777,8,0,7,Pré-Pago,Ativo,30,314,Cancelou
+8,0,38,0,4370,71,5,17,Pré-Pago,Ativo,30,19764,Não Cancelou
+0,0,39,0,318,5,7,4,Pré-Pago,Inativo,25,46035,Não Cancelou
+10,0,37,0,2453,60,359,24,Pré-Pago,Ativo,30,153652,Não Cancelou
+10,0,38,0,4198,66,1,35,Pré-Pago,Ativo,15,24002,Não Cancelou
+3,0,38,0,2393,58,2,33,Pré-Pago,Ativo,15,145805,Não Cancelou
+11,0,38,1,3775,82,32,28,Pré-Pago,Ativo,30,28228,Não Cancelou
+4,0,38,0,2360,39,285,18,Pré-Pago,Ativo,30,123596,Não Cancelou
+13,0,37,2,9115,121,144,43,Pré-Pago,Ativo,30,94544,Não Cancelou
+7,0,38,0,13773,169,0,44,Pré-Pago,Ativo,30,55768,Não Cancelou
+7,0,38,1,4515,83,2,25,Pré-Pago,Ativo,30,19192,Não Cancelou
+6,0,38,0,5918,95,7,12,Pré-Pago,Ativo,30,26852,Não Cancelou
+9,1,38,0,2238,54,8,17,Pré-Pago,Inativo,30,12368,Não Cancelou
+25,0,38,3,15140,225,54,32,Pré-Pago,Ativo,30,8306,Não Cancelou
+4,0,38,1,3095,27,483,8,Pré-Pago,Ativo,30,205688,Não Cancelou
+9,0,37,0,15485,182,150,30,Pré-Pago,Ativo,25,1380015,Não Cancelou
+3,0,37,1,6500,86,186,26,Pré-Pago,Ativo,30,100744,Não Cancelou
+0,0,37,0,875,14,0,11,Pré-Pago,Inativo,25,40005,Não Cancelou
+2,0,38,0,710,14,13,8,Pré-Pago,Inativo,30,8096,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+3,0,37,0,7508,127,384,43,Pré-Pago,Ativo,25,2071575,Não Cancelou
+7,0,37,1,11465,154,11,47,Pré-Pago,Ativo,45,317975,Não Cancelou
+8,0,37,1,6718,75,108,37,Pré-Pago,Ativo,25,791685,Não Cancelou
+23,0,33,0,955,47,16,17,Pré-Pago,Inativo,25,11709,Cancelou
+21,1,36,8,10435,93,1,42,Pré-Pago,Ativo,55,15942,Não Cancelou
+13,0,36,1,5818,98,26,24,Pré-Pago,Ativo,25,38322,Cancelou
+1,0,34,0,2840,22,0,14,Pré-Pago,Ativo,30,11448,Não Cancelou
+9,1,35,0,2990,41,9,16,Pré-Pago,Inativo,30,15724,Cancelou
+9,0,36,0,2268,44,34,31,Pré-Pago,Inativo,30,22848,Cancelou
+0,0,36,0,133,2,0,2,Pré-Pago,Inativo,30,54,Cancelou
+1,0,36,0,1668,25,0,6,Pré-Pago,Ativo,30,6772,Não Cancelou
+3,0,33,1,6785,97,14,22,Pré-Pago,Ativo,55,12423,Não Cancelou
+0,0,36,0,628,7,9,4,Pré-Pago,Inativo,45,38375,Cancelou
+0,0,36,1,338,4,4,2,Pré-Pago,Ativo,55,1113,Não Cancelou
+25,0,31,3,16075,238,0,80,Pré-Pago,Ativo,25,734085,Não Cancelou
+6,0,34,3,6965,116,271,33,Contrato,Ativo,25,1538145,Não Cancelou
+2,0,36,0,3718,82,2,28,Pré-Pago,Ativo,25,180,Não Cancelou
+3,0,35,0,1665,44,38,20,Pré-Pago,Inativo,30,22036,Não Cancelou
+6,0,36,0,2780,53,175,23,Pré-Pago,Ativo,25,914985,Não Cancelou
+4,1,27,1,1315,36,193,11,Contrato,Ativo,25,929295,Cancelou
+4,0,26,0,1568,39,30,68,Pré-Pago,Ativo,45,115175,Não Cancelou
+11,0,27,0,700,25,10,7,Pré-Pago,Inativo,25,77625,Não Cancelou
+0,0,26,0,825,10,21,3,Pré-Pago,Inativo,45,73375,Não Cancelou
+10,0,25,0,1225,32,19,13,Pré-Pago,Ativo,25,142065,Não Cancelou
+2,0,25,0,3225,61,8,23,Pré-Pago,Ativo,30,16344,Não Cancelou
+2,0,18,0,1695,26,28,14,Pré-Pago,Ativo,25,203445,Não Cancelou
+16,0,17,1,6392,141,85,42,Contrato,Ativo,25,676485,Não Cancelou
+12,0,15,0,8932,171,73,40,Pré-Pago,Ativo,45,410075,Não Cancelou
+8,0,16,3,2852,45,31,19,Pré-Pago,Ativo,30,23988,Não Cancelou
+2,0,9,1,4390,40,215,10,Pré-Pago,Ativo,30,10372,Não Cancelou
+3,0,9,1,1487,19,0,7,Pré-Pago,Ativo,30,6024,Cancelou
+8,0,38,0,4370,71,5,17,Pré-Pago,Ativo,30,19764,Não Cancelou
+0,0,39,0,318,5,7,4,Pré-Pago,Inativo,25,46035,Não Cancelou
+10,0,37,0,2453,60,359,24,Pré-Pago,Ativo,30,153652,Não Cancelou
+10,0,38,0,4198,66,1,35,Pré-Pago,Ativo,15,24002,Não Cancelou
+3,0,38,0,2393,58,2,33,Pré-Pago,Ativo,15,145805,Não Cancelou
+11,0,38,1,3775,82,32,28,Pré-Pago,Ativo,30,28228,Não Cancelou
+4,0,38,0,2360,39,285,18,Pré-Pago,Ativo,30,123596,Não Cancelou
+13,0,37,2,9115,121,144,43,Pré-Pago,Ativo,30,94544,Não Cancelou
+7,0,38,0,13773,169,0,44,Pré-Pago,Ativo,30,55768,Não Cancelou
+7,0,38,1,4515,83,2,25,Pré-Pago,Ativo,30,19192,Não Cancelou
+6,0,38,0,5918,95,7,12,Pré-Pago,Ativo,30,26852,Não Cancelou
+9,1,38,0,2238,54,8,17,Pré-Pago,Inativo,30,12368,Não Cancelou
+25,0,38,3,15140,225,54,32,Pré-Pago,Ativo,30,8306,Não Cancelou
+4,0,38,1,3095,27,483,8,Pré-Pago,Ativo,30,205688,Não Cancelou
+9,0,37,0,15485,182,150,30,Pré-Pago,Ativo,25,1380015,Não Cancelou
+3,0,37,1,6500,86,186,26,Pré-Pago,Ativo,30,100744,Não Cancelou
+0,0,37,0,875,14,0,11,Pré-Pago,Inativo,25,40005,Não Cancelou
+2,0,38,0,710,14,13,8,Pré-Pago,Inativo,30,8096,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+3,0,37,0,7508,127,384,43,Pré-Pago,Ativo,25,2071575,Não Cancelou
+7,0,37,1,11465,154,11,47,Pré-Pago,Ativo,45,317975,Não Cancelou
+8,0,37,1,6718,75,108,37,Pré-Pago,Ativo,25,791685,Não Cancelou
+23,1,33,0,955,47,16,17,Pré-Pago,Inativo,25,11709,Cancelou
+21,0,36,8,10435,93,1,42,Pré-Pago,Ativo,55,15942,Não Cancelou
+13,1,36,1,5818,98,26,24,Pré-Pago,Ativo,25,38322,Cancelou
+1,0,34,0,2840,22,0,14,Pré-Pago,Ativo,30,11448,Não Cancelou
+9,0,35,0,2990,41,9,16,Pré-Pago,Inativo,30,15724,Cancelou
+9,0,36,0,2268,44,34,31,Pré-Pago,Inativo,30,22848,Cancelou
+0,0,36,0,133,2,0,2,Pré-Pago,Inativo,30,54,Cancelou
+1,0,36,0,1668,25,0,6,Pré-Pago,Ativo,30,6772,Não Cancelou
+3,0,33,1,6785,97,14,22,Pré-Pago,Ativo,55,12423,Não Cancelou
+0,0,36,0,628,7,9,4,Pré-Pago,Inativo,45,38375,Cancelou
+0,0,36,1,338,4,4,2,Pré-Pago,Ativo,55,1113,Não Cancelou
+25,1,31,3,16075,238,0,80,Pré-Pago,Ativo,25,734085,Não Cancelou
+6,0,34,3,6965,116,271,33,Contrato,Ativo,25,1538145,Não Cancelou
+2,0,36,0,3718,82,2,28,Pré-Pago,Ativo,25,180,Não Cancelou
+3,0,35,0,1665,44,38,20,Pré-Pago,Inativo,30,22036,Não Cancelou
+6,0,36,0,2780,53,175,23,Pré-Pago,Ativo,25,914985,Não Cancelou
+4,0,27,1,1315,36,193,11,Contrato,Ativo,25,929295,Não Cancelou
+4,0,26,0,1568,39,30,68,Pré-Pago,Ativo,45,115175,Não Cancelou
+11,0,27,0,700,25,10,7,Pré-Pago,Inativo,25,77625,Não Cancelou
+0,0,26,0,825,10,21,3,Pré-Pago,Inativo,45,73375,Não Cancelou
+10,0,25,0,1225,32,19,13,Pré-Pago,Ativo,25,142065,Não Cancelou
+2,0,25,0,3225,61,8,23,Pré-Pago,Ativo,30,16344,Não Cancelou
+2,0,18,0,1695,26,28,14,Pré-Pago,Ativo,25,203445,Não Cancelou
+16,0,17,1,6392,141,85,42,Contrato,Ativo,25,676485,Não Cancelou
+12,0,15,0,8932,171,73,40,Pré-Pago,Ativo,45,410075,Não Cancelou
+8,0,16,3,2852,45,31,19,Pré-Pago,Ativo,30,23988,Não Cancelou
+2,0,9,1,4390,40,215,10,Pré-Pago,Ativo,30,10372,Não Cancelou
+3,1,9,1,1487,19,0,7,Pré-Pago,Ativo,30,6024,Cancelou
+3,0,36,0,4065,65,0,15,Pré-Pago,Ativo,25,18585,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+5,0,35,0,2148,54,352,22,Pré-Pago,Ativo,25,168309,Não Cancelou
+5,0,36,0,3893,60,0,33,Pré-Pago,Ativo,15,217415,Não Cancelou
+0,0,36,0,2088,52,0,31,Pré-Pago,Ativo,15,1177,Não Cancelou
+6,0,36,0,3470,76,25,26,Pré-Pago,Ativo,25,27207,Não Cancelou
+0,0,36,0,2055,33,278,16,Pré-Pago,Ativo,30,119552,Não Cancelou
+8,0,35,1,8810,115,137,41,Pré-Pago,Ativo,30,905,Não Cancelou
+2,0,36,0,13468,163,0,42,Pré-Pago,Ativo,30,54524,Não Cancelou
+2,0,36,0,4210,77,0,23,Pré-Pago,Ativo,30,17148,Não Cancelou
+1,0,36,0,5613,89,0,10,Pré-Pago,Ativo,25,25659,Não Cancelou
+4,0,36,0,1933,48,1,15,Pré-Pago,Inativo,30,8324,Não Cancelou
+20,0,36,2,14835,219,47,30,Pré-Pago,Ativo,30,79016,Não Cancelou
+0,0,36,0,2790,21,476,6,Pré-Pago,Ativo,30,201644,Não Cancelou
+4,0,35,0,15180,176,143,28,Pré-Pago,Ativo,25,133452,Não Cancelou
+0,0,35,0,6195,80,179,24,Pré-Pago,Ativo,30,967,Não Cancelou
+0,0,35,0,570,8,0,9,Pré-Pago,Inativo,25,2601,Não Cancelou
+0,0,36,0,405,8,6,6,Pré-Pago,Inativo,25,45585,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,35,0,7203,121,377,41,Pré-Pago,Ativo,25,202608,Não Cancelou
+2,0,35,0,11160,148,4,45,Pré-Pago,Ativo,30,46832,Não Cancelou
+3,0,35,0,6413,69,101,35,Pré-Pago,Ativo,25,74619,Não Cancelou
+18,0,31,0,650,41,9,15,Pré-Pago,Inativo,25,71595,Cancelou
+16,0,34,7,10130,87,0,40,Pré-Pago,Ativo,45,255425,Não Cancelou
+8,1,34,0,5513,92,19,22,Pré-Pago,Ativo,25,337725,Cancelou
+0,0,32,0,2535,16,0,12,Pré-Pago,Ativo,30,10204,Não Cancelou
+4,0,33,0,2685,35,2,14,Pré-Pago,Inativo,25,1314,Cancelou
+4,0,34,0,1963,38,27,29,Pré-Pago,Inativo,30,18804,Cancelou
+0,1,34,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,34,0,1363,19,0,4,Pré-Pago,Ativo,30,5528,Não Cancelou
+0,0,31,0,6480,91,7,20,Pré-Pago,Ativo,45,181775,Não Cancelou
+0,0,34,0,323,1,2,2,Pré-Pago,Inativo,45,131,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+20,0,29,2,15770,232,0,78,Pré-Pago,Ativo,25,72009,Não Cancelou
+1,0,32,2,6660,110,264,31,Contrato,Ativo,25,149265,Não Cancelou
+0,0,34,0,3413,76,0,26,Pré-Pago,Ativo,25,157005,Não Cancelou
+0,0,33,0,1360,38,31,18,Pré-Pago,Inativo,30,17992,Não Cancelou
+1,0,34,0,2475,47,168,21,Pré-Pago,Ativo,25,86949,Não Cancelou
+0,1,25,0,1010,30,186,9,Contrato,Ativo,25,8838,Cancelou
+0,0,24,0,1263,33,23,66,Pré-Pago,Ativo,45,899,Não Cancelou
+6,0,25,0,395,19,3,5,Pré-Pago,Inativo,25,3213,Não Cancelou
+0,0,24,0,520,4,14,1,Pré-Pago,Inativo,45,481,Não Cancelou
+5,0,23,0,920,26,12,11,Pré-Pago,Ativo,25,9657,Não Cancelou
+0,0,23,0,2920,55,1,21,Pré-Pago,Ativo,30,123,Não Cancelou
+0,0,16,0,1390,20,21,12,Pré-Pago,Ativo,25,15795,Não Cancelou
+11,0,15,0,6088,135,78,40,Contrato,Ativo,15,771265,Não Cancelou
+7,0,13,0,8628,165,66,38,Pré-Pago,Ativo,45,384825,Não Cancelou
+3,0,14,2,2548,39,24,17,Pré-Pago,Ativo,30,19948,Não Cancelou
+0,0,7,0,4085,34,208,8,Pré-Pago,Ativo,30,99676,Não Cancelou
+0,1,7,0,1183,13,0,5,Pré-Pago,Inativo,25,5382,Cancelou
+6,0,38,0,4125,68,3,17,Pré-Pago,Ativo,25,202185,Não Cancelou
+0,0,39,0,73,2,5,4,Pré-Pago,Ativo,25,25875,Não Cancelou
+8,0,37,0,2208,57,357,24,Pré-Pago,Ativo,25,1708425,Não Cancelou
+8,0,38,0,3953,63,0,35,Pré-Pago,Ativo,15,22088,Não Cancelou
+1,0,38,0,2148,55,0,33,Pré-Pago,Ativo,15,121165,Não Cancelou
+9,0,38,1,3530,79,30,28,Pré-Pago,Ativo,30,26436,Não Cancelou
+2,0,38,0,2115,36,283,18,Pré-Pago,Ativo,30,121804,Não Cancelou
+11,0,37,2,8870,118,142,43,Pré-Pago,Ativo,30,92752,Não Cancelou
+5,0,38,0,13528,166,0,44,Pré-Pago,Ativo,30,54776,Não Cancelou
+5,0,38,1,4270,80,0,25,Pré-Pago,Ativo,30,174,Não Cancelou
+4,0,38,0,5673,92,5,12,Pré-Pago,Ativo,25,281925,Não Cancelou
+7,0,38,0,1993,51,6,17,Pré-Pago,Ativo,30,10576,Não Cancelou
+23,0,38,3,14895,222,52,32,Pré-Pago,Ativo,30,81268,Não Cancelou
+2,0,38,1,2850,24,481,8,Pré-Pago,Ativo,30,203896,Não Cancelou
+7,0,37,0,15240,179,148,30,Pré-Pago,Ativo,25,1359855,Não Cancelou
+1,0,37,1,6255,83,184,26,Pré-Pago,Ativo,30,98952,Não Cancelou
+0,0,37,0,630,11,0,11,Pré-Pago,Ativo,25,28845,Não Cancelou
+0,0,38,0,465,11,11,8,Pré-Pago,Ativo,25,7092,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Ativo,25,0,Cancelou
+1,0,37,0,7263,124,382,43,Pré-Pago,Ativo,25,2051415,Não Cancelou
+5,0,37,1,11220,151,9,47,Pré-Pago,Ativo,30,49084,Não Cancelou
+6,0,37,1,6473,72,106,37,Pré-Pago,Ativo,25,771525,Não Cancelou
+21,1,33,0,710,44,14,17,Pré-Pago,Ativo,25,9693,Cancelou
+19,0,36,8,10190,90,0,42,Pré-Pago,Ativo,45,257,Não Cancelou
+11,1,36,1,5573,95,24,24,Pré-Pago,Ativo,25,36306,Cancelou
+0,0,34,0,2595,19,0,14,Pré-Pago,Ativo,30,10456,Não Cancelou
+7,0,35,0,2745,38,7,16,Pré-Pago,Ativo,30,13932,Cancelou
+7,1,36,0,2023,41,32,31,Pré-Pago,Ativo,30,21056,Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Ativo,30,0,Cancelou
+0,0,36,0,1423,22,0,6,Pré-Pago,Ativo,30,578,Não Cancelou
+1,0,33,1,6540,94,12,22,Pré-Pago,Ativo,45,19585,Não Cancelou
+0,0,36,0,383,4,7,4,Pré-Pago,Ativo,45,27175,Cancelou
+0,0,36,1,93,1,2,2,Pré-Pago,Ativo,55,441,Não Cancelou
+23,0,31,3,15830,235,0,80,Pré-Pago,Ativo,25,722925,Não Cancelou
+4,0,34,3,6720,113,269,33,Contrato,Ativo,25,1517985,Não Cancelou
+0,0,36,0,3473,79,0,28,Pré-Pago,Ativo,25,15984,Não Cancelou
+1,0,35,0,1420,41,36,20,Pré-Pago,Ativo,30,20244,Não Cancelou
+4,0,36,0,2535,50,173,23,Pré-Pago,Ativo,25,894825,Não Cancelou
+2,1,27,1,1070,33,191,11,Contrato,Ativo,25,909135,Não Cancelou
+2,0,26,0,1323,36,28,68,Pré-Pago,Ativo,45,103975,Não Cancelou
+9,0,27,0,455,22,8,7,Pré-Pago,Ativo,25,57465,Não Cancelou
+0,0,26,0,580,7,19,3,Pré-Pago,Ativo,45,62175,Não Cancelou
+8,0,25,0,980,29,17,13,Pré-Pago,Ativo,25,121905,Não Cancelou
+0,0,25,0,2980,58,6,23,Pré-Pago,Ativo,30,14552,Não Cancelou
+0,0,18,0,1450,23,26,14,Pré-Pago,Ativo,25,183285,Não Cancelou
+14,1,17,1,6148,138,83,42,Contrato,Ativo,15,80223,Não Cancelou
+10,0,15,0,8688,168,71,40,Pré-Pago,Ativo,45,3989,Não Cancelou
+6,0,16,3,2608,42,29,19,Pré-Pago,Ativo,30,222,Não Cancelou
+0,0,9,1,4145,37,213,10,Pré-Pago,Ativo,30,101928,Não Cancelou
+1,1,9,1,1243,16,0,7,Pré-Pago,Ativo,30,5036,Cancelou
+0,0,34,0,4005,62,0,13,Pré-Pago,Ativo,25,183015,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+2,0,33,0,2088,51,347,20,Pré-Pago,Ativo,25,1657755,Não Cancelou
+2,0,34,0,3833,57,0,31,Pré-Pago,Ativo,25,17505,Não Cancelou
+0,0,34,0,2028,49,0,29,Pré-Pago,Ativo,15,114235,Não Cancelou
+3,0,34,0,3410,73,20,24,Pré-Pago,Ativo,25,246735,Não Cancelou
+0,0,34,0,1995,30,273,14,Pré-Pago,Ativo,30,1173,Não Cancelou
+5,0,33,0,8750,112,132,39,Pré-Pago,Ativo,30,88248,Não Cancelou
+0,0,34,0,13408,160,0,40,Pré-Pago,Ativo,30,54272,Não Cancelou
+0,0,34,0,4150,74,0,21,Pré-Pago,Ativo,30,16896,Não Cancelou
+0,0,34,0,5553,86,0,8,Pré-Pago,Ativo,25,253755,Não Cancelou
+1,0,34,0,1873,45,0,13,Pré-Pago,Inativo,30,7672,Não Cancelou
+17,0,34,1,14775,216,42,28,Pré-Pago,Ativo,25,863595,Não Cancelou
+0,0,34,0,2730,18,471,4,Pré-Pago,Ativo,30,199392,Não Cancelou
+1,0,33,0,15120,173,138,26,Pré-Pago,Ativo,25,1309185,Não Cancelou
+0,0,33,0,6135,77,174,22,Pré-Pago,Ativo,30,94448,Não Cancelou
+0,0,33,0,510,5,0,7,Pré-Pago,Inativo,25,23175,Não Cancelou
+0,0,34,0,345,5,1,4,Pré-Pago,Inativo,25,2025,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,33,0,7143,118,372,39,Pré-Pago,Ativo,25,2000745,Não Cancelou
+0,0,33,0,11100,145,0,43,Pré-Pago,Ativo,30,4498,Não Cancelou
+0,0,33,0,6353,66,96,33,Pré-Pago,Ativo,25,720855,Não Cancelou
+15,0,29,0,590,38,4,13,Pré-Pago,Inativo,25,4626,Cancelou
+13,0,32,6,10070,84,0,38,Pré-Pago,Ativo,45,25385,Não Cancelou
+5,1,32,0,5453,89,14,20,Pré-Pago,Ativo,25,31239,Cancelou
+0,0,30,0,2475,13,0,10,Pré-Pago,Ativo,30,9952,Não Cancelou
+1,1,31,0,2625,32,0,12,Pré-Pago,Inativo,25,119565,Cancelou
+1,0,32,0,1903,35,22,27,Pré-Pago,Inativo,30,16552,Cancelou
+0,1,32,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,32,0,1303,16,0,2,Pré-Pago,Ativo,30,5276,Não Cancelou
+0,0,29,0,6420,88,2,18,Pré-Pago,Ativo,45,1677,Não Cancelou
+0,0,32,0,263,1,0,1,Pré-Pago,Inativo,30,1056,Cancelou
+0,0,32,0,0,0,0,0,Pré-Pago,Ativo,45,0,Não Cancelou
+17,0,27,1,15710,229,0,76,Pré-Pago,Ativo,25,717255,Não Cancelou
+0,0,30,1,6600,107,259,29,Contrato,Ativo,25,1467315,Não Cancelou
+0,0,32,0,3353,73,0,24,Pré-Pago,Ativo,25,15417,Não Cancelou
+0,0,31,0,1300,35,26,16,Pré-Pago,Inativo,30,1574,Não Cancelou
+0,0,32,0,2415,44,163,19,Pré-Pago,Ativo,25,844155,Não Cancelou
+0,0,23,0,950,27,181,7,Contrato,Ativo,25,858465,Não Cancelou
+0,0,22,0,1203,30,18,64,Pré-Pago,Ativo,45,75825,Não Cancelou
+3,0,23,0,335,16,0,3,Pré-Pago,Inativo,25,15795,Não Cancelou
+0,0,22,0,0,0,9,0,Pré-Pago,Inativo,45,225,Não Cancelou
+2,0,21,0,860,23,7,9,Pré-Pago,Ativo,25,71235,Não Cancelou
+0,0,21,0,2860,52,0,19,Pré-Pago,Ativo,30,11648,Não Cancelou
+0,0,14,0,1330,17,16,10,Pré-Pago,Ativo,25,132615,Não Cancelou
+8,0,13,0,6028,132,73,38,Contrato,Ativo,15,7403,Não Cancelou
+4,0,11,0,8568,162,61,36,Pré-Pago,Ativo,45,37075,Não Cancelou
+0,0,12,1,2488,36,19,15,Pré-Pago,Ativo,30,17696,Não Cancelou
+0,0,5,0,4025,31,203,6,Pré-Pago,Ativo,30,97424,Não Cancelou
+0,1,5,0,1123,10,0,3,Pré-Pago,Inativo,25,50985,Cancelou
+4,0,40,0,4145,67,8,19,Pré-Pago,Ativo,25,22554,Não Cancelou
+0,0,41,0,93,1,10,6,Pré-Pago,Inativo,25,4923,Não Cancelou
+6,0,39,0,2228,56,362,26,Pré-Pago,Ativo,25,173178,Não Cancelou
+6,0,40,0,3973,62,4,37,Pré-Pago,Ativo,25,199575,Não Cancelou
+0,0,40,0,2168,54,5,35,Pré-Pago,Ativo,15,14971,Não Cancelou
+7,0,40,1,3550,78,35,30,Pré-Pago,Ativo,30,28512,Não Cancelou
+0,0,40,0,2135,35,288,20,Pré-Pago,Ativo,30,12388,Não Cancelou
+9,0,39,2,8890,117,147,45,Pré-Pago,Ativo,30,94828,Não Cancelou
+3,0,40,0,13548,165,3,46,Pré-Pago,Ativo,30,56052,Não Cancelou
+3,0,40,1,4290,79,5,27,Pré-Pago,Ativo,30,19476,Não Cancelou
+2,0,40,0,5693,91,10,14,Pré-Pago,Ativo,25,30528,Não Cancelou
+5,0,40,0,2013,50,11,19,Pré-Pago,Inativo,30,12652,Não Cancelou
+21,0,40,3,14915,221,57,34,Pré-Pago,Ativo,30,83344,Não Cancelou
+0,0,40,1,2870,23,486,10,Pré-Pago,Ativo,30,205972,Não Cancelou
+5,0,39,0,15260,178,153,32,Pré-Pago,Ativo,25,138321,Não Cancelou
+0,0,39,1,6275,82,189,28,Pré-Pago,Ativo,30,101028,Não Cancelou
+0,0,39,0,650,10,3,13,Pré-Pago,Inativo,25,432,Não Cancelou
+0,0,40,0,485,10,16,10,Pré-Pago,Inativo,25,94275,Não Cancelou
+0,0,39,0,0,0,3,0,Pré-Pago,Inativo,25,135,Cancelou
+0,0,39,0,7283,123,387,45,Pré-Pago,Ativo,25,207477,Não Cancelou
+3,0,39,1,11240,150,14,49,Pré-Pago,Ativo,30,5116,Não Cancelou
+4,0,39,1,6493,71,111,39,Pré-Pago,Ativo,25,79488,Não Cancelou
+19,0,35,0,730,43,19,19,Pré-Pago,Inativo,25,120285,Cancelou
+17,0,38,8,10210,89,4,44,Contrato,Ativo,45,267475,Não Cancelou
+9,0,38,1,5593,94,29,26,Pré-Pago,Ativo,25,386415,Cancelou
+0,0,36,0,2615,18,3,16,Pré-Pago,Ativo,30,11732,Não Cancelou
+5,1,37,0,2765,37,12,18,Pré-Pago,Inativo,25,18009,Cancelou
+5,0,38,0,2043,40,37,33,Pré-Pago,Inativo,30,23132,Cancelou
+0,0,38,0,0,0,3,0,Pré-Pago,Inativo,30,12,Cancelou
+0,0,38,0,1443,21,3,8,Pré-Pago,Ativo,30,7056,Não Cancelou
+0,0,35,1,6560,93,17,24,Pré-Pago,Ativo,45,208825,Não Cancelou
+0,1,38,0,403,3,12,6,Pré-Pago,Inativo,45,4015,Cancelou
+0,0,38,1,0,0,7,0,Pré-Pago,Ativo,55,105,Não Cancelou
+21,0,33,3,15850,234,3,82,Pré-Pago,Ativo,25,73728,Não Cancelou
+2,0,36,3,6740,112,274,35,Contrato,Ativo,25,154134,Não Cancelou
+0,0,38,0,3493,78,5,30,Pré-Pago,Ativo,25,183195,Não Cancelou
+0,0,37,0,1440,40,41,22,Pré-Pago,Inativo,30,2232,Não Cancelou
+2,0,38,0,2555,49,178,25,Pré-Pago,Ativo,25,91818,Não Cancelou
+0,0,29,1,1090,32,196,13,Contrato,Ativo,25,93249,Não Cancelou
+0,0,28,0,1343,35,33,70,Pré-Pago,Ativo,45,11695,Não Cancelou
+7,0,29,0,475,21,13,9,Pré-Pago,Inativo,25,8082,Não Cancelou
+0,0,28,0,600,6,24,5,Pré-Pago,Inativo,45,7515,Não Cancelou
+6,0,27,0,1000,28,22,15,Pré-Pago,Ativo,25,14526,Não Cancelou
+0,0,27,0,3000,57,11,25,Pré-Pago,Ativo,30,16628,Não Cancelou
+0,0,20,0,1470,22,31,16,Pré-Pago,Ativo,25,20664,Não Cancelou
+12,0,19,1,6168,137,88,44,Contrato,Ativo,15,830775,Não Cancelou
+8,0,17,0,8708,167,76,42,Pré-Pago,Ativo,45,411875,Não Cancelou
+4,0,18,3,2628,41,34,21,Pré-Pago,Ativo,30,24276,Não Cancelou
+0,0,11,1,4165,36,218,12,Pré-Pago,Ativo,30,104004,Não Cancelou
+0,1,11,1,1263,15,3,9,Pré-Pago,Ativo,30,6312,Cancelou
+2,0,32,0,3985,63,0,11,Pré-Pago,Ativo,25,18216,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+4,0,31,0,2068,52,342,18,Pré-Pago,Ativo,25,16344,Não Cancelou
+4,0,32,0,3813,58,0,29,Pré-Pago,Ativo,15,212905,Não Cancelou
+0,0,32,0,2008,50,0,27,Pré-Pago,Ativo,15,11319,Não Cancelou
+5,0,32,0,3390,74,15,22,Pré-Pago,Ativo,25,22338,Não Cancelou
+0,0,32,0,1975,31,268,12,Pré-Pago,Ativo,30,115224,Não Cancelou
+7,0,31,0,8730,113,127,37,Pré-Pago,Ativo,30,86172,Não Cancelou
+1,0,32,0,13388,161,0,38,Pré-Pago,Ativo,30,54196,Não Cancelou
+1,0,32,0,4130,75,0,19,Pré-Pago,Ativo,30,1682,Não Cancelou
+0,0,32,0,5533,87,0,6,Pré-Pago,Ativo,25,2529,Não Cancelou
+3,0,32,0,1853,46,0,11,Pré-Pago,Inativo,30,7596,Não Cancelou
+19,0,32,1,14755,217,37,26,Pré-Pago,Ativo,30,74688,Não Cancelou
+0,0,32,0,2710,19,466,2,Pré-Pago,Ativo,30,197316,Não Cancelou
+3,0,31,0,15100,174,133,24,Pré-Pago,Ativo,25,128583,Não Cancelou
+0,0,31,0,6115,78,169,20,Pré-Pago,Ativo,30,92372,Não Cancelou
+0,0,31,0,490,6,0,5,Pré-Pago,Inativo,25,2232,Não Cancelou
+0,0,32,0,325,6,0,2,Pré-Pago,Inativo,25,14895,Não Cancelou
+0,0,31,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,31,0,7123,119,367,37,Pré-Pago,Ativo,25,197739,Não Cancelou
+1,0,31,0,11080,146,0,41,Pré-Pago,Ativo,30,44904,Não Cancelou
+2,0,31,0,6333,67,91,31,Pré-Pago,Ativo,25,6975,Não Cancelou
+17,0,27,0,570,39,0,11,Pré-Pago,Inativo,25,27405,Cancelou
+15,0,30,6,10050,85,0,36,Pré-Pago,Ativo,45,253375,Não Cancelou
+7,0,30,0,5433,90,9,18,Pré-Pago,Ativo,25,289035,Cancelou
+0,0,28,0,2455,14,0,8,Pré-Pago,Ativo,30,9876,Não Cancelou
+3,1,29,0,2605,33,0,10,Pré-Pago,Inativo,25,11871,Cancelou
+3,0,30,0,1883,36,17,25,Pré-Pago,Inativo,30,14476,Cancelou
+0,0,30,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,30,0,1283,17,0,5,Pré-Pago,Ativo,30,52,Não Cancelou
+0,0,27,0,6400,89,0,16,Pré-Pago,Ativo,45,162225,Não Cancelou
+0,1,30,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,30,0,0,0,0,0,Pré-Pago,Ativo,45,0,Não Cancelou
+19,0,25,1,15690,230,0,74,Pré-Pago,Ativo,25,7164,Não Cancelou
+0,0,28,1,6580,108,254,27,Contrato,Ativo,25,144396,Não Cancelou
+0,0,30,0,3333,74,0,22,Pré-Pago,Ativo,25,153315,Não Cancelou
+0,0,29,0,1280,36,21,14,Pré-Pago,Inativo,30,13664,Não Cancelou
+0,0,30,0,2395,45,158,17,Pré-Pago,Ativo,25,8208,Não Cancelou
+0,0,21,0,930,28,176,5,Contrato,Ativo,25,83511,Não Cancelou
+0,0,20,0,1183,31,13,62,Pré-Pago,Ativo,45,6285,Não Cancelou
+5,0,21,0,315,17,0,1,Pré-Pago,Inativo,25,1494,Não Cancelou
+0,0,20,0,0,0,4,0,Pré-Pago,Inativo,45,10,Não Cancelou
+4,0,19,0,840,24,2,7,Pré-Pago,Ativo,25,4788,Não Cancelou
+0,0,19,0,2840,53,0,17,Pré-Pago,Ativo,30,11572,Não Cancelou
+0,0,12,0,1310,18,11,8,Pré-Pago,Ativo,25,10926,Não Cancelou
+10,0,11,0,6008,133,68,36,Contrato,Ativo,15,711755,Não Cancelou
+6,0,9,0,8548,163,56,34,Pré-Pago,Ativo,45,357775,Não Cancelou
+2,0,10,1,2468,37,14,13,Pré-Pago,Ativo,30,1562,Não Cancelou
+0,0,3,0,4005,32,198,4,Pré-Pago,Ativo,30,95348,Não Cancelou
+0,0,3,0,1103,11,0,1,Pré-Pago,Ativo,25,5013,Cancelou
+8,0,42,0,4325,75,13,21,Pré-Pago,Ativo,30,228,Não Cancelou
+0,0,43,0,273,9,15,8,Pré-Pago,Inativo,25,8019,Não Cancelou
+10,0,41,0,2408,64,367,28,Pré-Pago,Ativo,30,156688,Não Cancelou
+10,0,42,0,4153,70,9,39,Pré-Pago,Ativo,15,281765,Não Cancelou
+3,0,42,0,2348,62,10,37,Pré-Pago,Ativo,15,18755,Não Cancelou
+11,0,42,1,3730,86,40,32,Pré-Pago,Ativo,30,31264,Não Cancelou
+4,0,42,0,2315,43,293,22,Pré-Pago,Ativo,30,126632,Não Cancelou
+13,0,41,2,9070,125,152,47,Pré-Pago,Ativo,30,9758,Não Cancelou
+7,0,42,0,13728,173,8,48,Pré-Pago,Ativo,30,58804,Não Cancelou
+7,0,42,1,4470,87,10,29,Pré-Pago,Ativo,30,22228,Não Cancelou
+6,0,42,0,5873,99,15,16,Pré-Pago,Ativo,30,29888,Não Cancelou
+9,1,42,0,2193,58,16,21,Pré-Pago,Inativo,30,15404,Não Cancelou
+25,0,42,3,15095,229,62,36,Pré-Pago,Ativo,30,86096,Não Cancelou
+4,0,42,1,3050,31,491,12,Pré-Pago,Ativo,30,208724,Não Cancelou
+9,0,41,0,15440,186,158,34,Pré-Pago,Ativo,25,141417,Não Cancelou
+3,0,41,1,6455,90,194,30,Pré-Pago,Ativo,30,10378,Não Cancelou
+0,0,41,0,830,18,8,15,Pré-Pago,Inativo,25,7416,Não Cancelou
+2,0,42,0,665,18,21,12,Pré-Pago,Inativo,30,11132,Não Cancelou
+0,0,41,0,0,0,8,0,Pré-Pago,Inativo,25,36,Cancelou
+3,0,41,0,7463,131,392,47,Pré-Pago,Ativo,25,210573,Não Cancelou
+7,0,41,1,11420,158,19,51,Pré-Pago,Ativo,45,33695,Não Cancelou
+8,0,41,1,6673,79,116,41,Pré-Pago,Ativo,25,82584,Não Cancelou
+23,1,37,0,910,51,24,21,Pré-Pago,Inativo,25,151245,Cancelou
+21,1,40,8,10390,97,9,46,Contrato,Ativo,55,170805,Não Cancelou
+13,0,40,1,5773,102,34,28,Pré-Pago,Ativo,25,417375,Não Cancelou
+1,0,38,0,2795,26,8,18,Pré-Pago,Ativo,30,14484,Não Cancelou
+9,1,39,0,2945,45,17,20,Pré-Pago,Inativo,30,1876,Cancelou
+9,0,40,0,2223,48,42,35,Pré-Pago,Inativo,30,25884,Cancelou
+0,0,40,0,88,6,8,6,Pré-Pago,Inativo,30,3576,Cancelou
+1,0,40,0,1623,29,8,10,Pré-Pago,Ativo,30,9808,Não Cancelou
+3,0,37,1,6740,101,22,26,Pré-Pago,Ativo,55,135615,Não Cancelou
+0,1,40,0,583,11,17,8,Pré-Pago,Inativo,45,5735,Cancelou
+0,0,40,1,293,8,12,6,Pré-Pago,Ativo,55,22515,Não Cancelou
+25,0,35,3,16030,242,8,84,Pré-Pago,Ativo,25,76824,Não Cancelou
+6,0,38,3,6920,120,279,37,Contrato,Ativo,25,15723,Não Cancelou
+2,0,40,0,3673,86,10,32,Pré-Pago,Ativo,25,214155,Não Cancelou
+3,0,39,0,1620,48,46,24,Pré-Pago,Inativo,30,25072,Não Cancelou
+6,0,40,0,2735,57,183,27,Pré-Pago,Ativo,25,94914,Não Cancelou
+4,0,31,1,1270,40,201,15,Contrato,Ativo,25,96345,Não Cancelou
+4,0,30,0,1523,43,38,72,Pré-Pago,Ativo,45,13415,Não Cancelou
+11,0,31,0,655,29,18,11,Pré-Pago,Inativo,25,11178,Não Cancelou
+0,0,30,0,780,14,29,7,Pré-Pago,Inativo,45,9235,Não Cancelou
+10,0,29,0,1180,36,27,17,Pré-Pago,Ativo,25,17622,Não Cancelou
+2,0,29,0,3180,65,16,27,Pré-Pago,Ativo,30,1938,Não Cancelou
+2,0,22,0,1650,30,36,18,Pré-Pago,Ativo,25,2376,Não Cancelou
+16,0,21,1,6348,145,93,46,Contrato,Ativo,25,710685,Não Cancelou
+12,0,19,0,8888,175,81,44,Pré-Pago,Ativo,45,429075,Não Cancelou
+8,0,20,3,2808,49,39,23,Pré-Pago,Ativo,30,27028,Não Cancelou
+2,0,13,1,4345,44,223,14,Pré-Pago,Ativo,30,106756,Não Cancelou
+3,0,13,1,1443,23,8,11,Pré-Pago,Ativo,30,9064,Cancelou
+0,0,30,0,3805,55,0,9,Pré-Pago,Ativo,25,1737,Não Cancelou
+0,0,31,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,29,0,1888,44,337,16,Pré-Pago,Ativo,25,160344,Não Cancelou
+0,0,30,0,3633,50,0,27,Pré-Pago,Ativo,15,202565,Não Cancelou
+0,0,30,0,1828,42,0,25,Pré-Pago,Ativo,15,10285,Não Cancelou
+1,0,30,0,3210,66,10,20,Pré-Pago,Ativo,25,19242,Não Cancelou
+0,0,30,0,1795,23,263,10,Pré-Pago,Ativo,30,112472,Não Cancelou
+3,0,29,0,8550,105,122,35,Pré-Pago,Ativo,30,8342,Não Cancelou
+0,0,30,0,13208,153,0,36,Pré-Pago,Ativo,30,53444,Não Cancelou
+0,0,30,0,3950,67,0,17,Pré-Pago,Ativo,30,16068,Não Cancelou
+0,0,30,0,5353,79,0,4,Pré-Pago,Ativo,25,24444,Não Cancelou
+0,0,30,0,1673,38,0,9,Pré-Pago,Inativo,30,6844,Não Cancelou
+15,0,30,1,14575,209,32,24,Pré-Pago,Ativo,25,80928,Não Cancelou
+0,0,30,0,2530,11,461,7,Pré-Pago,Ativo,30,194564,Não Cancelou
+0,0,29,0,14920,166,128,22,Pré-Pago,Ativo,25,125487,Não Cancelou
+0,0,29,0,5935,70,164,18,Pré-Pago,Ativo,30,8962,Não Cancelou
+0,0,29,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,30,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,29,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,29,0,6943,111,362,35,Pré-Pago,Ativo,25,194643,Não Cancelou
+0,0,29,0,10900,138,0,39,Pré-Pago,Ativo,30,44152,Não Cancelou
+0,0,29,0,6153,59,86,29,Pré-Pago,Ativo,25,66654,Não Cancelou
+13,1,25,0,390,31,0,9,Pré-Pago,Inativo,25,18945,Cancelou
+11,0,28,6,9870,77,0,34,Contrato,Ativo,45,248675,Não Cancelou
+3,0,28,0,5253,82,4,16,Pré-Pago,Ativo,25,258075,Cancelou
+0,0,26,0,2275,6,0,6,Pré-Pago,Ativo,30,9124,Não Cancelou
+0,1,27,0,2425,25,0,8,Pré-Pago,Inativo,25,11025,Cancelou
+0,1,28,0,1703,28,12,23,Pré-Pago,Inativo,30,11724,Cancelou
+0,0,28,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,28,0,0,0,0,0,Pré-Pago,Ativo,30,0,Não Cancelou
+0,0,25,0,6220,81,0,14,Pré-Pago,Ativo,45,157525,Não Cancelou
+0,0,28,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,1,28,0,0,0,0,0,Pré-Pago,Ativo,45,0,Cancelou
+15,0,23,1,15510,222,0,72,Pré-Pago,Ativo,25,70794,Não Cancelou
+0,0,26,1,6400,100,249,25,Contrato,Ativo,25,1413,Não Cancelou
+0,0,28,0,3153,66,0,20,Pré-Pago,Ativo,25,144855,Não Cancelou
+0,0,27,0,1100,28,16,12,Pré-Pago,Inativo,30,10912,Não Cancelou
+0,0,28,0,2215,37,153,15,Pré-Pago,Ativo,25,78984,Não Cancelou
+0,0,19,0,750,20,171,3,Contrato,Ativo,25,80415,Não Cancelou
+0,0,18,0,1003,23,8,60,Pré-Pago,Ativo,45,4565,Não Cancelou
+0,0,19,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,18,0,0,0,0,0,Pré-Pago,Inativo,45,0,Não Cancelou
+0,0,17,0,660,16,0,5,Pré-Pago,Ativo,25,3042,Não Cancelou
+0,0,17,0,2660,45,0,15,Pré-Pago,Ativo,30,1082,Não Cancelou
+0,0,10,0,1130,10,6,6,Pré-Pago,Ativo,25,783,Não Cancelou
+6,0,9,0,5828,125,63,34,Contrato,Ativo,15,673915,Não Cancelou
+2,0,7,0,8368,155,51,32,Pré-Pago,Ativo,45,340575,Não Cancelou
+0,0,8,1,2288,29,9,11,Pré-Pago,Ativo,30,12868,Não Cancelou
+0,0,3,0,3825,24,193,2,Pré-Pago,Ativo,25,1041705,Não Cancelou
+0,0,3,0,0,0,0,0,Pré-Pago,Ativo,25,0,Cancelou
+5,0,39,0,4245,73,9,20,Pré-Pago,Ativo,25,23481,Não Cancelou
+0,0,40,0,193,7,11,7,Pré-Pago,Inativo,25,585,Não Cancelou
+7,0,38,0,2328,62,363,27,Pré-Pago,Ativo,25,174105,Não Cancelou
+7,0,39,0,4073,68,5,38,Pré-Pago,Ativo,15,255255,Não Cancelou
+0,0,39,0,2268,60,6,36,Pré-Pago,Ativo,15,16104,Não Cancelou
+8,0,39,0,3650,84,36,31,Pré-Pago,Ativo,25,33003,Não Cancelou
+1,0,39,0,2235,41,289,21,Pré-Pago,Ativo,30,124704,Não Cancelou
+10,0,38,1,8990,123,148,46,Pré-Pago,Ativo,30,95652,Não Cancelou
+4,0,39,0,13648,171,4,47,Pré-Pago,Ativo,30,56876,Não Cancelou
+4,0,39,0,4390,85,6,28,Pré-Pago,Ativo,30,203,Não Cancelou
+3,0,39,0,5793,97,11,15,Pré-Pago,Ativo,25,31455,Não Cancelou
+6,0,39,0,2113,56,12,20,Pré-Pago,Inativo,30,13476,Não Cancelou
+22,0,39,2,15015,227,58,35,Pré-Pago,Ativo,30,84168,Não Cancelou
+1,0,39,0,2970,29,487,11,Pré-Pago,Ativo,30,206796,Não Cancelou
+6,0,38,0,15360,184,154,33,Pré-Pago,Ativo,25,139248,Não Cancelou
+0,0,38,0,6375,88,190,29,Pré-Pago,Ativo,30,101852,Não Cancelou
+0,0,38,0,750,16,4,14,Pré-Pago,Inativo,25,5247,Não Cancelou
+0,0,39,0,585,16,17,11,Pré-Pago,Inativo,25,103545,Não Cancelou
+0,0,38,0,0,0,4,0,Pré-Pago,Inativo,25,18,Cancelou
+0,0,38,0,7383,129,388,46,Pré-Pago,Ativo,25,208404,Não Cancelou
+4,0,38,0,11340,156,15,50,Pré-Pago,Ativo,30,51984,Não Cancelou
+5,0,38,0,6593,77,112,40,Pré-Pago,Ativo,25,80415,Não Cancelou
+20,1,34,0,830,49,20,20,Pré-Pago,Inativo,25,129555,Cancelou
+18,0,37,7,10310,95,5,45,Contrato,Ativo,45,272625,Não Cancelou
+10,0,37,0,5693,100,30,27,Pré-Pago,Ativo,25,395685,Cancelou
+0,0,35,0,2715,24,4,17,Pré-Pago,Ativo,30,12556,Não Cancelou
+6,1,36,0,2865,43,13,19,Pré-Pago,Inativo,25,18936,Cancelou
+6,1,37,0,2143,46,38,34,Pré-Pago,Inativo,30,23956,Cancelou
+0,0,37,0,8,4,4,5,Pré-Pago,Inativo,30,1648,Cancelou
+0,0,37,0,1543,27,4,9,Pré-Pago,Ativo,30,788,Não Cancelou
+0,0,34,0,6660,99,18,25,Pré-Pago,Ativo,45,213975,Não Cancelou
+0,1,37,0,503,9,13,7,Pré-Pago,Inativo,45,453,Cancelou
+0,0,37,0,213,6,8,5,Pré-Pago,Ativo,55,15285,Não Cancelou
+22,0,32,2,15950,240,4,83,Pré-Pago,Ativo,25,74655,Não Cancelou
+3,0,35,2,6840,118,275,36,Contrato,Ativo,25,155061,Não Cancelou
+0,0,37,0,3593,84,6,31,Pré-Pago,Ativo,25,192465,Não Cancelou
+0,0,36,0,1540,46,42,23,Pré-Pago,Inativo,30,23144,Não Cancelou
+3,0,37,0,2655,55,179,26,Pré-Pago,Ativo,25,92745,Não Cancelou
+1,0,28,0,1190,38,197,14,Contrato,Ativo,25,94176,Não Cancelou
+1,0,27,0,1443,41,34,71,Pré-Pago,Ativo,45,1221,Não Cancelou
+8,0,28,0,575,27,14,10,Pré-Pago,Inativo,25,9009,Não Cancelou
+0,0,27,0,700,12,25,6,Pré-Pago,Inativo,45,803,Não Cancelou
+7,0,26,0,1100,34,23,16,Pré-Pago,Ativo,25,15453,Não Cancelou
+0,0,26,0,3100,63,12,26,Pré-Pago,Ativo,30,17452,Não Cancelou
+0,0,19,0,1570,28,32,17,Pré-Pago,Ativo,25,21591,Não Cancelou
+13,0,18,0,6268,143,89,45,Contrato,Ativo,15,842105,Não Cancelou
+9,0,16,0,8808,173,77,43,Pré-Pago,Ativo,45,417025,Não Cancelou
+5,0,17,2,2728,47,35,22,Pré-Pago,Ativo,30,251,Não Cancelou
+0,0,10,0,4265,42,219,13,Pré-Pago,Ativo,30,104828,Não Cancelou
+0,1,10,0,1363,21,4,10,Pré-Pago,Ativo,25,8028,Cancelou
+1,0,33,0,3885,57,0,10,Pré-Pago,Ativo,25,17739,Não Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+3,0,32,0,1968,46,341,17,Pré-Pago,Ativo,25,162513,Não Cancelou
+3,0,33,0,3713,52,0,28,Pré-Pago,Ativo,15,207075,Não Cancelou
+0,0,33,0,1908,44,0,26,Pré-Pago,Ativo,15,10736,Não Cancelou
+4,0,33,0,3290,68,14,21,Pré-Pago,Ativo,25,21411,Não Cancelou
+0,0,33,0,1875,25,267,11,Pré-Pago,Ativo,30,1144,Não Cancelou
+6,0,32,1,8630,107,126,36,Pré-Pago,Ativo,30,85348,Não Cancelou
+0,0,33,0,13288,155,0,37,Pré-Pago,Ativo,30,53772,Não Cancelou
+0,0,33,0,4030,69,0,18,Pré-Pago,Ativo,30,16396,Não Cancelou
+0,0,33,0,5433,81,0,5,Pré-Pago,Ativo,25,24813,Não Cancelou
+2,0,33,0,1753,40,0,10,Pré-Pago,Inativo,30,7172,Não Cancelou
+18,0,33,2,14655,211,36,25,Pré-Pago,Ativo,30,73864,Não Cancelou
+0,0,33,0,2610,13,465,1,Pré-Pago,Ativo,30,196492,Não Cancelou
+2,0,32,0,15000,168,132,23,Pré-Pago,Ativo,25,127656,Não Cancelou
+0,0,32,0,6015,72,168,19,Pré-Pago,Ativo,30,91548,Não Cancelou
+0,0,32,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,32,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,32,0,7023,113,366,36,Pré-Pago,Ativo,25,196812,Não Cancelou
+0,0,32,0,10980,140,0,40,Pré-Pago,Ativo,30,4448,Não Cancelou
+1,0,32,0,6233,61,90,30,Pré-Pago,Ativo,25,68823,Não Cancelou
+16,0,28,0,470,33,0,10,Pré-Pago,Inativo,25,22635,Cancelou
+14,0,31,7,9950,79,0,35,Pré-Pago,Ativo,45,250725,Não Cancelou
+6,1,31,0,5333,84,8,17,Pré-Pago,Ativo,25,279765,Cancelou
+0,0,29,0,2355,8,0,7,Pré-Pago,Ativo,30,9452,Não Cancelou
+2,1,30,0,2505,27,0,9,Pré-Pago,Inativo,25,11394,Cancelou
+2,0,31,0,1783,30,16,24,Pré-Pago,Inativo,30,13652,Cancelou
+0,0,31,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,31,0,0,0,0,0,Pré-Pago,Ativo,30,0,Não Cancelou
+0,0,28,0,6300,83,0,15,Pré-Pago,Ativo,45,159575,Não Cancelou
+0,0,31,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,31,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+18,0,26,2,15590,224,0,73,Pré-Pago,Ativo,25,71163,Não Cancelou
+0,0,29,2,6480,102,253,26,Contrato,Ativo,25,143469,Não Cancelou
+0,0,31,0,3233,68,0,21,Pré-Pago,Ativo,25,148545,Não Cancelou
+0,0,30,0,1180,30,20,13,Pré-Pago,Inativo,30,1284,Não Cancelou
+0,0,31,0,2295,39,157,16,Pré-Pago,Ativo,25,81153,Não Cancelou
+0,0,22,0,830,22,175,4,Contrato,Ativo,25,82584,Não Cancelou
+0,0,21,0,1083,25,12,61,Pré-Pago,Ativo,45,577,Não Cancelou
+4,0,22,0,215,11,0,3,Pré-Pago,Inativo,25,1017,Não Cancelou
+0,0,21,0,0,0,3,0,Pré-Pago,Inativo,45,75,Não Cancelou
+3,0,20,0,740,18,1,6,Pré-Pago,Ativo,25,3861,Não Cancelou
+0,0,20,0,2740,47,0,16,Pré-Pago,Ativo,30,11148,Não Cancelou
+0,0,13,0,1210,12,10,7,Pré-Pago,Ativo,25,9999,Não Cancelou
+9,0,12,0,5908,127,67,35,Contrato,Ativo,15,700425,Não Cancelou
+5,0,10,0,8448,157,55,33,Pré-Pago,Ativo,45,352625,Não Cancelou
+1,0,11,2,2368,31,13,12,Pré-Pago,Ativo,30,14796,Não Cancelou
+0,0,4,0,3905,26,197,3,Pré-Pago,Ativo,30,94524,Não Cancelou
+0,0,4,0,1003,5,0,4,Pré-Pago,Ativo,25,4536,Cancelou
+7,0,36,1,4665,75,19,30,Pré-Pago,Ativo,25,2988,Não Cancelou
+0,0,37,0,613,9,21,17,Pré-Pago,Inativo,25,12249,Não Cancelou
+9,0,35,1,2748,64,373,37,Pré-Pago,Ativo,25,180504,Não Cancelou
+9,0,36,1,4493,70,15,48,Pré-Pago,Ativo,15,333465,Não Cancelou
+2,0,36,1,2688,62,16,46,Pré-Pago,Ativo,15,23925,Não Cancelou
+10,0,36,2,4070,86,46,41,Pré-Pago,Ativo,30,35024,Não Cancelou
+3,0,36,1,2655,43,299,31,Pré-Pago,Ativo,30,130392,Não Cancelou
+12,0,35,3,9410,125,158,56,Pré-Pago,Ativo,30,10134,Não Cancelou
+6,0,36,1,14068,173,14,57,Pré-Pago,Ativo,30,62564,Não Cancelou
+6,0,36,2,4810,87,16,38,Pré-Pago,Ativo,30,25988,Não Cancelou
+5,0,36,1,6213,99,21,25,Pré-Pago,Ativo,25,37854,Não Cancelou
+8,0,36,0,2533,58,22,30,Pré-Pago,Inativo,30,19164,Não Cancelou
+24,0,36,4,15435,229,68,45,Contrato,Ativo,30,89856,Não Cancelou
+3,0,36,2,3390,31,497,21,Pré-Pago,Ativo,30,212484,Não Cancelou
+8,0,35,1,15780,186,164,43,Pré-Pago,Ativo,25,145647,Não Cancelou
+2,0,35,2,6795,90,200,39,Pré-Pago,Ativo,30,10754,Não Cancelou
+0,0,35,0,1170,18,14,24,Pré-Pago,Inativo,25,11646,Não Cancelou
+1,0,36,0,1005,18,27,21,Pré-Pago,Inativo,25,167535,Não Cancelou
+0,1,35,0,295,4,14,13,Pré-Pago,Inativo,25,76455,Cancelou
+2,0,35,1,7803,131,398,56,Pré-Pago,Ativo,25,214803,Não Cancelou
+6,0,35,2,11760,158,25,60,Pré-Pago,Ativo,30,57672,Não Cancelou
+7,0,35,2,7013,79,122,50,Pré-Pago,Ativo,25,86814,Não Cancelou
+22,0,31,0,1250,51,30,30,Pré-Pago,Inativo,25,193545,Cancelou
+20,0,34,9,10730,97,15,55,Pré-Pago,Ativo,45,308175,Não Cancelou
+12,0,34,2,6113,102,40,37,Pré-Pago,Ativo,25,459675,Não Cancelou
+0,0,32,1,3135,26,14,27,Pré-Pago,Ativo,30,18244,Não Cancelou
+8,0,33,0,3285,45,23,29,Pré-Pago,Inativo,25,25335,Cancelou
+8,1,34,0,2563,48,48,44,Pré-Pago,Inativo,30,29644,Cancelou
+0,0,34,0,428,6,14,15,Pré-Pago,Inativo,30,7336,Cancelou
+0,0,34,1,1963,29,14,19,Pré-Pago,Ativo,30,13568,Não Cancelou
+2,0,31,2,7080,101,28,35,Pré-Pago,Ativo,45,249525,Não Cancelou
+0,0,34,0,923,11,23,17,Pré-Pago,Inativo,45,8085,Cancelou
+0,0,34,2,633,8,18,15,Pré-Pago,Ativo,55,36615,Não Cancelou
+24,0,29,4,16370,242,14,93,Pré-Pago,Ativo,25,81054,Não Cancelou
+5,0,32,4,7260,120,285,46,Contrato,Ativo,25,16146,Não Cancelou
+1,0,34,1,4013,86,16,41,Pré-Pago,Ativo,25,256455,Não Cancelou
+2,1,33,0,1960,48,52,33,Pré-Pago,Inativo,30,28832,Cancelou
+5,0,34,1,3075,57,189,36,Pré-Pago,Ativo,25,99144,Não Cancelou
+3,0,25,2,1610,40,207,24,Contrato,Ativo,25,100575,Não Cancelou
+3,0,24,1,1863,43,44,81,Pré-Pago,Ativo,45,15765,Não Cancelou
+10,0,25,0,995,29,24,20,Pré-Pago,Inativo,25,15408,Não Cancelou
+0,0,24,0,1120,14,35,16,Pré-Pago,Inativo,45,11585,Não Cancelou
+9,0,23,1,1520,36,33,26,Pré-Pago,Ativo,25,21852,Não Cancelou
+1,0,23,1,3520,65,22,36,Pré-Pago,Ativo,30,2314,Não Cancelou
+1,0,16,1,1990,30,42,27,Pré-Pago,Ativo,25,2799,Não Cancelou
+15,0,15,2,6688,145,99,55,Contrato,Ativo,15,920315,Não Cancelou
+11,0,13,1,9228,175,87,53,Pré-Pago,Ativo,45,452575,Não Cancelou
+7,0,14,4,3148,49,45,32,Pré-Pago,Ativo,30,30788,Não Cancelou
+1,0,7,2,4685,44,229,23,Pré-Pago,Ativo,30,110516,Não Cancelou
+2,1,7,2,1783,23,14,20,Pré-Pago,Ativo,30,12824,Cancelou
+0,0,36,0,3465,55,0,10,Pré-Pago,Ativo,25,1584,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+1,0,35,0,1548,44,331,7,Pré-Pago,Ativo,25,156114,Não Cancelou
+1,0,36,0,3293,50,0,18,Pré-Pago,Ativo,15,183865,Não Cancelou
+0,0,36,0,1488,42,0,16,Pré-Pago,Ativo,15,8415,Não Cancelou
+2,0,36,0,2870,66,4,11,Pré-Pago,Ativo,25,15012,Não Cancelou
+0,0,36,0,1455,23,257,1,Pré-Pago,Ativo,30,108712,Não Cancelou
+4,0,35,0,8210,105,116,26,Pré-Pago,Ativo,30,7966,Não Cancelou
+0,0,36,0,12868,153,0,27,Pré-Pago,Ativo,30,52084,Não Cancelou
+0,0,36,0,3610,67,0,8,Pré-Pago,Ativo,30,14708,Não Cancelou
+0,0,36,0,5013,79,0,13,Pré-Pago,Ativo,25,22914,Não Cancelou
+0,0,36,0,1333,38,0,4,Pré-Pago,Inativo,30,5484,Não Cancelou
+16,0,36,0,14235,209,26,15,Pré-Pago,Ativo,30,68176,Não Cancelou
+0,0,36,0,2190,11,455,5,Pré-Pago,Ativo,30,190804,Não Cancelou
+0,0,35,0,14580,166,122,13,Pré-Pago,Ativo,25,121257,Não Cancelou
+0,0,35,0,5595,70,158,9,Pré-Pago,Ativo,30,8586,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,35,0,6603,111,356,26,Pré-Pago,Ativo,25,190413,Não Cancelou
+0,0,35,0,10560,138,0,30,Pré-Pago,Ativo,30,42792,Não Cancelou
+0,0,35,0,5813,59,80,20,Pré-Pago,Ativo,25,62424,Não Cancelou
+7,0,31,0,50,2,0,1,Pré-Pago,Inativo,25,234,Cancelou
+12,0,34,5,9530,77,0,25,Pré-Pago,Ativo,45,240175,Não Cancelou
+4,0,34,0,4913,82,0,7,Pré-Pago,Ativo,25,224775,Cancelou
+0,0,32,0,1935,6,0,2,Pré-Pago,Ativo,30,7764,Não Cancelou
+0,0,33,0,2085,25,0,9,Pré-Pago,Inativo,25,9495,Cancelou
+0,1,34,0,1363,28,6,14,Pré-Pago,Inativo,30,7964,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Ativo,30,0,Não Cancelou
+0,0,31,0,5880,81,0,5,Pré-Pago,Ativo,45,149025,Não Cancelou
+0,1,34,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Ativo,45,0,Não Cancelou
+16,0,29,0,15170,222,0,63,Pré-Pago,Ativo,25,69264,Não Cancelou
+0,0,32,0,6060,100,243,16,Contrato,Ativo,25,13707,Não Cancelou
+0,0,34,0,2813,66,0,11,Pré-Pago,Ativo,25,129555,Não Cancelou
+0,0,33,0,760,28,10,3,Pré-Pago,Inativo,30,7152,Não Cancelou
+0,0,34,0,1875,37,147,6,Pré-Pago,Ativo,25,74754,Não Cancelou
+0,0,25,0,1903,20,165,8,Contrato,Ativo,25,829035,Não Cancelou
+0,0,24,0,663,23,2,51,Pré-Pago,Ativo,45,2215,Não Cancelou
+0,0,25,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,24,0,0,0,0,0,Pré-Pago,Inativo,45,0,Não Cancelou
+0,0,23,0,0,0,0,0,Pré-Pago,Ativo,25,0,Não Cancelou
+0,0,23,0,2320,45,0,6,Pré-Pago,Ativo,30,946,Não Cancelou
+0,0,16,0,0,0,0,0,Pré-Pago,Ativo,25,0,Não Cancelou
+7,0,15,0,5488,125,57,25,Contrato,Ativo,15,622215,Não Cancelou
+3,0,13,0,8028,155,45,23,Pré-Pago,Ativo,45,317075,Não Cancelou
+0,0,14,0,1948,29,3,2,Pré-Pago,Ativo,30,9108,Não Cancelou
+0,0,7,0,3485,24,187,21,Pré-Pago,Ativo,30,88836,Não Cancelou
+0,0,7,0,0,0,0,0,Pré-Pago,Ativo,25,0,Cancelou
+3,0,37,0,4180,71,30,19,Pré-Pago,Ativo,30,29004,Não Cancelou
+0,0,38,0,128,5,32,6,Pré-Pago,Inativo,30,13332,Não Cancelou
+5,0,36,0,2263,60,384,26,Pré-Pago,Ativo,30,162892,Não Cancelou
+5,0,37,0,4008,66,26,37,Pré-Pago,Ativo,15,36707,Não Cancelou
+0,0,37,0,2203,58,27,35,Pré-Pago,Ativo,25,223245,Não Cancelou
+6,0,37,1,3585,82,57,30,Pré-Pago,Ativo,30,37468,Não Cancelou
+0,0,37,0,2170,39,310,20,Pré-Pago,Ativo,30,132836,Não Cancelou
+8,0,36,2,8925,121,169,45,Pré-Pago,Ativo,30,103784,Não Cancelou
+2,0,37,0,13583,169,25,46,Pré-Pago,Ativo,30,65008,Não Cancelou
+2,0,37,1,4325,83,27,27,Pré-Pago,Ativo,30,28432,Não Cancelou
+1,0,37,0,5728,95,32,14,Pré-Pago,Ativo,30,36092,Não Cancelou
+4,0,37,0,2048,54,33,19,Pré-Pago,Inativo,30,21608,Não Cancelou
+20,0,37,3,14950,225,79,34,Pré-Pago,Ativo,30,923,Não Cancelou
+0,0,37,1,2905,27,508,10,Pré-Pago,Ativo,30,214928,Não Cancelou
+4,0,36,0,15295,182,175,32,Pré-Pago,Ativo,25,1483965,Não Cancelou
+0,0,36,1,6310,86,211,28,Pré-Pago,Ativo,30,109984,Não Cancelou
+0,0,36,0,685,14,25,13,Pré-Pago,Inativo,25,143955,Não Cancelou
+0,0,37,0,520,14,38,10,Pré-Pago,Inativo,30,17336,Não Cancelou
+0,0,36,0,0,0,25,0,Pré-Pago,Inativo,25,1125,Cancelou
+0,0,36,0,7318,127,409,45,Pré-Pago,Ativo,30,19338,Não Cancelou
+2,0,36,1,11275,154,36,49,Pré-Pago,Ativo,45,375725,Não Cancelou
+3,0,36,1,6528,75,133,39,Pré-Pago,Ativo,25,895635,Não Cancelou
+18,0,32,0,765,47,41,19,Pré-Pago,Inativo,30,19648,Cancelou
+16,0,35,8,10245,93,26,44,Contrato,Ativo,55,19407,Não Cancelou
+8,1,35,1,5628,98,51,26,Pré-Pago,Ativo,25,48717,Cancelou
+0,0,33,0,2650,22,25,16,Pré-Pago,Ativo,30,20688,Não Cancelou
+4,1,34,0,2800,41,34,18,Pré-Pago,Inativo,30,24964,Cancelou
+4,0,35,0,2078,44,59,33,Pré-Pago,Inativo,30,32088,Cancelou
+0,0,35,0,0,0,25,0,Pré-Pago,Inativo,30,100,Cancelou
+0,0,35,0,1478,25,25,8,Pré-Pago,Ativo,45,100075,Não Cancelou
+0,0,32,1,6595,97,39,24,Pré-Pago,Ativo,55,15888,Não Cancelou
+0,0,35,0,438,7,34,6,Pré-Pago,Inativo,45,96125,Cancelou
+0,0,35,1,148,4,29,4,Pré-Pago,Ativo,55,4578,Não Cancelou
+20,0,30,3,15885,238,25,82,Pré-Pago,Ativo,25,838035,Não Cancelou
+1,0,33,3,6775,116,296,35,Contrato,Ativo,25,1642095,Não Cancelou
+0,0,35,0,3528,82,27,30,Pré-Pago,Ativo,30,2524,Não Cancelou
+0,0,34,0,1475,44,63,22,Pré-Pago,Inativo,30,31276,Não Cancelou
+1,0,35,0,2590,53,200,25,Pré-Pago,Ativo,25,1018935,Não Cancelou
+0,0,26,1,1125,36,218,13,Contrato,Ativo,25,1033245,Não Cancelou
+0,0,25,0,1378,39,55,70,Pré-Pago,Ativo,45,172925,Não Cancelou
+6,0,26,0,510,25,35,9,Pré-Pago,Inativo,30,1614,Não Cancelou
+0,0,25,0,635,10,46,5,Pré-Pago,Inativo,45,131125,Não Cancelou
+5,0,24,0,1035,32,44,15,Pré-Pago,Ativo,25,246015,Não Cancelou
+0,0,24,0,3035,61,33,25,Pré-Pago,Ativo,30,25584,Não Cancelou
+0,0,17,0,1505,26,53,16,Pré-Pago,Ativo,25,307395,Não Cancelou
+11,0,16,1,6203,141,110,44,Contrato,Ativo,25,78048,Não Cancelou
+7,0,14,0,8743,171,98,42,Pré-Pago,Ativo,55,28071,Não Cancelou
+3,0,15,3,2663,45,56,21,Pré-Pago,Ativo,30,33232,Não Cancelou
+0,0,8,1,4200,40,240,12,Pré-Pago,Ativo,30,11296,Não Cancelou
+0,1,8,1,1298,19,25,9,Pré-Pago,Ativo,30,15268,Cancelou
+3,0,35,0,3950,59,0,11,Pré-Pago,Ativo,25,180405,Não Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+5,0,34,0,2033,48,320,18,Pré-Pago,Ativo,25,1533645,Não Cancelou
+5,0,35,0,3778,54,0,29,Pré-Pago,Ativo,15,21076,Não Cancelou
+0,0,35,0,1973,46,0,27,Pré-Pago,Ativo,15,111045,Não Cancelou
+6,0,35,0,3355,70,0,22,Pré-Pago,Ativo,25,154125,Não Cancelou
+0,0,35,0,1940,27,246,12,Pré-Pago,Ativo,30,106268,Não Cancelou
+8,0,34,0,8695,109,105,37,Pré-Pago,Ativo,30,77216,Não Cancelou
+2,0,35,0,13353,157,0,38,Pré-Pago,Ativo,30,5404,Não Cancelou
+2,0,35,0,4095,71,0,19,Pré-Pago,Ativo,30,16664,Não Cancelou
+1,0,35,0,5498,83,0,6,Pré-Pago,Ativo,25,251145,Não Cancelou
+4,0,35,0,1818,42,0,11,Pré-Pago,Inativo,30,744,Não Cancelou
+20,0,35,1,14720,213,15,26,Pré-Pago,Ativo,25,739485,Não Cancelou
+0,0,35,0,2675,15,444,2,Pré-Pago,Ativo,30,18836,Não Cancelou
+4,0,34,0,15065,170,111,24,Pré-Pago,Ativo,25,1185075,Não Cancelou
+0,0,34,0,6080,74,147,20,Pré-Pago,Ativo,30,83416,Não Cancelou
+0,0,34,0,455,2,0,5,Pré-Pago,Inativo,25,20565,Não Cancelou
+0,0,35,0,290,2,0,2,Pré-Pago,Inativo,25,1314,Não Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,34,0,7088,115,345,37,Pré-Pago,Ativo,25,1876635,Não Cancelou
+2,0,34,0,11045,142,0,41,Pré-Pago,Ativo,30,44748,Não Cancelou
+3,0,34,0,6298,63,69,31,Pré-Pago,Ativo,25,596745,Não Cancelou
+18,0,30,0,535,35,0,11,Pré-Pago,Inativo,25,2565,Cancelou
+16,0,33,6,10015,81,0,36,Pré-Pago,Ativo,45,2524,Não Cancelou
+8,0,33,0,5398,86,0,18,Pré-Pago,Ativo,25,24678,Cancelou
+0,0,31,0,2420,10,0,8,Pré-Pago,Ativo,30,972,Não Cancelou
+4,1,32,0,2570,29,0,10,Pré-Pago,Inativo,25,116955,Cancelou
+4,0,33,0,1848,32,0,25,Pré-Pago,Inativo,30,752,Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,33,0,1248,13,0,3,Pré-Pago,Ativo,30,5044,Não Cancelou
+0,0,30,0,6365,85,0,16,Pré-Pago,Ativo,45,16125,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Ativo,45,0,Não Cancelou
+20,0,28,1,15655,226,0,74,Pré-Pago,Ativo,25,714645,Não Cancelou
+1,0,31,1,6545,104,232,27,Contrato,Ativo,25,1343205,Não Cancelou
+0,0,33,0,3298,70,0,22,Pré-Pago,Ativo,25,15156,Não Cancelou
+0,0,32,0,1245,32,0,14,Pré-Pago,Inativo,30,5108,Não Cancelou
+1,0,33,0,2360,41,136,17,Pré-Pago,Ativo,25,720045,Não Cancelou
+0,0,24,0,895,24,154,5,Contrato,Ativo,25,734355,Não Cancelou
+0,0,23,0,1148,27,0,62,Pré-Pago,Ativo,45,29375,Não Cancelou
+6,0,24,0,280,13,0,1,Pré-Pago,Inativo,25,13185,Não Cancelou
+0,0,23,0,0,0,0,0,Pré-Pago,Inativo,45,0,Não Cancelou
+5,0,22,0,805,20,0,7,Pré-Pago,Ativo,15,45375,Não Cancelou
+0,0,22,0,2805,49,0,17,Pré-Pago,Ativo,30,11416,Não Cancelou
+0,0,15,0,1275,14,0,8,Pré-Pago,Ativo,25,58005,Não Cancelou
+11,0,14,0,5973,129,46,36,Contrato,Ativo,15,58861,Não Cancelou
+7,0,12,0,8513,159,34,34,Pré-Pago,Ativo,45,3018,Não Cancelou
+3,0,13,1,2433,33,0,13,Pré-Pago,Ativo,30,9864,Não Cancelou
+0,0,6,0,3970,28,176,4,Pré-Pago,Ativo,25,97191,Não Cancelou
+0,1,6,0,1068,7,0,1,Pré-Pago,Ativo,25,48375,Cancelou
+5,0,36,0,4255,66,7,18,Pré-Pago,Ativo,25,225945,Não Cancelou
+0,0,37,0,0,0,9,0,Pré-Pago,Inativo,25,405,Não Cancelou
+7,0,35,0,2338,55,361,25,Pré-Pago,Ativo,25,1732185,Não Cancelou
+7,0,36,0,4083,61,3,36,Pré-Pago,Ativo,15,24442,Não Cancelou
+0,0,36,0,2278,53,4,34,Pré-Pago,Ativo,15,150205,Não Cancelou
+8,0,36,0,3660,77,34,29,Pré-Pago,Ativo,25,321165,Não Cancelou
+1,0,36,0,2245,34,287,19,Pré-Pago,Ativo,30,123916,Não Cancelou
+10,0,35,1,9000,116,146,44,Pré-Pago,Ativo,30,94864,Não Cancelou
+4,0,36,0,13658,164,2,45,Pré-Pago,Ativo,30,56088,Não Cancelou
+4,0,36,0,4400,78,4,26,Pré-Pago,Ativo,30,19512,Não Cancelou
+3,0,36,0,5803,90,9,13,Pré-Pago,Ativo,25,305685,Não Cancelou
+6,1,36,0,2123,49,10,18,Pré-Pago,Inativo,30,12688,Não Cancelou
+22,0,36,2,15025,220,56,33,Pré-Pago,Ativo,30,8338,Não Cancelou
+1,0,36,0,2980,22,485,9,Pré-Pago,Ativo,30,206008,Não Cancelou
+6,0,35,0,15370,177,152,31,Pré-Pago,Ativo,25,1383615,Não Cancelou
+0,0,35,0,6385,81,188,27,Pré-Pago,Ativo,30,101064,Não Cancelou
+0,0,35,0,760,9,2,12,Pré-Pago,Inativo,25,43605,Não Cancelou
+0,0,36,0,595,9,15,9,Pré-Pago,Inativo,25,9468,Não Cancelou
+0,0,35,0,0,0,2,0,Pré-Pago,Inativo,25,9,Cancelou
+0,0,35,0,7393,122,386,44,Pré-Pago,Ativo,25,2075175,Não Cancelou
+4,0,35,0,11350,149,13,48,Pré-Pago,Ativo,30,51196,Não Cancelou
+5,0,35,0,6603,70,110,38,Pré-Pago,Ativo,25,795285,Não Cancelou
+20,0,31,0,840,42,18,18,Pré-Pago,Inativo,25,12069,Cancelou
+18,0,34,7,10320,88,3,43,Pré-Pago,Ativo,45,2677,Não Cancelou
+10,0,34,0,5703,93,28,25,Pré-Pago,Ativo,25,38682,Cancelou
+0,0,32,0,2725,17,2,15,Pré-Pago,Ativo,30,11768,Não Cancelou
+6,0,33,0,2875,36,11,17,Pré-Pago,Inativo,25,180495,Cancelou
+6,1,34,0,2153,39,36,32,Pré-Pago,Inativo,30,23168,Cancelou
+0,0,34,0,0,0,2,0,Pré-Pago,Inativo,30,8,Cancelou
+0,0,34,0,1553,20,2,7,Pré-Pago,Ativo,30,7092,Não Cancelou
+0,0,31,0,6670,92,16,23,Pré-Pago,Ativo,45,20905,Não Cancelou
+0,0,34,0,513,2,11,5,Pré-Pago,Inativo,45,40375,Cancelou
+0,0,34,0,0,0,6,0,Pré-Pago,Ativo,55,9,Não Cancelou
+22,0,29,2,15960,233,2,81,Pré-Pago,Ativo,25,737685,Não Cancelou
+3,0,32,2,6850,111,273,34,Contrato,Ativo,25,1541745,Não Cancelou
+0,0,34,0,3603,77,4,29,Pré-Pago,Ativo,25,1836,Não Cancelou
+0,0,33,0,1550,39,40,21,Pré-Pago,Inativo,30,22356,Não Cancelou
+3,0,34,0,2665,48,177,24,Pré-Pago,Ativo,25,918585,Não Cancelou
+1,0,25,0,1200,31,195,12,Contrato,Ativo,25,932895,Não Cancelou
+1,0,24,0,1453,34,32,69,Pré-Pago,Ativo,45,117175,Não Cancelou
+8,0,25,0,585,20,12,8,Pré-Pago,Inativo,25,81225,Não Cancelou
+0,0,24,0,710,5,23,4,Pré-Pago,Inativo,45,75375,Não Cancelou
+7,0,23,0,1110,27,21,14,Pré-Pago,Ativo,25,145665,Não Cancelou
+0,0,23,0,3110,56,10,24,Pré-Pago,Ativo,30,16664,Não Cancelou
+0,0,16,0,1580,21,30,15,Pré-Pago,Ativo,25,207045,Não Cancelou
+13,0,15,0,6277,136,87,43,Contrato,Ativo,15,831215,Não Cancelou
+9,0,13,0,8817,166,75,41,Pré-Pago,Ativo,45,412075,Não Cancelou
+5,0,14,2,2737,40,33,20,Pré-Pago,Ativo,30,24308,Não Cancelou
+0,0,7,0,4275,35,217,11,Pré-Pago,Ativo,30,10404,Não Cancelou
+0,1,7,0,1372,14,2,8,Pré-Pago,Ativo,25,7137,Cancelou
+1,0,36,0,3875,64,0,12,Pré-Pago,Ativo,25,177255,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+3,0,35,0,1958,53,343,19,Pré-Pago,Ativo,25,1633995,Não Cancelou
+3,0,36,0,3703,59,0,30,Pré-Pago,Ativo,25,16929,Não Cancelou
+0,0,36,0,1898,51,0,28,Pré-Pago,Ativo,15,107195,Não Cancelou
+4,0,36,0,3280,75,16,23,Pré-Pago,Ativo,25,222975,Não Cancelou
+0,0,36,0,1865,32,269,13,Pré-Pago,Ativo,30,115188,Não Cancelou
+6,0,35,1,8620,114,128,38,Pré-Pago,Ativo,30,86136,Não Cancelou
+0,0,36,0,13278,162,0,39,Pré-Pago,Ativo,30,5376,Não Cancelou
+0,0,36,0,4020,76,0,20,Pré-Pago,Ativo,30,16384,Não Cancelou
+0,0,36,0,5423,88,0,7,Pré-Pago,Ativo,25,247995,Não Cancelou
+2,0,36,0,1743,47,0,12,Pré-Pago,Inativo,30,716,Não Cancelou
+18,0,36,2,14645,218,38,27,Pré-Pago,Ativo,30,74652,Não Cancelou
+0,0,36,0,2600,20,467,3,Pré-Pago,Ativo,30,19728,Não Cancelou
+2,0,35,0,14990,175,134,25,Pré-Pago,Ativo,25,1285425,Não Cancelou
+0,0,35,0,6005,79,170,21,Pré-Pago,Ativo,30,92336,Não Cancelou
+0,0,35,0,380,7,0,6,Pré-Pago,Inativo,25,17415,Não Cancelou
+0,0,36,0,215,7,0,3,Pré-Pago,Inativo,25,999,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,35,0,7013,120,368,38,Pré-Pago,Ativo,25,1976985,Não Cancelou
+0,0,35,0,10970,147,0,42,Pré-Pago,Ativo,30,44468,Não Cancelou
+1,0,35,0,6223,68,92,32,Pré-Pago,Ativo,25,697095,Não Cancelou
+16,1,31,0,460,40,0,12,Pré-Pago,Inativo,25,225,Cancelou
+14,0,34,7,9940,86,0,37,Pré-Pago,Ativo,45,25065,Não Cancelou
+6,0,34,0,5323,91,10,19,Pré-Pago,Ativo,25,28863,Cancelou
+0,0,32,0,2345,15,0,9,Pré-Pago,Ativo,30,944,Não Cancelou
+2,1,33,0,2495,34,0,11,Pré-Pago,Inativo,25,113805,Cancelou
+2,0,34,0,1773,37,18,26,Pré-Pago,Inativo,30,1444,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,34,0,1173,18,0,1,Pré-Pago,Ativo,30,4764,Não Cancelou
+0,0,31,0,6290,90,0,17,Pré-Pago,Ativo,45,1595,Não Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,45,0,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+18,0,29,2,15580,231,0,75,Pré-Pago,Ativo,25,711495,Não Cancelou
+0,0,32,2,6470,109,255,28,Contrato,Ativo,25,1443555,Não Cancelou
+0,0,34,0,3223,75,0,23,Pré-Pago,Ativo,25,14841,Não Cancelou
+0,0,33,0,1170,37,22,15,Pré-Pago,Inativo,30,13628,Não Cancelou
+0,0,34,0,2285,46,159,18,Pré-Pago,Ativo,25,820395,Não Cancelou
+0,0,25,0,820,29,177,6,Contrato,Ativo,25,834705,Não Cancelou
+0,0,24,0,1073,32,14,63,Pré-Pago,Ativo,45,62625,Não Cancelou
+4,0,25,0,205,18,0,2,Pré-Pago,Inativo,25,10035,Não Cancelou
+0,0,24,0,0,0,5,0,Pré-Pago,Inativo,45,125,Não Cancelou
+3,0,23,0,730,25,3,8,Pré-Pago,Ativo,25,47475,Não Cancelou
+0,0,23,0,2730,54,0,18,Pré-Pago,Ativo,30,11136,Não Cancelou
+0,0,16,0,1200,19,12,9,Pré-Pago,Ativo,25,108855,Não Cancelou
+9,0,15,0,5897,134,69,37,Contrato,Ativo,15,711205,Não Cancelou
+5,0,13,0,8437,164,57,35,Pré-Pago,Ativo,45,357525,Não Cancelou
+1,0,14,2,2357,38,15,14,Pré-Pago,Ativo,30,1558,Não Cancelou
+0,0,7,0,3895,33,199,5,Pré-Pago,Ativo,30,95312,Não Cancelou
+0,0,7,0,992,12,0,2,Pré-Pago,Ativo,25,4518,Cancelou
+1,0,31,0,4065,59,0,14,Pré-Pago,Ativo,25,18558,Não Cancelou
+0,0,32,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+3,0,30,0,2148,48,344,21,Pré-Pago,Ativo,25,164682,Não Cancelou
+3,0,31,0,3893,54,0,32,Pré-Pago,Ativo,15,217085,Não Cancelou
+0,0,31,0,2088,46,0,30,Pré-Pago,Ativo,15,11737,Não Cancelou
+4,0,31,0,3470,70,17,25,Pré-Pago,Ativo,25,2358,Não Cancelou
+0,0,31,0,2055,27,270,15,Pré-Pago,Ativo,30,116328,Não Cancelou
+6,0,30,0,8810,109,129,40,Pré-Pago,Ativo,30,87276,Não Cancelou
+0,0,31,0,13468,157,0,41,Pré-Pago,Ativo,30,545,Não Cancelou
+0,0,31,0,4210,71,0,22,Pré-Pago,Ativo,30,17124,Não Cancelou
+0,0,31,0,5613,83,0,9,Pré-Pago,Ativo,25,25632,Não Cancelou
+2,0,31,0,1933,42,0,14,Pré-Pago,Inativo,30,79,Não Cancelou
+18,0,31,1,14835,213,39,29,Pré-Pago,Ativo,25,85266,Não Cancelou
+0,0,31,0,2790,15,468,5,Pré-Pago,Ativo,30,19842,Não Cancelou
+2,0,30,0,15180,170,135,27,Pré-Pago,Ativo,25,129825,Não Cancelou
+0,0,30,0,6195,74,171,23,Pré-Pago,Ativo,30,93476,Não Cancelou
+0,0,30,0,570,2,0,8,Pré-Pago,Inativo,25,2574,Não Cancelou
+0,0,31,0,405,2,0,5,Pré-Pago,Inativo,25,18315,Não Cancelou
+0,0,30,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,30,0,7203,115,369,40,Pré-Pago,Ativo,25,198981,Não Cancelou
+0,0,30,0,11160,142,0,44,Pré-Pago,Ativo,30,45208,Não Cancelou
+1,0,30,0,6413,63,93,34,Pré-Pago,Ativo,25,70992,Não Cancelou
+16,0,26,0,650,35,1,14,Pré-Pago,Inativo,25,35325,Cancelou
+14,0,29,6,10130,81,0,39,Pré-Pago,Ativo,45,255275,Não Cancelou
+6,0,29,0,5513,86,11,21,Pré-Pago,Ativo,25,301455,Cancelou
+0,0,27,0,2535,10,0,11,Pré-Pago,Ativo,30,1018,Não Cancelou
+2,0,28,0,2685,29,0,13,Pré-Pago,Inativo,25,12213,Cancelou
+2,0,29,0,1963,32,19,28,Pré-Pago,Inativo,30,1558,Cancelou
+0,0,29,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,29,0,1363,13,0,3,Pré-Pago,Ativo,30,5504,Não Cancelou
+0,0,26,0,6480,85,0,19,Pré-Pago,Ativo,45,164125,Não Cancelou
+0,0,29,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,29,0,0,0,0,0,Pré-Pago,Ativo,45,0,Não Cancelou
+18,0,24,1,15770,226,0,77,Pré-Pago,Ativo,25,71982,Não Cancelou
+0,0,27,1,6660,104,256,30,Contrato,Ativo,25,145638,Não Cancelou
+0,0,29,0,3413,70,0,25,Pré-Pago,Ativo,25,156735,Não Cancelou
+0,0,28,0,1360,32,23,17,Pré-Pago,Inativo,30,14768,Não Cancelou
+0,0,29,0,2475,41,160,20,Pré-Pago,Ativo,25,83322,Não Cancelou
+0,0,20,0,1010,24,178,8,Contrato,Ativo,25,84753,Não Cancelou
+0,0,19,0,1263,27,15,65,Pré-Pago,Ativo,45,6975,Não Cancelou
+4,0,20,0,395,13,0,4,Pré-Pago,Inativo,25,1836,Não Cancelou
+0,0,19,0,520,4,6,2,Pré-Pago,Inativo,45,281,Não Cancelou
+3,0,18,0,920,20,4,10,Pré-Pago,Ativo,15,737,Não Cancelou
+0,0,18,0,2920,49,0,20,Pré-Pago,Ativo,30,11876,Não Cancelou
+0,0,11,0,1390,14,13,11,Pré-Pago,Ativo,25,12168,Não Cancelou
+9,0,10,0,6087,129,70,39,Contrato,Ativo,15,72688,Não Cancelou
+5,0,8,0,8627,159,58,37,Pré-Pago,Ativo,45,36465,Não Cancelou
+1,0,9,1,2547,33,16,16,Pré-Pago,Ativo,30,1672,Não Cancelou
+0,0,3,0,4085,28,200,7,Pré-Pago,Ativo,25,1085085,Não Cancelou
+0,0,3,0,1182,7,0,4,Pré-Pago,Ativo,25,53505,Cancelou
+5,0,41,0,4065,71,6,16,Pré-Pago,Ativo,30,18944,Não Cancelou
+0,0,42,0,13,5,8,3,Pré-Pago,Inativo,30,3272,Não Cancelou
+7,0,40,0,2148,60,360,23,Pré-Pago,Ativo,30,152832,Não Cancelou
+7,0,41,0,3893,66,2,34,Pré-Pago,Ativo,15,228745,Não Cancelou
+0,0,41,0,2088,58,3,32,Pré-Pago,Ativo,25,11007,Não Cancelou
+8,0,41,1,3470,82,33,27,Pré-Pago,Ativo,30,27408,Não Cancelou
+1,0,41,0,2055,39,286,17,Pré-Pago,Ativo,30,122776,Não Cancelou
+10,0,40,2,8810,121,145,42,Pré-Pago,Ativo,30,93724,Não Cancelou
+4,0,41,0,13468,169,1,43,Pré-Pago,Ativo,30,54948,Não Cancelou
+4,0,41,1,4210,83,3,24,Pré-Pago,Ativo,30,18372,Não Cancelou
+3,0,41,0,5613,95,8,11,Pré-Pago,Ativo,30,26032,Não Cancelou
+6,0,41,0,1933,54,9,16,Pré-Pago,Inativo,30,11548,Não Cancelou
+22,0,41,3,14835,225,55,31,Pré-Pago,Ativo,30,8224,Não Cancelou
+1,0,41,1,2790,27,484,7,Pré-Pago,Ativo,30,204868,Não Cancelou
+6,0,40,0,15180,182,151,29,Pré-Pago,Ativo,25,137079,Não Cancelou
+0,0,40,1,6195,86,187,25,Pré-Pago,Ativo,30,99924,Não Cancelou
+0,0,40,0,570,14,1,10,Pré-Pago,Inativo,25,3078,Não Cancelou
+0,0,41,0,405,14,14,7,Pré-Pago,Inativo,30,7276,Não Cancelou
+0,0,40,0,0,0,1,0,Pré-Pago,Inativo,25,45,Cancelou
+0,0,40,0,7203,127,385,42,Pré-Pago,Ativo,30,18332,Não Cancelou
+4,0,40,1,11160,154,12,46,Pré-Pago,Ativo,45,31285,Não Cancelou
+5,0,40,1,6413,75,109,36,Pré-Pago,Ativo,25,78246,Não Cancelou
+20,0,36,0,650,47,17,16,Pré-Pago,Inativo,30,9588,Cancelou
+18,0,39,8,10130,93,2,41,Pré-Pago,Ativo,55,156345,Não Cancelou
+10,0,39,1,5513,98,27,23,Pré-Pago,Ativo,25,373995,Cancelou
+0,0,37,0,2535,22,1,13,Pré-Pago,Ativo,30,10628,Não Cancelou
+6,1,38,0,2685,41,10,15,Pré-Pago,Inativo,30,14904,Cancelou
+6,0,39,0,1963,44,35,30,Pré-Pago,Inativo,30,22028,Cancelou
+0,0,39,0,0,0,1,0,Pré-Pago,Inativo,30,4,Cancelou
+0,0,39,0,1363,25,1,5,Pré-Pago,Ativo,45,372,Não Cancelou
+0,0,36,1,6480,97,15,21,Pré-Pago,Ativo,55,121155,Não Cancelou
+0,0,39,0,323,7,10,3,Pré-Pago,Inativo,45,3325,Cancelou
+0,0,39,1,33,4,5,1,Pré-Pago,Ativo,55,8055,Não Cancelou
+22,0,34,3,15770,238,1,79,Pré-Pago,Ativo,25,72486,Não Cancelou
+3,0,37,3,6660,116,272,32,Contrato,Ativo,25,152892,Não Cancelou
+0,0,39,0,3413,82,3,27,Pré-Pago,Ativo,30,1518,Não Cancelou
+0,0,38,0,1360,44,39,19,Pré-Pago,Inativo,30,21216,Não Cancelou
+3,0,39,0,2475,53,176,22,Pré-Pago,Ativo,25,90576,Não Cancelou
+1,0,30,1,1010,36,194,10,Contrato,Ativo,25,92007,Não Cancelou
+1,0,29,0,1263,39,31,67,Pré-Pago,Ativo,45,11005,Não Cancelou
+8,0,30,0,395,25,11,6,Pré-Pago,Inativo,30,608,Não Cancelou
+0,0,29,0,520,10,22,2,Pré-Pago,Inativo,45,6825,Não Cancelou
+7,0,28,0,920,32,20,12,Pré-Pago,Ativo,25,13284,Não Cancelou
+0,0,28,0,2920,61,9,22,Pré-Pago,Ativo,30,15524,Não Cancelou
+0,0,21,0,1390,26,29,13,Pré-Pago,Ativo,25,19422,Não Cancelou
+13,0,20,1,6087,141,86,41,Contrato,Ativo,25,66726,Não Cancelou
+9,0,18,0,8627,171,74,39,Pré-Pago,Ativo,55,24297,Não Cancelou
+5,0,19,3,2547,45,32,18,Pré-Pago,Ativo,30,23168,Não Cancelou
+0,0,12,1,4085,40,216,9,Pré-Pago,Ativo,30,1029,Não Cancelou
+0,0,12,1,1182,19,1,6,Pré-Pago,Ativo,30,5204,Cancelou
+9,0,37,0,4775,76,23,15,Pré-Pago,Ativo,25,321795,Não Cancelou
+1,0,38,0,723,10,8,2,Pré-Pago,Inativo,25,68985,Não Cancelou
+11,0,36,0,2858,65,360,22,Pré-Pago,Ativo,25,1751535,Não Cancelou
+11,0,37,0,4603,71,2,33,Pré-Pago,Ativo,15,26807,Não Cancelou
+4,0,37,0,2798,63,3,31,Pré-Pago,Ativo,15,173855,Não Cancelou
+12,0,37,1,4180,87,33,26,Pré-Pago,Ativo,30,30268,Não Cancelou
+5,0,37,0,2765,44,286,16,Pré-Pago,Ativo,30,125636,Não Cancelou
+14,0,36,2,9520,126,145,41,Pré-Pago,Ativo,30,96584,Não Cancelou
+8,0,37,0,14178,174,1,42,Pré-Pago,Ativo,30,57808,Não Cancelou
+8,0,37,1,4920,88,3,23,Pré-Pago,Ativo,30,21232,Não Cancelou
+7,0,37,0,6323,100,8,10,Pré-Pago,Ativo,25,325035,Não Cancelou
+10,0,37,0,2643,59,9,15,Pré-Pago,Inativo,30,14408,Não Cancelou
+26,1,37,3,15545,230,55,30,Pré-Pago,Ativo,30,851,Não Cancelou
+5,0,37,1,3500,32,484,6,Pré-Pago,Ativo,30,207728,Não Cancelou
+10,0,36,0,15890,187,151,28,Pré-Pago,Ativo,25,1402965,Não Cancelou
+4,0,36,1,6905,91,187,24,Pré-Pago,Ativo,30,102784,Não Cancelou
+1,0,36,0,1280,19,1,9,Pré-Pago,Inativo,25,62955,Não Cancelou
+3,0,37,0,1115,19,14,6,Pré-Pago,Inativo,25,11403,Não Cancelou
+0,0,36,0,0,0,1,0,Pré-Pago,Inativo,25,45,Cancelou
+4,0,36,0,7913,132,385,41,Pré-Pago,Ativo,25,2094525,Não Cancelou
+8,0,36,1,11870,159,12,45,Pré-Pago,Ativo,30,52916,Não Cancelou
+9,0,36,1,7123,80,109,35,Pré-Pago,Ativo,25,814635,Não Cancelou
+24,0,32,0,1360,52,17,15,Pré-Pago,Inativo,25,14004,Cancelou
+22,0,35,8,10840,98,2,40,Pré-Pago,Ativo,45,27845,Não Cancelou
+14,0,35,1,6223,103,27,22,Pré-Pago,Ativo,25,40617,Não Cancelou
+2,0,33,0,3245,27,1,12,Pré-Pago,Ativo,30,13488,Não Cancelou
+10,0,34,0,3395,46,10,14,Pré-Pago,Inativo,30,17764,Cancelou
+10,1,35,0,2673,49,35,29,Pré-Pago,Inativo,30,24888,Cancelou
+1,0,35,0,538,7,1,1,Pré-Pago,Inativo,30,258,Cancelou
+2,0,35,0,2073,30,1,4,Pré-Pago,Ativo,30,8812,Não Cancelou
+4,0,32,1,7190,102,15,20,Pré-Pago,Ativo,45,2198,Não Cancelou
+1,0,35,0,1033,12,10,2,Pré-Pago,Inativo,45,51125,Cancelou
+1,0,35,1,743,9,5,1,Pré-Pago,Ativo,55,1878,Não Cancelou
+26,0,30,3,16480,243,1,78,Pré-Pago,Ativo,25,757035,Não Cancelou
+7,0,33,3,7370,121,272,31,Contrato,Ativo,25,1561095,Não Cancelou
+3,0,35,0,4123,87,3,26,Pré-Pago,Ativo,25,20295,Não Cancelou
+4,0,34,0,2070,49,39,18,Pré-Pago,Inativo,30,24076,Não Cancelou
+7,0,35,0,3185,58,176,21,Pré-Pago,Ativo,25,937935,Não Cancelou
+5,0,26,1,1720,41,194,9,Contrato,Ativo,25,952245,Não Cancelou
+5,0,25,0,1973,44,31,66,Pré-Pago,Ativo,45,127925,Não Cancelou
+12,0,26,0,1105,30,11,5,Pré-Pago,Inativo,25,100575,Não Cancelou
+1,0,25,0,1230,15,22,1,Pré-Pago,Inativo,45,86125,Não Cancelou
+11,0,24,0,1630,37,20,11,Pré-Pago,Ativo,25,165015,Não Cancelou
+3,0,24,0,3630,66,9,21,Pré-Pago,Ativo,30,18384,Não Cancelou
+3,0,17,0,2100,31,29,12,Pré-Pago,Ativo,25,226395,Não Cancelou
+17,0,16,1,6797,146,86,40,Contrato,Ativo,15,854865,Não Cancelou
+13,0,14,0,9337,176,74,38,Pré-Pago,Ativo,45,422825,Não Cancelou
+9,0,15,3,3257,50,32,17,Pré-Pago,Ativo,30,26028,Não Cancelou
+3,0,8,1,4795,45,216,8,Pré-Pago,Ativo,30,10576,Não Cancelou
+4,0,8,1,1892,24,1,5,Pré-Pago,Ativo,30,8064,Cancelou
+0,0,35,0,3355,54,0,15,Pré-Pago,Ativo,25,153405,Não Cancelou
+0,0,36,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,34,0,1438,43,327,22,Pré-Pago,Ativo,25,1538145,Não Cancelou
+0,0,35,0,3183,49,0,33,Pré-Pago,Ativo,15,17776,Não Cancelou
+0,0,35,0,1378,41,0,31,Pré-Pago,Ativo,15,78045,Não Cancelou
+0,0,35,0,2760,65,0,26,Pré-Pago,Ativo,25,127125,Não Cancelou
+0,0,35,0,1345,22,253,16,Pré-Pago,Ativo,30,106668,Não Cancelou
+2,0,34,0,8100,104,112,41,Pré-Pago,Ativo,30,77616,Não Cancelou
+0,0,35,0,12758,152,0,42,Pré-Pago,Ativo,30,5164,Não Cancelou
+0,0,35,0,3500,66,0,23,Pré-Pago,Ativo,30,14264,Não Cancelou
+0,0,35,0,4903,78,0,10,Pré-Pago,Ativo,25,224145,Não Cancelou
+0,0,35,0,1223,37,0,15,Pré-Pago,Inativo,30,504,Não Cancelou
+14,0,35,1,14125,208,22,30,Pré-Pago,Ativo,25,743985,Não Cancelou
+0,0,35,0,2080,10,451,6,Pré-Pago,Ativo,30,18876,Não Cancelou
+0,0,34,0,14470,165,118,28,Pré-Pago,Ativo,25,1189575,Não Cancelou
+0,0,34,0,5485,69,154,24,Pré-Pago,Ativo,30,83816,Não Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,34,0,6493,110,352,41,Pré-Pago,Ativo,25,1881135,Não Cancelou
+0,0,34,0,10450,137,0,45,Pré-Pago,Ativo,30,42348,Não Cancelou
+0,0,34,0,5703,58,76,35,Pré-Pago,Ativo,25,601245,Não Cancelou
+0,1,30,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+10,0,33,6,9420,76,0,40,Pré-Pago,Ativo,45,2374,Não Cancelou
+2,1,33,0,4803,81,0,22,Pré-Pago,Ativo,25,21978,Cancelou
+0,0,31,0,1825,5,0,12,Pré-Pago,Ativo,30,732,Não Cancelou
+0,0,32,0,1975,24,0,14,Pré-Pago,Inativo,25,89955,Cancelou
+0,0,33,0,1253,27,2,29,Pré-Pago,Inativo,30,592,Cancelou
+0,1,33,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,33,0,653,8,0,4,Pré-Pago,Ativo,30,2644,Não Cancelou
+0,0,30,0,5770,80,0,20,Pré-Pago,Ativo,45,14625,Não Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,33,0,0,0,0,0,Pré-Pago,Ativo,45,0,Não Cancelou
+14,0,28,1,15060,221,0,78,Pré-Pago,Ativo,25,687645,Não Cancelou
+0,0,31,1,5950,99,239,31,Contrato,Ativo,25,1347705,Não Cancelou
+0,0,33,0,2703,65,0,26,Pré-Pago,Ativo,25,12456,Não Cancelou
+0,0,32,0,650,27,6,18,Pré-Pago,Inativo,30,5108,Não Cancelou
+0,0,33,0,1765,36,143,21,Pré-Pago,Ativo,25,724545,Não Cancelou
+0,0,24,0,300,19,161,9,Contrato,Ativo,25,738855,Não Cancelou
+0,0,23,0,553,22,0,66,Pré-Pago,Ativo,45,14375,Não Cancelou
+0,0,24,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+0,0,23,0,0,0,0,0,Pré-Pago,Inativo,45,0,Não Cancelou
+0,0,22,0,210,15,0,11,Pré-Pago,Ativo,25,10125,Não Cancelou
+0,0,22,0,2210,44,0,21,Pré-Pago,Ativo,30,9016,Não Cancelou
+0,0,15,0,680,9,0,12,Pré-Pago,Ativo,25,31005,Não Cancelou
+5,0,14,0,5377,124,53,40,Contrato,Ativo,15,594055,Não Cancelou
+1,0,12,0,7917,154,41,38,Pré-Pago,Ativo,45,304275,Não Cancelou
+0,0,13,1,1837,28,0,17,Pré-Pago,Ativo,30,746,Não Cancelou
+0,0,6,0,3375,23,183,8,Pré-Pago,Ativo,30,86792,Não Cancelou
+0,0,6,0,472,2,0,5,Pré-Pago,Ativo,25,2133,Cancelou
+3,0,36,0,4065,65,0,15,Pré-Pago,Ativo,25,18585,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+5,0,35,0,2148,54,352,22,Pré-Pago,Ativo,25,168309,Não Cancelou
+5,0,36,0,3893,60,0,33,Pré-Pago,Ativo,15,217415,Não Cancelou
+0,0,36,0,2088,52,0,31,Pré-Pago,Ativo,15,1177,Não Cancelou
+6,0,36,0,3470,76,25,26,Pré-Pago,Ativo,25,27207,Não Cancelou
+0,0,36,0,2055,33,278,16,Pré-Pago,Ativo,30,119552,Não Cancelou
+8,0,35,1,8810,115,137,41,Pré-Pago,Ativo,30,905,Não Cancelou
+2,0,36,0,13468,163,0,42,Pré-Pago,Ativo,30,54524,Não Cancelou
+2,0,36,0,4210,77,0,23,Pré-Pago,Ativo,30,17148,Não Cancelou
+1,0,36,0,5613,89,0,10,Pré-Pago,Ativo,25,25659,Não Cancelou
+4,0,36,0,1933,48,1,15,Pré-Pago,Inativo,30,8324,Não Cancelou
+20,0,36,2,14835,219,47,30,Pré-Pago,Ativo,30,79016,Não Cancelou
+0,0,36,0,2790,21,476,6,Pré-Pago,Ativo,30,201644,Não Cancelou
+4,0,35,0,15180,176,143,28,Pré-Pago,Ativo,25,133452,Não Cancelou
+0,0,35,0,6195,80,179,24,Pré-Pago,Ativo,30,967,Não Cancelou
+0,0,35,0,570,8,0,9,Pré-Pago,Inativo,25,2601,Não Cancelou
+0,0,36,0,405,8,6,6,Pré-Pago,Inativo,25,45585,Não Cancelou
+0,1,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,35,0,7203,121,377,41,Pré-Pago,Ativo,25,202608,Não Cancelou
+2,0,35,0,11160,148,4,45,Pré-Pago,Ativo,30,46832,Não Cancelou
+3,0,35,0,6413,69,101,35,Pré-Pago,Ativo,25,74619,Não Cancelou
+18,0,31,0,650,41,9,15,Pré-Pago,Inativo,25,71595,Cancelou
+16,0,34,7,10130,87,0,40,Pré-Pago,Ativo,45,255425,Não Cancelou
+8,0,34,0,5513,92,19,22,Pré-Pago,Ativo,25,337725,Cancelou
+0,0,32,0,2535,16,0,12,Pré-Pago,Ativo,30,10204,Não Cancelou
+4,0,33,0,2685,35,2,14,Pré-Pago,Inativo,25,1314,Cancelou
+4,1,34,0,1963,38,27,29,Pré-Pago,Inativo,30,18804,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,34,0,1363,19,0,4,Pré-Pago,Ativo,30,5528,Não Cancelou
+0,0,31,0,6480,91,7,20,Pré-Pago,Ativo,45,181775,Não Cancelou
+0,1,34,0,323,1,2,2,Pré-Pago,Inativo,45,131,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+20,0,29,2,15770,232,0,78,Pré-Pago,Ativo,25,72009,Não Cancelou
+1,0,32,2,6660,110,264,31,Contrato,Ativo,25,149265,Não Cancelou
+0,0,34,0,3413,76,0,26,Pré-Pago,Ativo,25,157005,Não Cancelou
+0,0,33,0,1360,38,31,18,Pré-Pago,Inativo,30,17992,Não Cancelou
+1,0,34,0,2475,47,168,21,Pré-Pago,Ativo,25,86949,Não Cancelou
+0,0,25,0,1010,30,186,9,Contrato,Ativo,25,8838,Não Cancelou
+0,0,24,0,1263,33,23,66,Pré-Pago,Ativo,45,899,Não Cancelou
+6,0,25,0,395,19,3,5,Pré-Pago,Inativo,25,3213,Não Cancelou
+0,0,24,0,520,4,14,1,Pré-Pago,Inativo,45,481,Não Cancelou
+5,0,23,0,920,26,12,11,Pré-Pago,Ativo,25,9657,Não Cancelou
+0,0,23,0,2920,55,1,21,Pré-Pago,Ativo,30,123,Não Cancelou
+0,0,16,0,1390,20,21,12,Pré-Pago,Ativo,25,15795,Não Cancelou
+11,0,15,0,6087,135,78,40,Contrato,Ativo,15,77121,Não Cancelou
+7,0,13,0,8627,165,66,38,Pré-Pago,Ativo,45,3848,Não Cancelou
+3,0,14,2,2547,39,24,17,Pré-Pago,Ativo,30,19944,Não Cancelou
+0,0,7,0,4085,34,208,8,Pré-Pago,Ativo,30,99676,Não Cancelou
+0,0,7,0,1182,13,0,5,Pré-Pago,Ativo,25,53775,Cancelou
+3,0,36,0,4065,65,0,15,Pré-Pago,Ativo,25,18585,Não Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,25,0,Não Cancelou
+5,0,35,0,2148,54,352,22,Pré-Pago,Ativo,25,168309,Não Cancelou
+5,0,36,0,3893,60,0,33,Pré-Pago,Ativo,15,217415,Não Cancelou
+0,0,36,0,2088,52,0,31,Pré-Pago,Ativo,15,1177,Não Cancelou
+6,0,36,0,3470,76,25,26,Pré-Pago,Ativo,25,27207,Não Cancelou
+0,0,36,0,2055,33,278,16,Pré-Pago,Ativo,30,119552,Não Cancelou
+8,0,35,1,8810,115,137,41,Pré-Pago,Ativo,30,905,Não Cancelou
+2,0,36,0,13468,163,0,42,Pré-Pago,Ativo,30,54524,Não Cancelou
+2,0,36,0,4210,77,0,23,Pré-Pago,Ativo,30,17148,Não Cancelou
+1,0,36,0,5613,89,0,10,Pré-Pago,Ativo,25,25659,Não Cancelou
+4,0,36,0,1933,48,1,15,Pré-Pago,Inativo,30,8324,Não Cancelou
+20,0,36,2,14835,219,47,30,Pré-Pago,Ativo,30,79016,Não Cancelou
+0,0,36,0,2790,21,476,6,Pré-Pago,Ativo,30,201644,Não Cancelou
+4,0,35,0,15180,176,143,28,Pré-Pago,Ativo,25,133452,Não Cancelou
+0,0,35,0,6195,80,179,24,Pré-Pago,Ativo,30,967,Não Cancelou
+0,0,35,0,570,8,0,9,Pré-Pago,Inativo,25,2601,Não Cancelou
+0,0,36,0,405,8,6,6,Pré-Pago,Inativo,25,45585,Não Cancelou
+0,0,35,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+0,0,35,0,7203,121,377,41,Pré-Pago,Ativo,25,202608,Não Cancelou
+2,0,35,0,11160,148,4,45,Pré-Pago,Ativo,30,46832,Não Cancelou
+3,0,35,0,6413,69,101,35,Pré-Pago,Ativo,25,74619,Não Cancelou
+18,1,31,0,650,41,9,15,Pré-Pago,Inativo,25,71595,Cancelou
+16,0,34,7,10130,87,0,40,Pré-Pago,Ativo,45,255425,Não Cancelou
+8,0,34,0,5513,92,19,22,Pré-Pago,Ativo,25,337725,Cancelou
+0,0,32,0,2535,16,0,12,Pré-Pago,Ativo,30,10204,Não Cancelou
+4,1,33,0,2685,35,2,14,Pré-Pago,Inativo,25,1314,Cancelou
+4,0,34,0,1963,38,27,29,Pré-Pago,Inativo,30,18804,Cancelou
+0,1,34,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,34,0,1363,19,0,4,Pré-Pago,Ativo,30,5528,Não Cancelou
+0,0,31,0,6480,91,7,20,Pré-Pago,Ativo,45,181775,Não Cancelou
+0,0,34,0,323,1,2,2,Pré-Pago,Inativo,45,131,Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+20,0,29,2,15770,232,0,78,Pré-Pago,Ativo,25,72009,Não Cancelou
+1,0,32,2,6660,110,264,31,Contrato,Ativo,25,149265,Não Cancelou
+0,0,34,0,3413,76,0,26,Pré-Pago,Ativo,25,157005,Não Cancelou
+0,0,33,0,1360,38,31,18,Pré-Pago,Inativo,30,17992,Não Cancelou
+1,0,34,0,2475,47,168,21,Pré-Pago,Ativo,25,86949,Não Cancelou
+0,0,25,0,1010,30,186,9,Contrato,Ativo,25,8838,Não Cancelou
+0,0,24,0,1263,33,23,66,Pré-Pago,Ativo,45,899,Não Cancelou
+6,0,25,0,395,19,3,5,Pré-Pago,Inativo,25,3213,Não Cancelou
+0,0,24,0,520,4,14,1,Pré-Pago,Inativo,45,481,Não Cancelou
+5,0,23,0,920,26,12,11,Pré-Pago,Ativo,25,9657,Não Cancelou
+0,0,23,0,2920,55,1,21,Pré-Pago,Ativo,30,123,Não Cancelou
+0,0,16,0,1390,20,21,12,Pré-Pago,Ativo,25,15795,Não Cancelou
+11,0,15,0,6087,135,78,40,Contrato,Ativo,15,77121,Não Cancelou
+7,0,13,0,8627,165,66,38,Pré-Pago,Ativo,45,3848,Não Cancelou
+3,0,14,2,2547,39,24,17,Pré-Pago,Ativo,30,19944,Não Cancelou
+0,0,7,0,4085,34,208,8,Pré-Pago,Ativo,30,99676,Não Cancelou
+0,0,7,0,1182,13,0,5,Pré-Pago,Ativo,25,53775,Cancelou
+13,0,40,1,4675,77,12,19,Pré-Pago,Ativo,30,23808,Não Cancelou
+5,0,41,0,623,11,14,6,Pré-Pago,Inativo,30,8136,Não Cancelou
+15,0,39,1,2758,66,366,26,Pré-Pago,Ativo,30,157696,Não Cancelou
+15,0,40,1,4503,72,8,37,Pré-Pago,Ativo,15,295625,Não Cancelou
+8,0,40,1,2698,64,9,35,Pré-Pago,Ativo,25,16479,Não Cancelou
+16,0,40,2,4080,88,39,30,Pré-Pago,Ativo,30,32272,Não Cancelou
+9,0,40,1,2665,45,292,20,Pré-Pago,Ativo,30,12764,Não Cancelou
+18,0,39,3,9420,127,151,45,Pré-Pago,Ativo,30,98588,Não Cancelou
+12,0,40,1,14078,175,7,46,Pré-Pago,Ativo,30,59812,Não Cancelou
+12,0,40,2,4820,89,9,27,Pré-Pago,Ativo,30,23236,Não Cancelou
+11,0,40,1,6223,101,14,14,Pré-Pago,Ativo,30,30896,Não Cancelou
+14,1,40,0,2543,60,15,19,Pré-Pago,Inativo,30,16412,Não Cancelou
+30,0,40,4,15445,231,61,34,Contrato,Ativo,30,87104,Não Cancelou
+9,0,40,2,3400,33,490,10,Pré-Pago,Ativo,30,209732,Não Cancelou
+14,0,39,1,15790,188,157,32,Pré-Pago,Ativo,25,142551,Não Cancelou
+8,0,39,2,6805,92,193,28,Pré-Pago,Ativo,30,104788,Não Cancelou
+5,0,39,0,1180,20,7,13,Pré-Pago,Inativo,25,855,Não Cancelou
+7,0,40,0,1015,20,20,10,Pré-Pago,Inativo,30,1214,Não Cancelou
+5,0,39,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+8,0,39,1,7813,133,391,45,Pré-Pago,Ativo,30,188184,Não Cancelou
+12,0,39,2,11770,160,18,49,Pré-Pago,Ativo,45,34325,Não Cancelou
+13,0,39,2,7023,81,115,39,Pré-Pago,Ativo,25,83718,Não Cancelou
+28,0,35,0,1260,53,23,19,Pré-Pago,Inativo,30,14452,Cancelou
+26,0,38,9,10740,99,8,44,Pré-Pago,Ativo,55,174585,Não Cancelou
+18,0,38,2,6123,104,33,26,Pré-Pago,Ativo,25,428715,Não Cancelou
+6,0,36,1,3145,28,7,16,Pré-Pago,Ativo,30,15492,Não Cancelou
+14,1,37,0,3295,47,16,18,Pré-Pago,Inativo,30,19768,Cancelou
+14,1,38,0,2573,50,41,33,Pré-Pago,Inativo,45,168075,Cancelou
+5,0,38,0,438,8,7,4,Pré-Pago,Inativo,30,4584,Cancelou
+6,0,38,1,1973,31,7,8,Pré-Pago,Ativo,45,676,Não Cancelou
+8,0,35,2,7090,103,21,24,Pré-Pago,Ativo,55,139395,Não Cancelou
+5,0,38,0,933,13,16,6,Pré-Pago,Inativo,45,6365,Cancelou
+5,0,38,2,643,10,11,4,Pré-Pago,Ativo,55,26295,Não Cancelou
+30,0,33,4,16380,244,7,82,Contrato,Ativo,25,77958,Não Cancelou
+11,0,36,4,7270,122,278,35,Contrato,Ativo,30,140768,Não Cancelou
+7,0,38,1,4023,88,9,30,Pré-Pago,Ativo,30,20044,Não Cancelou
+8,0,37,0,1970,50,45,22,Pré-Pago,Inativo,30,2608,Não Cancelou
+11,0,38,1,3085,59,182,25,Pré-Pago,Ativo,25,96048,Não Cancelou
+9,0,29,2,1620,42,200,13,Contrato,Ativo,30,86648,Não Cancelou
+9,0,28,1,1873,45,37,70,Pré-Pago,Ativo,55,8427,Não Cancelou
+16,0,29,0,1005,31,17,9,Pré-Pago,Inativo,30,10944,Não Cancelou
+5,0,28,0,1130,16,28,5,Pré-Pago,Inativo,45,9865,Não Cancelou
+15,0,27,1,1530,38,26,15,Pré-Pago,Ativo,25,18756,Não Cancelou
+7,0,27,1,3530,67,15,25,Pré-Pago,Ativo,30,20388,Não Cancelou
+7,0,20,1,2000,32,35,16,Pré-Pago,Ativo,30,22128,Não Cancelou
+21,0,19,2,6698,147,92,44,Contrato,Ativo,25,722025,Não Cancelou
+17,0,17,1,9238,177,80,42,Pré-Pago,Ativo,55,261225,Não Cancelou
+13,0,18,4,3158,51,38,21,Contrato,Ativo,30,28036,Não Cancelou
+7,0,11,2,4695,46,222,12,Pré-Pago,Ativo,30,107764,Não Cancelou
+8,1,11,2,1793,25,7,9,Pré-Pago,Ativo,30,10072,Cancelou
+16,0,42,2,4735,80,17,21,Pré-Pago,Ativo,30,2606,Não Cancelou
+8,0,43,2,683,14,19,8,Pré-Pago,Ativo,30,10388,Não Cancelou
+18,0,41,2,2818,69,371,28,Pré-Pago,Ativo,30,159948,Não Cancelou
+18,0,42,2,4563,75,13,39,Pré-Pago,Ativo,15,32659,Não Cancelou
+11,0,42,2,2758,67,14,37,Pré-Pago,Ativo,25,190125,Não Cancelou
+19,0,42,3,4140,91,44,32,Pré-Pago,Ativo,30,34524,Não Cancelou
+12,0,42,2,2725,48,297,22,Pré-Pago,Ativo,45,811825,Não Cancelou
+21,0,41,4,9480,130,156,47,Pré-Pago,Ativo,30,10084,Não Cancelou
+15,0,42,2,14138,178,12,48,Pré-Pago,Ativo,30,62064,Não Cancelou
+15,0,42,3,4880,92,14,29,Pré-Pago,Ativo,45,1593,Não Cancelou
+14,0,42,2,6283,104,19,16,Pré-Pago,Ativo,30,33148,Não Cancelou
+17,0,42,2,2603,63,20,21,Pré-Pago,Ativo,45,11665,Não Cancelou
+33,0,42,5,15505,234,66,36,Contrato,Ativo,30,89356,Não Cancelou
+12,0,42,3,3460,36,495,12,Pré-Pago,Ativo,45,13249,Não Cancelou
+17,0,41,2,15850,191,162,34,Pré-Pago,Ativo,25,1450845,Não Cancelou
+11,0,41,3,6865,95,198,30,Pré-Pago,Ativo,30,10704,Não Cancelou
+8,0,41,2,1240,23,12,15,Pré-Pago,Ativo,25,110835,Não Cancelou
+10,0,42,2,1075,23,25,12,Pré-Pago,Ativo,30,14392,Não Cancelou
+8,0,41,2,365,9,12,4,Pré-Pago,Ativo,30,6296,Cancelou
+11,0,41,2,7873,136,396,47,Pré-Pago,Ativo,30,190436,Não Cancelou
+15,0,41,3,11830,163,23,51,Pré-Pago,Ativo,45,357325,Não Cancelou
+16,0,41,3,7083,84,120,41,Pré-Pago,Ativo,25,862515,Não Cancelou
+31,1,37,2,1320,56,28,21,Pré-Pago,Ativo,30,16704,Cancelou
+29,1,40,10,10800,102,13,46,Contrato,Ativo,55,18303,Não Cancelou
+21,0,40,3,6183,107,38,28,Pré-Pago,Ativo,30,4036,Não Cancelou
+9,0,38,2,3205,31,12,18,Pré-Pago,Ativo,30,17744,Não Cancelou
+17,1,39,2,3355,50,21,20,Pré-Pago,Ativo,30,2202,Cancelou
+17,0,40,2,2633,53,46,35,Pré-Pago,Ativo,45,18215,Cancelou
+8,0,40,2,498,11,12,6,Pré-Pago,Ativo,30,6836,Cancelou
+9,0,40,2,2033,34,12,10,Pré-Pago,Ativo,45,81675,Não Cancelou
+11,0,37,3,7150,106,26,26,Pré-Pago,Ativo,55,14784,Não Cancelou
+8,1,40,2,993,16,21,8,Pré-Pago,Ativo,45,77725,Cancelou
+8,0,40,3,703,13,16,6,Pré-Pago,Ativo,55,3474,Não Cancelou
+33,0,35,5,16440,247,12,84,Contrato,Ativo,25,804915,Não Cancelou
+14,0,38,5,7330,125,283,37,Contrato,Ativo,30,14302,Não Cancelou
+10,0,40,2,4083,91,14,32,Pré-Pago,Ativo,30,22296,Não Cancelou
+11,0,39,2,2030,53,50,24,Pré-Pago,Ativo,45,177075,Não Cancelou
+14,0,40,2,3145,62,187,27,Pré-Pago,Ativo,25,985815,Não Cancelou
+12,0,31,3,1680,45,205,15,Contrato,Ativo,30,889,Não Cancelou
+12,0,30,2,1933,48,42,72,Pré-Pago,Ativo,55,92715,Não Cancelou
+19,0,31,2,1065,34,22,11,Pré-Pago,Ativo,30,13196,Não Cancelou
+8,0,30,2,1190,19,33,7,Pré-Pago,Ativo,45,112725,Não Cancelou
+18,0,29,2,1590,41,31,17,Pré-Pago,Ativo,25,212895,Não Cancelou
+10,0,29,2,3590,70,20,27,Pré-Pago,Ativo,30,2264,Não Cancelou
+10,0,22,2,2060,35,40,18,Pré-Pago,Ativo,30,2438,Não Cancelou
+24,0,21,3,6758,150,97,46,Contrato,Ativo,25,74736,Não Cancelou
+20,0,19,2,9298,180,85,44,Pré-Pago,Ativo,55,26967,Não Cancelou
+16,0,20,5,3218,54,43,23,Contrato,Ativo,30,30288,Não Cancelou
+10,0,13,3,4755,49,227,14,Pré-Pago,Ativo,30,110016,Não Cancelou
+11,1,13,3,1853,28,12,11,Pré-Pago,Ativo,30,12324,Cancelou
+10,0,38,1,4615,74,7,17,Pré-Pago,Ativo,30,21556,Não Cancelou
+5,0,39,0,563,8,9,4,Pré-Pago,Inativo,30,5884,Não Cancelou
+12,0,37,1,2698,63,361,24,Pré-Pago,Ativo,30,155444,Não Cancelou
+12,0,38,1,4443,69,7,35,Pré-Pago,Ativo,15,28666,Não Cancelou
+5,0,38,1,2638,61,7,33,Pré-Pago,Ativo,25,152955,Não Cancelou
+13,0,38,1,4020,85,34,28,Pré-Pago,Ativo,30,3002,Não Cancelou
+6,0,38,1,2605,42,287,18,Pré-Pago,Ativo,30,125388,Não Cancelou
+15,0,37,2,9360,124,146,43,Pré-Pago,Ativo,30,96336,Não Cancelou
+9,0,38,1,14018,172,7,44,Pré-Pago,Ativo,30,5956,Não Cancelou
+9,0,38,1,4760,86,7,25,Pré-Pago,Ativo,30,22184,Não Cancelou
+8,0,38,1,6163,98,9,12,Pré-Pago,Ativo,30,28644,Não Cancelou
+11,0,38,0,2483,57,10,17,Pré-Pago,Inativo,30,1416,Não Cancelou
+27,0,38,3,15385,228,56,32,Pré-Pago,Ativo,30,84852,Não Cancelou
+6,0,38,1,3340,30,485,8,Pré-Pago,Ativo,30,20748,Não Cancelou
+11,0,37,1,15730,185,152,30,Pré-Pago,Ativo,25,1400175,Não Cancelou
+5,0,37,1,6745,89,188,26,Pré-Pago,Ativo,30,102536,Não Cancelou
+5,0,37,0,1120,17,7,11,Pré-Pago,Inativo,25,82665,Não Cancelou
+5,0,38,0,955,17,15,8,Pré-Pago,Inativo,30,9888,Não Cancelou
+5,0,37,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+5,0,37,1,7753,130,386,43,Pré-Pago,Ativo,30,185932,Não Cancelou
+9,0,37,1,11710,157,13,47,Pré-Pago,Ativo,45,329175,Não Cancelou
+10,0,37,1,6963,78,110,37,Pré-Pago,Ativo,25,811845,Não Cancelou
+25,1,33,0,1200,50,18,17,Pré-Pago,Inativo,30,122,Cancelou
+23,0,36,8,10680,96,7,42,Pré-Pago,Ativo,55,17214,Não Cancelou
+15,0,36,1,6063,101,28,24,Pré-Pago,Ativo,25,40338,Não Cancelou
+5,0,34,1,3085,25,7,14,Pré-Pago,Ativo,30,1524,Não Cancelou
+11,0,35,0,3235,44,11,16,Pré-Pago,Inativo,30,17516,Cancelou
+11,1,36,0,2513,47,36,31,Pré-Pago,Inativo,30,2464,Cancelou
+5,0,36,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Cancelou
+5,0,36,1,1913,28,7,6,Pré-Pago,Ativo,45,66025,Não Cancelou
+5,0,33,1,7030,100,16,22,Pré-Pago,Ativo,55,13095,Não Cancelou
+5,0,36,0,873,10,11,4,Pré-Pago,Inativo,45,49575,Cancelou
+5,0,36,1,305,6,7,2,Pré-Pago,Ativo,55,15165,Não Cancelou
+27,0,31,3,16320,241,7,80,Pré-Pago,Ativo,25,776745,Não Cancelou
+8,0,34,3,7210,119,273,33,Contrato,Ativo,25,1558305,Não Cancelou
+5,0,36,1,3963,85,7,28,Pré-Pago,Ativo,30,18992,Não Cancelou
+5,0,35,0,1910,47,40,20,Pré-Pago,Inativo,30,23828,Não Cancelou
+8,0,36,1,3025,56,177,23,Pré-Pago,Ativo,25,935145,Não Cancelou
+6,0,27,1,1560,39,195,11,Contrato,Ativo,25,949455,Não Cancelou
+6,0,26,1,1813,42,32,68,Pré-Pago,Ativo,45,126375,Não Cancelou
+13,0,27,0,945,28,12,7,Pré-Pago,Inativo,30,8692,Não Cancelou
+5,0,26,0,1070,13,23,3,Pré-Pago,Inativo,45,84575,Não Cancelou
+12,0,25,1,1470,35,21,13,Pré-Pago,Ativo,25,162225,Não Cancelou
+5,0,25,1,3470,64,10,23,Pré-Pago,Ativo,30,18136,Não Cancelou
+5,0,18,1,1940,29,30,14,Pré-Pago,Ativo,25,223605,Não Cancelou
+18,0,17,1,6638,144,87,42,Contrato,Ativo,25,69669,Não Cancelou
+14,0,15,1,9178,174,75,40,Pré-Pago,Ativo,55,25278,Não Cancelou
+10,0,16,3,3098,48,33,19,Pré-Pago,Ativo,30,25784,Não Cancelou
+5,0,9,1,4635,43,217,10,Pré-Pago,Ativo,30,105512,Não Cancelou
+5,1,9,1,1733,22,7,7,Pré-Pago,Ativo,30,982,Cancelou
+14,0,44,2,4755,79,22,23,Pré-Pago,Ativo,30,28136,Não Cancelou
+6,0,45,0,703,13,24,10,Pré-Pago,Inativo,30,12464,Não Cancelou
+16,0,43,2,2838,68,376,30,Pré-Pago,Ativo,30,162024,Não Cancelou
+16,0,44,2,4583,74,18,41,Pré-Pago,Ativo,15,355135,Não Cancelou
+9,0,44,2,2778,66,19,39,Pré-Pago,Ativo,25,21348,Não Cancelou
+17,0,44,3,4160,90,49,34,Pré-Pago,Ativo,30,366,Não Cancelou
+10,0,44,2,2745,47,302,24,Pré-Pago,Ativo,45,8248,Não Cancelou
+19,0,43,4,9500,129,161,49,Pré-Pago,Ativo,30,102916,Não Cancelou
+13,0,44,2,14158,177,17,50,Pré-Pago,Ativo,30,6414,Não Cancelou
+13,0,44,3,4900,91,19,31,Pré-Pago,Ativo,30,27564,Não Cancelou
+12,0,44,2,6303,103,24,18,Pré-Pago,Ativo,30,35224,Não Cancelou
+15,1,44,0,2623,62,25,23,Pré-Pago,Inativo,30,2074,Não Cancelou
+31,0,44,5,15525,233,71,38,Pré-Pago,Ativo,30,91432,Não Cancelou
+10,0,44,3,3480,35,500,14,Pré-Pago,Ativo,45,1337875,Não Cancelou
+15,0,43,2,15870,190,167,36,Pré-Pago,Ativo,25,14742,Não Cancelou
+9,0,43,3,6885,94,203,32,Pré-Pago,Ativo,30,109116,Não Cancelou
+6,0,43,0,1260,22,17,17,Pré-Pago,Inativo,25,13419,Não Cancelou
+8,0,44,0,1095,22,30,14,Pré-Pago,Inativo,30,16468,Não Cancelou
+6,0,43,0,385,8,17,6,Pré-Pago,Inativo,25,94185,Cancelou
+9,0,43,2,7893,135,401,49,Pré-Pago,Ativo,30,192512,Não Cancelou
+13,0,43,3,11850,162,28,53,Pré-Pago,Ativo,45,3703,Não Cancelou
+14,0,43,3,7103,83,125,43,Pré-Pago,Ativo,25,88587,Não Cancelou
+29,1,39,0,1340,55,33,23,Pré-Pago,Inativo,30,1878,Cancelou
+27,0,42,10,10820,101,18,48,Pré-Pago,Ativo,55,190815,Não Cancelou
+19,0,42,3,6203,106,43,30,Pré-Pago,Ativo,30,42436,Não Cancelou
+7,0,40,2,3225,30,17,20,Pré-Pago,Ativo,30,1982,Não Cancelou
+15,1,41,0,3375,49,26,22,Pré-Pago,Inativo,30,24096,Cancelou
+15,1,42,0,2653,52,51,37,Pré-Pago,Inativo,45,195125,Cancelou
+6,0,42,0,518,10,17,8,Pré-Pago,Inativo,30,8912,Cancelou
+7,0,42,2,2053,33,17,12,Pré-Pago,Ativo,45,9465,Não Cancelou
+9,0,39,3,7170,105,31,28,Pré-Pago,Ativo,55,155625,Não Cancelou
+6,1,42,0,1013,15,26,10,Pré-Pago,Inativo,45,907,Cancelou
+6,0,42,3,723,12,21,8,Pré-Pago,Ativo,55,42525,Não Cancelou
+31,0,37,5,16460,246,17,86,Pré-Pago,Ativo,25,82827,Não Cancelou
+12,0,40,5,7350,124,288,39,Contrato,Ativo,30,145096,Não Cancelou
+8,0,42,2,4103,90,19,34,Pré-Pago,Ativo,30,24372,Não Cancelou
+9,1,41,0,2050,52,55,26,Pré-Pago,Inativo,45,19005,Não Cancelou
+12,0,42,2,3165,61,192,29,Pré-Pago,Ativo,25,100917,Não Cancelou
+10,0,33,3,1700,44,210,17,Contrato,Ativo,30,90976,Não Cancelou
+10,0,32,2,1953,47,47,74,Pré-Pago,Ativo,55,1005,Não Cancelou
+17,0,33,0,1085,33,27,13,Pré-Pago,Inativo,30,15272,Não Cancelou
+6,0,32,0,1210,18,38,9,Pré-Pago,Inativo,45,1257,Não Cancelou
+16,0,31,2,1610,40,36,19,Pré-Pago,Ativo,25,23625,Não Cancelou
+8,0,31,2,3610,69,25,29,Pré-Pago,Ativo,30,24716,Não Cancelou
+8,0,24,2,2080,34,45,20,Pré-Pago,Ativo,30,26456,Não Cancelou
+22,0,23,3,6778,149,102,48,Contrato,Ativo,25,770715,Não Cancelou
+18,0,21,2,9318,179,90,46,Pré-Pago,Ativo,55,277455,Não Cancelou
+14,0,22,5,3238,53,48,25,Contrato,Ativo,30,32364,Não Cancelou
+8,0,15,3,4775,48,232,16,Pré-Pago,Ativo,30,112092,Não Cancelou
+9,1,15,3,1873,27,17,13,Pré-Pago,Ativo,30,144,Cancelou
+12,0,36,1,4595,75,7,15,Pré-Pago,Ativo,30,2148,Não Cancelou
+5,0,37,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Não Cancelou
+14,0,35,1,2678,64,356,22,Pré-Pago,Ativo,30,153368,Não Cancelou
+14,0,36,1,4423,70,7,33,Pré-Pago,Ativo,25,233685,Não Cancelou
+7,0,36,1,2618,62,7,31,Pré-Pago,Ativo,25,1521,Não Cancelou
+15,0,36,1,4000,86,29,26,Pré-Pago,Ativo,30,27944,Não Cancelou
+8,0,36,1,2585,43,282,16,Pré-Pago,Ativo,30,123312,Não Cancelou
+17,0,35,2,9340,125,141,41,Pré-Pago,Ativo,30,9426,Não Cancelou
+11,0,36,1,13998,173,7,42,Pré-Pago,Ativo,30,59484,Não Cancelou
+11,0,36,1,4740,87,7,23,Pré-Pago,Ativo,30,22108,Não Cancelou
+10,0,36,1,6143,99,7,10,Pré-Pago,Ativo,30,27768,Não Cancelou
+13,0,36,0,2463,58,7,15,Pré-Pago,Inativo,30,12884,Não Cancelou
+29,0,36,3,15365,229,51,30,Pré-Pago,Ativo,30,82776,Não Cancelou
+8,0,36,1,3320,31,480,6,Pré-Pago,Ativo,30,205404,Não Cancelou
+13,0,35,1,15710,186,147,28,Pré-Pago,Ativo,25,137682,Não Cancelou
+7,0,35,1,6725,90,183,24,Pré-Pago,Ativo,30,10046,Não Cancelou
+5,0,35,0,1100,18,7,9,Pré-Pago,Inativo,25,8181,Não Cancelou
+6,0,36,0,935,18,10,6,Pré-Pago,Inativo,30,7812,Não Cancelou
+5,0,35,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+7,0,35,1,7733,131,381,41,Pré-Pago,Ativo,30,183856,Não Cancelou
+11,0,35,1,11690,158,8,45,Pré-Pago,Ativo,45,3162,Não Cancelou
+12,0,35,1,6943,79,105,35,Pré-Pago,Ativo,25,78849,Não Cancelou
+27,1,31,0,1180,51,13,15,Pré-Pago,Inativo,30,10124,Cancelou
+25,0,34,8,10660,97,7,40,Pré-Pago,Ativo,55,171855,Não Cancelou
+17,0,34,1,6043,102,23,22,Pré-Pago,Ativo,25,380025,Não Cancelou
+5,0,32,1,3065,26,7,12,Pré-Pago,Ativo,30,15164,Não Cancelou
+13,1,33,0,3215,45,7,14,Pré-Pago,Inativo,30,1584,Cancelou
+13,1,34,0,2493,48,31,29,Pré-Pago,Inativo,30,22564,Cancelou
+5,0,34,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Cancelou
+5,0,34,1,1893,29,7,4,Pré-Pago,Ativo,45,6555,Não Cancelou
+7,0,31,1,7010,101,11,20,Pré-Pago,Ativo,55,123165,Não Cancelou
+5,0,34,0,305,6,7,2,Pré-Pago,Inativo,45,25275,Cancelou
+5,0,34,1,305,6,7,2,Pré-Pago,Ativo,55,15165,Não Cancelou
+29,0,29,3,16300,242,7,78,Pré-Pago,Ativo,25,77589,Não Cancelou
+10,0,32,3,7190,120,268,31,Contrato,Ativo,30,13644,Não Cancelou
+6,0,34,1,3943,86,7,26,Pré-Pago,Ativo,30,18916,Não Cancelou
+7,0,33,0,1890,48,35,18,Pré-Pago,Inativo,30,21752,Não Cancelou
+10,0,34,1,3005,57,172,21,Pré-Pago,Ativo,25,91179,Não Cancelou
+8,0,25,1,1540,40,190,9,Contrato,Ativo,30,8232,Não Cancelou
+8,0,24,1,1793,43,27,66,Pré-Pago,Ativo,45,1134,Não Cancelou
+15,0,25,0,925,29,7,5,Pré-Pago,Inativo,30,6616,Não Cancelou
+5,0,24,0,305,6,18,2,Pré-Pago,Inativo,45,52775,Não Cancelou
+14,0,23,1,1450,36,16,11,Pré-Pago,Ativo,25,13887,Não Cancelou
+6,0,23,1,3450,65,7,21,Pré-Pago,Ativo,30,1686,Não Cancelou
+6,0,16,1,1920,30,25,12,Pré-Pago,Ativo,25,20025,Não Cancelou
+20,0,15,1,6618,145,82,40,Contrato,Ativo,25,673335,Não Cancelou
+16,0,13,1,9158,175,70,38,Pré-Pago,Ativo,55,244995,Não Cancelou
+12,0,14,3,3078,49,28,17,Pré-Pago,Ativo,30,23708,Não Cancelou
+6,0,7,1,4615,44,212,8,Pré-Pago,Ativo,30,103436,Não Cancelou
+7,1,7,1,1713,23,7,5,Pré-Pago,Ativo,30,9744,Cancelou
+18,0,46,2,4935,87,27,25,Pré-Pago,Ativo,30,30888,Não Cancelou
+10,0,47,0,883,21,29,12,Pré-Pago,Inativo,30,15216,Não Cancelou
+20,0,45,2,3018,76,381,32,Pré-Pago,Ativo,30,164776,Não Cancelou
+20,0,46,2,4763,82,23,43,Pré-Pago,Ativo,15,392975,Não Cancelou
+13,0,46,2,2958,74,24,41,Pré-Pago,Ativo,25,24444,Não Cancelou
+21,0,46,3,4340,98,54,36,Pré-Pago,Ativo,30,39352,Não Cancelou
+14,0,46,2,2925,55,307,26,Pré-Pago,Ativo,45,842,Não Cancelou
+23,0,45,4,9680,137,166,51,Pré-Pago,Ativo,30,105668,Não Cancelou
+17,0,46,2,14338,185,22,52,Pré-Pago,Ativo,30,66892,Não Cancelou
+17,0,46,3,5080,99,24,33,Pré-Pago,Ativo,45,189475,Não Cancelou
+16,0,46,2,6483,111,29,20,Pré-Pago,Ativo,30,37976,Não Cancelou
+19,0,46,0,2803,70,30,25,Pré-Pago,Inativo,45,146825,Não Cancelou
+35,0,46,5,15705,241,76,40,Pré-Pago,Ativo,30,94184,Não Cancelou
+14,0,46,3,3660,43,505,16,Pré-Pago,Ativo,45,1355075,Não Cancelou
+19,0,45,2,16050,198,172,38,Pré-Pago,Ativo,25,150516,Não Cancelou
+13,0,45,3,7065,102,208,34,Pré-Pago,Ativo,45,699175,Não Cancelou
+10,0,45,0,1440,30,22,19,Pré-Pago,Inativo,30,1468,Não Cancelou
+12,0,46,0,1275,30,35,16,Pré-Pago,Inativo,30,1922,Não Cancelou
+10,0,45,0,565,16,22,8,Pré-Pago,Inativo,30,11124,Cancelou
+13,0,45,2,8073,143,406,51,Pré-Pago,Ativo,30,195264,Não Cancelou
+17,0,45,3,12030,170,33,55,Pré-Pago,Ativo,45,3875,Não Cancelou
+18,0,45,3,7283,91,130,45,Pré-Pago,Ativo,25,91683,Não Cancelou
+33,1,41,0,1520,63,38,25,Pré-Pago,Inativo,30,21532,Cancelou
+31,0,44,10,11000,109,23,50,Pré-Pago,Ativo,55,201135,Não Cancelou
+23,0,44,3,6383,114,48,32,Pré-Pago,Ativo,30,45188,Não Cancelou
+11,0,42,2,3405,38,22,22,Pré-Pago,Ativo,45,141075,Não Cancelou
+19,1,43,0,3555,57,31,24,Pré-Pago,Inativo,30,26848,Cancelou
+19,1,44,0,2833,60,56,39,Pré-Pago,Inativo,45,212325,Cancelou
+10,0,44,0,698,18,22,10,Pré-Pago,Inativo,30,11664,Cancelou
+11,0,44,2,2233,41,22,14,Pré-Pago,Ativo,45,11185,Não Cancelou
+13,0,41,3,7350,113,36,30,Pré-Pago,Ativo,55,165945,Não Cancelou
+10,1,44,0,1193,23,31,12,Pré-Pago,Inativo,45,1079,Cancelou
+10,0,44,3,903,20,26,10,Pré-Pago,Ativo,55,52845,Não Cancelou
+35,0,39,5,16640,254,22,88,Contrato,Ativo,25,85923,Não Cancelou
+16,1,42,5,7530,132,293,41,Contrato,Ativo,30,147848,Não Cancelou
+12,0,44,2,4283,98,24,36,Pré-Pago,Ativo,30,27124,Não Cancelou
+13,0,43,0,2230,60,60,28,Pré-Pago,Inativo,45,20725,Não Cancelou
+16,0,44,2,3345,69,197,31,Pré-Pago,Ativo,25,104013,Não Cancelou
+14,0,35,3,1880,52,215,19,Contrato,Ativo,30,93728,Não Cancelou
+14,0,34,2,2133,55,52,76,Pré-Pago,Ativo,55,11082,Não Cancelou
+21,0,35,0,1265,41,32,15,Pré-Pago,Inativo,30,18024,Não Cancelou
+10,0,34,0,1390,26,43,11,Pré-Pago,Inativo,45,1429,Não Cancelou
+20,0,33,2,1790,48,41,21,Pré-Pago,Ativo,25,26721,Não Cancelou
+12,0,33,2,3790,77,30,31,Pré-Pago,Ativo,45,171675,Não Cancelou
+12,0,26,2,2260,42,50,22,Pré-Pago,Ativo,30,29208,Não Cancelou
+26,0,25,3,6958,157,107,50,Contrato,Ativo,25,801675,Não Cancelou
+22,0,23,2,9498,187,95,48,Pré-Pago,Ativo,55,287775,Não Cancelou
+18,0,24,5,3418,61,53,27,Contrato,Ativo,45,219475,Não Cancelou
+12,0,17,3,4955,56,237,18,Pré-Pago,Ativo,30,114844,Não Cancelou
+13,0,17,3,2053,35,22,15,Pré-Pago,Ativo,30,17152,Cancelou
+8,0,34,1,4415,67,7,13,Pré-Pago,Ativo,30,20728,Não Cancelou
+5,0,35,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Não Cancelou
+10,0,33,1,2498,56,351,20,Pré-Pago,Ativo,30,150616,Não Cancelou
+10,0,34,1,4243,62,7,31,Pré-Pago,Ativo,25,225225,Não Cancelou
+5,0,34,1,2438,54,7,29,Pré-Pago,Ativo,15,17556,Não Cancelou
+11,0,34,1,3820,78,24,24,Pré-Pago,Ativo,30,25192,Não Cancelou
+5,0,34,1,2405,35,277,14,Pré-Pago,Ativo,30,12056,Não Cancelou
+13,0,33,2,9160,117,136,39,Pré-Pago,Ativo,30,91508,Não Cancelou
+7,0,34,1,13818,165,7,40,Pré-Pago,Ativo,30,58732,Não Cancelou
+7,0,34,1,4560,79,7,21,Pré-Pago,Ativo,30,21356,Não Cancelou
+6,0,34,1,5963,91,7,8,Pré-Pago,Ativo,30,27016,Não Cancelou
+9,0,34,0,2283,50,7,13,Pré-Pago,Inativo,30,12132,Não Cancelou
+25,0,34,3,15185,221,46,28,Pré-Pago,Ativo,30,80024,Não Cancelou
+5,0,34,1,3140,23,475,4,Pré-Pago,Ativo,30,202652,Não Cancelou
+9,0,33,1,15530,178,142,26,Pré-Pago,Ativo,25,134586,Não Cancelou
+5,0,33,1,6545,82,178,22,Pré-Pago,Ativo,30,97708,Não Cancelou
+5,0,33,0,920,10,7,7,Pré-Pago,Inativo,25,7335,Não Cancelou
+5,0,34,0,755,10,7,4,Pré-Pago,Inativo,30,586,Não Cancelou
+5,0,33,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+5,0,33,1,7553,123,376,39,Pré-Pago,Ativo,25,203742,Não Cancelou
+7,0,33,1,11510,150,7,43,Pré-Pago,Ativo,45,309,Não Cancelou
+8,0,33,1,6763,71,100,33,Pré-Pago,Ativo,25,75753,Não Cancelou
+23,0,29,0,1000,43,8,13,Pré-Pago,Inativo,25,82935,Cancelou
+21,0,32,8,10480,89,7,38,Pré-Pago,Ativo,55,169035,Não Cancelou
+13,0,32,1,5863,94,18,20,Pré-Pago,Ativo,25,349065,Cancelou
+5,0,30,1,2885,18,7,10,Pré-Pago,Ativo,30,14412,Não Cancelou
+9,0,31,0,3035,37,7,12,Pré-Pago,Inativo,30,15088,Cancelou
+9,1,32,0,2313,40,26,27,Pré-Pago,Inativo,30,19812,Cancelou
+5,0,32,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Cancelou
+5,0,32,1,305,6,7,2,Pré-Pago,Ativo,30,4044,Não Cancelou
+5,0,29,1,6830,93,7,18,Pré-Pago,Ativo,55,114345,Não Cancelou
+5,0,32,0,305,6,7,2,Pré-Pago,Inativo,45,25275,Cancelou
+5,0,32,1,305,6,7,2,Pré-Pago,Ativo,55,15165,Cancelou
+25,0,27,3,16120,234,7,76,Pré-Pago,Ativo,25,76743,Não Cancelou
+6,0,30,3,7010,112,263,29,Contrato,Ativo,25,150399,Não Cancelou
+5,0,32,1,3763,78,7,24,Pré-Pago,Ativo,25,204345,Não Cancelou
+5,0,31,0,1710,40,30,16,Pré-Pago,Inativo,30,190,Não Cancelou
+6,0,32,1,2825,49,167,19,Pré-Pago,Ativo,25,88083,Não Cancelou
+5,0,23,1,1360,32,185,7,Contrato,Ativo,25,89514,Não Cancelou
+5,0,22,1,1613,35,22,64,Pré-Pago,Ativo,45,962,Não Cancelou
+11,0,23,0,745,21,7,3,Pré-Pago,Inativo,25,6597,Não Cancelou
+5,0,22,0,305,6,13,2,Pré-Pago,Inativo,45,40275,Não Cancelou
+10,0,21,1,1270,28,11,9,Pré-Pago,Ativo,25,10791,Não Cancelou
+5,0,21,1,3270,57,7,19,Pré-Pago,Ativo,30,16108,Não Cancelou
+5,0,14,1,1740,22,20,10,Pré-Pago,Ativo,25,16929,Não Cancelou
+16,0,13,1,6438,137,77,38,Contrato,Ativo,25,642375,Não Cancelou
+12,0,11,1,8978,167,65,36,Pré-Pago,Ativo,45,391125,Não Cancelou
+8,0,12,3,2898,41,23,15,Pré-Pago,Ativo,30,20956,Não Cancelou
+5,0,5,1,4435,36,207,6,Pré-Pago,Ativo,30,100684,Não Cancelou
+5,1,5,0,1533,15,7,3,Pré-Pago,Ativo,30,8992,Cancelou
+15,0,43,1,4855,85,23,24,Pré-Pago,Ativo,30,2896,Não Cancelou
+7,0,44,0,803,19,25,11,Pré-Pago,Inativo,30,13288,Não Cancelou
+17,0,42,1,2938,74,377,31,Pré-Pago,Ativo,30,162848,Não Cancelou
+17,0,43,1,4683,80,19,42,Pré-Pago,Ativo,15,366465,Não Cancelou
+10,0,43,1,2878,72,20,40,Pré-Pago,Ativo,25,22275,Não Cancelou
+18,0,43,2,4260,96,50,35,Pré-Pago,Ativo,30,37424,Não Cancelou
+11,0,43,1,2845,53,303,25,Pré-Pago,Ativo,30,132792,Não Cancelou
+20,0,42,3,9600,135,162,50,Pré-Pago,Ativo,30,10374,Não Cancelou
+14,0,43,1,14258,183,18,51,Pré-Pago,Ativo,30,64964,Não Cancelou
+14,0,43,2,5000,97,20,32,Pré-Pago,Ativo,30,28388,Não Cancelou
+13,0,43,1,6403,109,25,19,Pré-Pago,Ativo,30,36048,Não Cancelou
+16,1,43,0,2723,68,26,24,Pré-Pago,Inativo,30,21564,Não Cancelou
+32,0,43,4,15625,239,72,39,Pré-Pago,Ativo,30,92256,Não Cancelou
+11,0,43,2,3580,41,501,15,Pré-Pago,Ativo,30,214884,Não Cancelou
+16,0,42,1,15970,196,168,37,Pré-Pago,Ativo,25,148347,Não Cancelou
+10,0,42,2,6985,100,204,33,Pré-Pago,Ativo,30,10994,Não Cancelou
+7,0,42,0,1360,28,18,18,Pré-Pago,Inativo,25,14346,Não Cancelou
+9,0,43,0,1195,28,31,15,Pré-Pago,Inativo,30,17292,Não Cancelou
+7,0,42,0,485,14,18,7,Pré-Pago,Inativo,25,103455,Cancelou
+10,0,42,1,7993,141,402,50,Pré-Pago,Ativo,30,193336,Não Cancelou
+14,0,42,2,11950,168,29,54,Pré-Pago,Ativo,45,37545,Não Cancelou
+15,0,42,2,7203,89,126,44,Pré-Pago,Ativo,25,89514,Não Cancelou
+30,0,38,0,1440,61,34,24,Pré-Pago,Inativo,30,19604,Cancelou
+28,0,41,9,10920,107,19,49,Contrato,Ativo,55,193905,Não Cancelou
+20,0,41,2,6303,112,44,31,Pré-Pago,Ativo,25,486675,Não Cancelou
+8,0,39,1,3325,36,18,21,Pré-Pago,Ativo,30,20644,Não Cancelou
+16,1,40,0,3475,55,27,23,Pré-Pago,Inativo,30,2492,Cancelou
+16,1,41,0,2753,58,52,38,Pré-Pago,Inativo,45,200275,Cancelou
+7,1,41,0,618,16,18,9,Pré-Pago,Inativo,30,9736,Cancelou
+8,0,41,1,2153,39,18,13,Pré-Pago,Ativo,45,998,Não Cancelou
+10,0,38,2,7270,111,32,29,Pré-Pago,Ativo,55,158715,Não Cancelou
+7,0,41,0,1113,21,27,11,Pré-Pago,Inativo,45,9585,Cancelou
+7,0,41,2,823,18,22,9,Pré-Pago,Ativo,55,45615,Não Cancelou
+32,1,36,4,16560,252,18,87,Contrato,Ativo,25,83754,Não Cancelou
+13,0,39,4,7450,130,289,40,Contrato,Ativo,30,14592,Não Cancelou
+9,0,41,1,4203,96,20,35,Pré-Pago,Ativo,30,25196,Não Cancelou
+10,0,40,0,2150,58,56,27,Pré-Pago,Inativo,30,31232,Não Cancelou
+13,0,41,1,3265,67,193,30,Pré-Pago,Ativo,25,101844,Não Cancelou
+11,0,32,2,1800,50,211,18,Contrato,Ativo,30,918,Não Cancelou
+11,0,31,1,2053,53,48,75,Pré-Pago,Ativo,55,10359,Não Cancelou
+18,0,32,0,1185,39,28,14,Pré-Pago,Inativo,30,16096,Não Cancelou
+7,0,31,0,1310,24,39,10,Pré-Pago,Inativo,45,13085,Não Cancelou
+17,0,30,1,1710,46,37,20,Pré-Pago,Ativo,25,24552,Não Cancelou
+9,0,30,1,3710,75,26,30,Pré-Pago,Ativo,30,2554,Não Cancelou
+9,0,23,1,2180,40,46,21,Pré-Pago,Ativo,30,2728,Não Cancelou
+23,0,22,2,6878,155,103,49,Contrato,Ativo,25,779985,Não Cancelou
+19,0,20,1,9418,185,91,47,Pré-Pago,Ativo,55,280545,Não Cancelou
+15,0,21,4,3338,59,49,26,Pré-Pago,Ativo,30,33188,Não Cancelou
+9,0,14,2,4875,54,233,17,Pré-Pago,Ativo,30,112916,Não Cancelou
+10,0,14,2,1973,33,18,14,Pré-Pago,Ativo,30,15224,Cancelou
+11,0,37,1,4495,69,7,14,Pré-Pago,Ativo,30,21056,Não Cancelou
+5,0,38,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Não Cancelou
+13,0,36,1,2578,58,355,21,Pré-Pago,Ativo,30,152544,Não Cancelou
+13,0,37,1,4323,64,7,32,Pré-Pago,Ativo,15,279785,Não Cancelou
+6,0,37,1,2518,56,7,30,Pré-Pago,Ativo,25,14733,Não Cancelou
+14,0,37,2,3900,80,28,25,Pré-Pago,Ativo,30,2712,Não Cancelou
+7,0,37,1,2485,37,281,15,Pré-Pago,Ativo,30,122488,Não Cancelou
+16,0,36,3,9240,119,140,40,Pré-Pago,Ativo,30,93436,Não Cancelou
+10,0,37,1,13898,167,7,41,Pré-Pago,Ativo,30,5906,Não Cancelou
+10,0,37,2,4640,81,7,22,Pré-Pago,Ativo,30,21684,Não Cancelou
+9,0,37,1,6043,93,7,9,Pré-Pago,Ativo,30,27344,Não Cancelou
+12,0,37,0,2363,52,7,14,Pré-Pago,Inativo,30,1246,Não Cancelou
+28,0,37,4,15265,223,50,29,Contrato,Ativo,30,81952,Não Cancelou
+7,0,37,2,3220,25,479,5,Pré-Pago,Ativo,30,20458,Não Cancelou
+12,0,36,1,15610,180,146,27,Pré-Pago,Ativo,25,136755,Não Cancelou
+6,0,36,2,6625,84,182,23,Pré-Pago,Ativo,30,99636,Não Cancelou
+5,0,36,0,1000,12,7,8,Pré-Pago,Inativo,25,7704,Não Cancelou
+5,0,37,0,835,12,9,5,Pré-Pago,Inativo,30,6988,Não Cancelou
+5,0,36,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+6,0,36,1,7633,125,380,40,Pré-Pago,Ativo,30,183032,Não Cancelou
+10,0,36,2,11590,152,7,44,Pré-Pago,Ativo,45,31105,Não Cancelou
+11,0,36,2,6843,73,104,34,Pré-Pago,Ativo,25,77922,Não Cancelou
+26,1,32,0,1080,45,12,14,Pré-Pago,Inativo,30,93,Cancelou
+24,0,35,9,10560,91,7,39,Pré-Pago,Ativo,55,170265,Não Cancelou
+16,0,35,2,5943,96,22,21,Pré-Pago,Ativo,25,370755,Cancelou
+5,0,33,1,2965,20,7,11,Pré-Pago,Ativo,30,1474,Não Cancelou
+12,1,34,0,3115,39,7,13,Pré-Pago,Inativo,30,15416,Cancelou
+12,0,35,0,2393,42,30,28,Pré-Pago,Inativo,45,135875,Cancelou
+5,1,35,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Cancelou
+5,0,35,1,1793,23,7,3,Pré-Pago,Ativo,45,629,Não Cancelou
+6,0,32,2,6910,95,10,19,Pré-Pago,Ativo,55,120075,Não Cancelou
+5,0,35,0,305,6,7,2,Pré-Pago,Inativo,45,25275,Cancelou
+5,0,35,1,305,6,7,2,Pré-Pago,Ativo,55,15165,Não Cancelou
+28,0,30,4,16200,236,7,77,Contrato,Ativo,25,77112,Não Cancelou
+9,0,33,4,7090,114,267,30,Contrato,Ativo,30,135616,Não Cancelou
+5,0,35,1,3843,80,7,25,Pré-Pago,Ativo,30,18492,Não Cancelou
+6,0,34,0,1790,42,34,17,Pré-Pago,Inativo,30,20928,Não Cancelou
+9,0,35,1,2905,51,171,20,Pré-Pago,Ativo,25,90252,Não Cancelou
+7,0,26,2,1440,34,189,8,Contrato,Ativo,30,81496,Não Cancelou
+7,0,25,1,1693,37,26,65,Pré-Pago,Ativo,55,6495,Não Cancelou
+14,0,26,0,825,23,7,4,Pré-Pago,Inativo,30,6192,Não Cancelou
+5,0,25,0,305,6,17,2,Pré-Pago,Inativo,45,50275,Não Cancelou
+13,0,24,1,1350,30,15,10,Pré-Pago,Ativo,25,1296,Não Cancelou
+5,0,24,1,3350,59,7,20,Pré-Pago,Ativo,30,16436,Não Cancelou
+5,0,17,1,1820,24,24,11,Pré-Pago,Ativo,30,16976,Não Cancelou
+19,0,16,2,6518,139,81,39,Contrato,Ativo,25,664065,Não Cancelou
+15,0,14,1,9058,169,69,37,Pré-Pago,Ativo,55,241905,Não Cancelou
+11,0,15,4,2978,43,27,16,Pré-Pago,Ativo,30,22884,Não Cancelou
+5,0,8,2,4515,38,211,7,Pré-Pago,Ativo,30,102612,Não Cancelou
+6,1,8,2,1613,17,7,4,Pré-Pago,Ativo,30,932,Cancelou
+17,0,40,3,5275,87,33,34,Pré-Pago,Ativo,30,34648,Não Cancelou
+9,0,41,0,1223,21,35,21,Pré-Pago,Inativo,30,18976,Não Cancelou
+19,0,39,3,3358,76,387,41,Pré-Pago,Ativo,30,168536,Não Cancelou
+19,0,40,3,5103,82,29,52,Pré-Pago,Ativo,15,444675,Não Cancelou
+12,0,40,3,3298,74,30,50,Pré-Pago,Ativo,25,28674,Não Cancelou
+20,0,40,4,4680,98,60,45,Pré-Pago,Ativo,30,43112,Não Cancelou
+13,0,40,3,3265,55,313,35,Pré-Pago,Ativo,45,8655,Não Cancelou
+22,1,39,5,10020,137,172,60,Pré-Pago,Ativo,30,109428,Não Cancelou
+16,0,40,3,14678,185,28,61,Pré-Pago,Ativo,30,70652,Não Cancelou
+16,0,40,4,5420,99,30,42,Pré-Pago,Ativo,30,34076,Não Cancelou
+15,0,40,3,6823,111,35,29,Pré-Pago,Ativo,30,41736,Não Cancelou
+18,0,40,0,3143,70,36,34,Pré-Pago,Inativo,30,27252,Não Cancelou
+34,1,40,6,16045,241,82,49,Contrato,Ativo,30,97944,Não Cancelou
+13,0,40,4,4000,43,511,25,Pré-Pago,Ativo,45,1378575,Não Cancelou
+18,0,39,3,16390,198,178,47,Pré-Pago,Ativo,25,154746,Não Cancelou
+12,0,39,4,7405,102,214,43,Pré-Pago,Ativo,30,115628,Não Cancelou
+9,0,39,0,1780,30,28,28,Pré-Pago,Inativo,25,20745,Não Cancelou
+11,0,40,0,1615,30,41,25,Pré-Pago,Inativo,30,2298,Não Cancelou
+9,1,39,0,905,16,28,17,Pré-Pago,Inativo,25,167445,Cancelou
+12,0,39,3,8413,143,412,60,Pré-Pago,Ativo,30,199024,Não Cancelou
+16,0,39,4,12370,170,39,64,Pré-Pago,Ativo,45,411,Não Cancelou
+17,0,39,4,7623,91,136,54,Contrato,Ativo,25,95913,Não Cancelou
+32,1,35,0,1860,63,44,34,Pré-Pago,Inativo,30,25292,Cancelou
+30,0,38,1,11340,109,29,59,Pré-Pago,Ativo,55,215235,Não Cancelou
+22,0,38,4,6723,114,54,41,Pré-Pago,Ativo,30,48948,Não Cancelou
+10,0,36,3,3745,38,28,31,Pré-Pago,Ativo,30,26332,Não Cancelou
+18,1,37,0,3895,57,37,33,Pré-Pago,Inativo,30,30608,Cancelou
+18,0,38,0,3173,60,62,48,Pré-Pago,Inativo,45,235825,Cancelou
+9,0,38,0,1038,18,28,19,Pré-Pago,Inativo,30,15424,Cancelou
+10,0,38,3,2573,41,28,23,Pré-Pago,Ativo,45,13535,Não Cancelou
+12,0,35,4,7690,113,42,39,Pré-Pago,Ativo,55,180045,Não Cancelou
+9,0,38,0,1533,23,37,21,Pré-Pago,Inativo,45,1314,Cancelou
+9,0,38,4,1243,20,32,19,Pré-Pago,Ativo,55,66945,Não Cancelou
+34,0,33,6,16980,254,28,97,Contrato,Ativo,25,90153,Não Cancelou
+15,0,36,6,7870,132,299,50,Contrato,Ativo,30,151608,Não Cancelou
+11,0,38,3,4623,98,30,45,Pré-Pago,Ativo,30,30884,Não Cancelou
+12,1,37,0,2570,60,66,37,Pré-Pago,Inativo,45,23075,Cancelou
+15,0,38,3,3685,69,203,40,Pré-Pago,Ativo,25,108243,Não Cancelou
+13,0,29,4,2220,52,221,28,Contrato,Ativo,30,97488,Não Cancelou
+13,0,28,3,2473,55,58,85,Pré-Pago,Ativo,55,12492,Não Cancelou
+20,0,29,0,1605,41,38,24,Pré-Pago,Inativo,30,21784,Não Cancelou
+9,0,28,0,1730,26,49,20,Pré-Pago,Inativo,45,1664,Não Cancelou
+19,0,27,3,2130,48,47,30,Pré-Pago,Ativo,25,30951,Não Cancelou
+11,0,27,3,4130,77,36,40,Pré-Pago,Ativo,30,31228,Não Cancelou
+11,0,20,3,2600,42,56,31,Pré-Pago,Ativo,30,32968,Não Cancelou
+25,0,19,4,7298,157,113,59,Contrato,Ativo,25,843975,Não Cancelou
+21,0,17,3,9838,187,101,57,Pré-Pago,Ativo,55,301875,Não Cancelou
+17,0,18,6,3758,61,59,36,Contrato,Ativo,30,38876,Não Cancelou
+11,0,11,4,5295,56,243,27,Contrato,Ativo,30,118604,Não Cancelou
+12,1,11,4,2393,35,28,24,Pré-Pago,Ativo,30,20912,Cancelou
+9,0,40,0,4075,67,7,4,Pré-Pago,Ativo,30,19368,Não Cancelou
+5,0,41,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Não Cancelou
+11,0,39,0,2158,56,345,11,Pré-Pago,Ativo,30,146856,Não Cancelou
+11,0,40,0,3903,62,7,22,Pré-Pago,Ativo,15,256575,Não Cancelou
+5,0,40,0,2098,54,7,20,Pré-Pago,Ativo,25,12834,Não Cancelou
+12,0,40,0,3480,78,18,15,Pré-Pago,Ativo,30,21432,Não Cancelou
+5,0,40,0,2065,35,271,5,Pré-Pago,Ativo,30,1168,Não Cancelou
+14,0,39,1,8820,117,130,30,Pré-Pago,Ativo,30,87748,Não Cancelou
+8,0,40,0,13478,165,7,31,Pré-Pago,Ativo,30,57372,Não Cancelou
+8,0,40,0,4220,79,7,12,Pré-Pago,Ativo,30,19996,Não Cancelou
+7,0,40,1,5623,91,7,17,Pré-Pago,Ativo,30,25656,Não Cancelou
+10,0,40,0,1943,50,7,4,Pré-Pago,Inativo,30,10772,Não Cancelou
+26,0,40,2,14845,221,40,19,Pré-Pago,Ativo,30,76264,Não Cancelou
+5,0,40,1,2800,23,469,9,Pré-Pago,Ativo,30,198892,Não Cancelou
+10,0,39,0,15190,178,136,17,Pré-Pago,Ativo,25,130356,Não Cancelou
+5,0,39,0,6205,82,172,13,Pré-Pago,Ativo,30,93948,Não Cancelou
+5,0,39,0,580,10,7,2,Pré-Pago,Inativo,25,5805,Não Cancelou
+5,0,40,0,415,10,7,2,Pré-Pago,Inativo,30,45,Não Cancelou
+5,0,39,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+5,0,39,0,7213,123,370,30,Pré-Pago,Ativo,30,177344,Não Cancelou
+8,0,39,0,11170,150,7,34,Pré-Pago,Ativo,45,3005,Não Cancelou
+9,0,39,0,6423,71,94,24,Pré-Pago,Ativo,25,71523,Não Cancelou
+24,0,35,0,660,43,7,4,Pré-Pago,Inativo,30,5612,Cancelou
+22,0,38,7,10140,89,7,29,Pré-Pago,Ativo,55,163935,Não Cancelou
+14,0,38,0,5523,94,12,11,Pré-Pago,Ativo,25,306765,Cancelou
+5,0,36,1,2545,18,7,6,Pré-Pago,Ativo,30,13052,Não Cancelou
+10,0,37,0,2695,37,7,3,Pré-Pago,Inativo,30,13728,Cancelou
+10,0,38,0,1973,40,20,18,Pré-Pago,Inativo,30,16052,Cancelou
+5,1,38,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Cancelou
+5,0,38,1,1373,21,7,2,Pré-Pago,Ativo,45,5235,Não Cancelou
+5,0,35,0,6490,93,7,9,Pré-Pago,Ativo,55,109245,Não Cancelou
+5,0,38,0,305,6,7,2,Pré-Pago,Inativo,45,25275,Cancelou
+5,0,38,0,305,6,7,2,Pré-Pago,Ativo,55,15165,Não Cancelou
+26,0,33,2,15780,234,7,67,Pré-Pago,Ativo,25,75213,Não Cancelou
+7,0,36,2,6670,112,257,20,Contrato,Ativo,30,129928,Não Cancelou
+5,0,38,0,3423,78,7,15,Pré-Pago,Ativo,30,16804,Não Cancelou
+5,0,37,0,1370,40,24,7,Pré-Pago,Inativo,30,1524,Não Cancelou
+7,0,38,0,2485,49,161,10,Pré-Pago,Ativo,25,83853,Não Cancelou
+5,0,29,1,1020,32,179,2,Contrato,Ativo,30,75808,Não Cancelou
+5,0,28,0,1273,35,16,55,Pré-Pago,Ativo,45,727,Não Cancelou
+12,0,29,0,405,21,7,2,Pré-Pago,Inativo,30,4504,Não Cancelou
+5,0,28,0,305,6,7,2,Pré-Pago,Inativo,45,25275,Não Cancelou
+11,0,27,1,930,28,7,2,Pré-Pago,Ativo,25,7461,Não Cancelou
+5,0,27,0,2930,57,7,10,Pré-Pago,Ativo,30,14748,Não Cancelou
+5,0,20,1,1400,22,14,2,Pré-Pago,Ativo,25,12699,Não Cancelou
+17,0,19,0,6098,137,71,29,Contrato,Ativo,25,600075,Não Cancelou
+13,0,17,0,8638,167,59,27,Pré-Pago,Ativo,55,220575,Não Cancelou
+9,0,18,2,2558,41,17,6,Pré-Pago,Ativo,30,17196,Não Cancelou
+5,0,11,1,4095,36,201,25,Pré-Pago,Ativo,30,96924,Não Cancelou
+5,1,11,1,1193,15,7,2,Pré-Pago,Ativo,30,7632,Cancelou
+13,0,41,2,4790,83,44,23,Pré-Pago,Ativo,30,37092,Não Cancelou
+5,0,42,0,738,17,46,10,Pré-Pago,Inativo,30,2142,Não Cancelou
+15,0,40,2,2873,72,398,30,Pré-Pago,Ativo,30,17098,Não Cancelou
+15,0,41,2,4618,78,40,41,Pré-Pago,Ativo,15,47828,Não Cancelou
+8,0,41,2,2813,70,41,39,Pré-Pago,Ativo,25,314235,Não Cancelou
+16,0,41,3,4195,94,71,34,Pré-Pago,Ativo,30,45556,Não Cancelou
+9,0,41,2,2780,51,324,24,Pré-Pago,Ativo,45,880775,Não Cancelou
+18,0,40,4,9535,133,183,49,Pré-Pago,Ativo,30,111872,Não Cancelou
+12,0,41,2,14193,181,39,50,Pré-Pago,Ativo,30,73096,Não Cancelou
+12,0,41,3,4935,95,41,31,Pré-Pago,Ativo,45,22825,Não Cancelou
+11,0,41,2,6338,107,46,18,Pré-Pago,Ativo,30,4418,Não Cancelou
+14,1,41,0,2658,66,47,23,Pré-Pago,Inativo,45,1856,Não Cancelou
+30,0,41,5,15560,237,93,38,Pré-Pago,Ativo,30,100388,Não Cancelou
+9,0,41,3,3515,39,522,14,Pré-Pago,Ativo,45,139385,Não Cancelou
+14,0,40,2,15905,194,189,36,Pré-Pago,Ativo,30,139996,Não Cancelou
+8,0,40,3,6920,98,225,32,Pré-Pago,Ativo,45,73795,Não Cancelou
+5,0,40,0,1295,26,39,17,Pré-Pago,Inativo,30,20884,Não Cancelou
+7,0,41,0,1130,26,52,14,Pré-Pago,Inativo,30,25424,Não Cancelou
+5,0,40,0,420,12,39,6,Pré-Pago,Inativo,30,17328,Cancelou
+8,0,40,2,7928,139,423,49,Pré-Pago,Ativo,30,201468,Não Cancelou
+12,0,40,3,11885,166,50,53,Pré-Pago,Ativo,45,426275,Não Cancelou
+13,0,40,3,7138,87,147,43,Pré-Pago,Ativo,30,877,Não Cancelou
+28,1,36,0,1375,59,55,23,Pré-Pago,Inativo,30,27736,Cancelou
+26,0,39,10,10855,105,40,48,Contrato,Ativo,55,2244,Não Cancelou
+18,0,39,3,6238,110,65,30,Pré-Pago,Ativo,30,51392,Não Cancelou
+6,0,37,2,3260,34,39,20,Pré-Pago,Ativo,45,17985,Não Cancelou
+14,0,38,0,3410,53,48,22,Pré-Pago,Inativo,30,33052,Cancelou
+14,1,39,0,2688,56,73,37,Pré-Pago,Inativo,45,2511,Cancelou
+5,0,39,0,553,14,39,8,Pré-Pago,Inativo,30,17868,Cancelou
+6,0,39,2,2088,37,39,12,Pré-Pago,Ativo,45,150625,Não Cancelou
+8,0,36,3,7205,109,53,28,Pré-Pago,Ativo,55,18921,Não Cancelou
+5,0,39,0,1048,19,48,10,Pré-Pago,Inativo,45,146675,Cancelou
+5,0,39,3,758,16,43,8,Pré-Pago,Ativo,55,7611,Não Cancelou
+30,0,34,5,16495,250,39,86,Contrato,Ativo,25,929025,Não Cancelou
+11,0,37,5,7385,128,310,39,Contrato,Ativo,30,154052,Não Cancelou
+7,0,39,2,4138,94,41,34,Pré-Pago,Ativo,30,33328,Não Cancelou
+8,0,38,0,2085,56,77,26,Pré-Pago,Inativo,45,246025,Não Cancelou
+11,0,39,2,3200,65,214,29,Pré-Pago,Ativo,30,9866,Não Cancelou
+9,0,30,3,1735,48,232,17,Contrato,Ativo,30,99932,Não Cancelou
+9,0,29,2,1988,51,69,74,Pré-Pago,Ativo,55,134085,Não Cancelou
+16,0,30,0,1120,37,49,13,Pré-Pago,Inativo,30,24228,Não Cancelou
+5,0,29,0,1245,22,60,9,Pré-Pago,Inativo,45,181675,Não Cancelou
+15,0,28,2,1645,44,58,19,Pré-Pago,Ativo,25,337005,Não Cancelou
+7,0,28,2,3645,73,47,29,Pré-Pago,Ativo,45,21045,Não Cancelou
+7,0,21,2,2115,38,67,20,Pré-Pago,Ativo,30,35412,Não Cancelou
+21,0,20,3,6813,153,124,48,Contrato,Ativo,25,87147,Não Cancelou
+17,0,18,2,9353,183,112,46,Pré-Pago,Ativo,55,31104,Não Cancelou
+13,0,19,5,3273,57,70,25,Pré-Pago,Ativo,45,25825,Não Cancelou
+7,0,12,3,4810,52,254,16,Pré-Pago,Ativo,30,121048,Não Cancelou
+8,1,12,3,1908,31,39,13,Pré-Pago,Ativo,30,23356,Cancelou
+13,0,39,0,4560,71,7,15,Pré-Pago,Ativo,25,239895,Não Cancelou
+5,0,40,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Não Cancelou
+15,0,38,0,2643,60,334,22,Pré-Pago,Ativo,25,1624635,Não Cancelou
+15,0,39,0,4388,66,7,33,Pré-Pago,Ativo,15,28347,Não Cancelou
+8,0,39,0,2583,58,7,31,Pré-Pago,Ativo,15,183755,Não Cancelou
+16,0,39,1,3965,82,7,26,Pré-Pago,Ativo,30,18988,Não Cancelou
+9,0,39,0,2550,39,260,16,Pré-Pago,Ativo,30,114356,Não Cancelou
+18,0,38,2,9305,121,119,41,Pré-Pago,Ativo,30,85304,Não Cancelou
+12,0,39,0,13963,169,7,42,Pré-Pago,Ativo,30,59328,Não Cancelou
+12,0,39,1,4705,83,7,23,Pré-Pago,Ativo,30,21952,Não Cancelou
+11,0,39,0,6108,95,7,10,Pré-Pago,Ativo,25,310635,Não Cancelou
+14,1,39,0,2428,54,7,15,Pré-Pago,Inativo,30,12728,Não Cancelou
+30,0,39,3,15330,225,29,30,Pré-Pago,Ativo,30,7382,Não Cancelou
+9,0,39,1,3285,27,458,6,Pré-Pago,Ativo,30,196448,Não Cancelou
+14,0,38,0,15675,182,125,28,Pré-Pago,Ativo,25,1276065,Não Cancelou
+8,0,38,1,6690,86,161,24,Pré-Pago,Ativo,30,91504,Não Cancelou
+5,0,38,0,1065,14,7,9,Pré-Pago,Inativo,25,80055,Não Cancelou
+7,0,39,0,900,14,7,6,Pré-Pago,Inativo,25,7263,Não Cancelou
+5,0,38,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+8,0,38,0,7698,127,359,41,Pré-Pago,Ativo,25,1967625,Não Cancelou
+12,0,38,1,11655,154,7,45,Pré-Pago,Ativo,30,50036,Não Cancelou
+13,0,38,1,6908,75,83,35,Pré-Pago,Ativo,25,687735,Não Cancelou
+28,1,34,0,1145,47,7,15,Pré-Pago,Inativo,25,8514,Cancelou
+26,0,37,8,10625,93,7,40,Pré-Pago,Ativo,45,28545,Não Cancelou
+18,0,37,1,6008,98,7,22,Pré-Pago,Ativo,25,30627,Cancelou
+6,0,35,0,3030,22,7,12,Pré-Pago,Ativo,30,15008,Não Cancelou
+14,0,36,0,3180,41,7,14,Pré-Pago,Inativo,30,15684,Cancelou
+14,0,37,0,2458,44,9,29,Pré-Pago,Inativo,30,13608,Cancelou
+5,1,37,0,305,6,7,2,Pré-Pago,Inativo,30,4044,Cancelou
+6,0,37,0,1858,25,7,4,Pré-Pago,Ativo,30,10332,Não Cancelou
+8,0,34,1,6975,97,7,20,Pré-Pago,Ativo,45,1943,Não Cancelou
+5,0,37,0,818,7,7,2,Pré-Pago,Inativo,45,38125,Cancelou
+5,0,37,1,305,6,7,2,Pré-Pago,Ativo,55,15165,Não Cancelou
+30,0,32,3,16265,238,7,78,Pré-Pago,Ativo,25,774135,Não Cancelou
+11,0,35,3,7155,116,246,31,Contrato,Ativo,25,1434195,Não Cancelou
+7,0,37,0,3908,82,7,26,Pré-Pago,Ativo,25,21105,Não Cancelou
+8,0,36,0,1855,44,13,18,Pré-Pago,Inativo,30,12796,Não Cancelou
+11,0,37,0,2970,53,150,21,Pré-Pago,Ativo,25,811035,Não Cancelou
+9,0,28,1,1505,36,168,9,Contrato,Ativo,25,825345,Não Cancelou
+9,0,27,0,1758,39,7,66,Pré-Pago,Ativo,45,62425,Não Cancelou
+16,0,28,0,890,25,7,5,Pré-Pago,Inativo,25,72675,Não Cancelou
+5,0,27,0,1015,10,7,2,Pré-Pago,Inativo,45,43125,Não Cancelou
+15,0,26,0,1415,32,7,11,Pré-Pago,Ativo,25,96615,Não Cancelou
+7,0,26,0,3415,61,7,21,Pré-Pago,Ativo,30,16704,Não Cancelou
+7,0,19,0,1885,26,7,12,Pré-Pago,Ativo,25,117495,Não Cancelou
+21,0,18,1,6583,141,60,40,Contrato,Ativo,15,69982,Não Cancelou
+17,0,16,0,9123,171,48,38,Pré-Pago,Ativo,45,35235,Não Cancelou
+13,0,17,3,3043,45,7,17,Pré-Pago,Ativo,30,15152,Não Cancelou
+7,0,10,1,4580,40,190,8,Pré-Pago,Ativo,30,9448,Não Cancelou
+8,0,10,1,1678,19,7,5,Pré-Pago,Ativo,30,9588,Cancelou
+15,0,40,1,4865,78,21,22,Pré-Pago,Ativo,30,28172,Não Cancelou
+7,0,41,0,813,12,23,9,Pré-Pago,Inativo,30,125,Não Cancelou
+17,0,39,1,2948,67,375,29,Pré-Pago,Ativo,30,16206,Não Cancelou
+17,0,40,1,4693,73,17,40,Pré-Pago,Ativo,15,35563,Não Cancelou
+10,0,40,1,2888,65,18,38,Pré-Pago,Ativo,25,213885,Não Cancelou
+18,0,40,2,4270,89,48,33,Pré-Pago,Ativo,30,36636,Não Cancelou
+11,0,40,1,2855,46,301,23,Pré-Pago,Ativo,30,132004,Não Cancelou
+20,0,39,3,9610,128,160,48,Pré-Pago,Ativo,30,102952,Não Cancelou
+14,0,40,1,14268,176,16,49,Pré-Pago,Ativo,30,64176,Não Cancelou
+14,0,40,2,5010,90,18,30,Pré-Pago,Ativo,30,276,Não Cancelou
+13,0,40,1,6413,102,23,17,Pré-Pago,Ativo,30,3526,Não Cancelou
+16,0,40,0,2733,61,24,22,Pré-Pago,Inativo,30,20776,Não Cancelou
+32,1,40,4,15635,232,70,37,Pré-Pago,Ativo,30,91468,Não Cancelou
+11,0,40,2,3590,34,499,13,Pré-Pago,Ativo,30,214096,Não Cancelou
+16,0,39,1,15980,189,166,35,Pré-Pago,Ativo,25,1474605,Não Cancelou
+10,0,39,2,6995,93,202,31,Pré-Pago,Ativo,30,109152,Não Cancelou
+7,0,39,0,1370,21,16,16,Pré-Pago,Inativo,25,134595,Não Cancelou
+9,0,40,0,1205,21,29,13,Pré-Pago,Inativo,30,16504,Não Cancelou
+7,0,39,0,495,7,16,5,Pré-Pago,Inativo,25,9459,Cancelou
+10,0,39,1,8003,134,400,48,Pré-Pago,Ativo,30,192548,Não Cancelou
+14,0,39,2,11960,161,27,52,Pré-Pago,Ativo,45,370525,Não Cancelou
+15,0,39,2,7213,82,124,42,Pré-Pago,Ativo,25,886275,Não Cancelou
+30,1,35,0,1450,54,32,22,Pré-Pago,Inativo,30,18816,Cancelou
+28,0,38,9,10930,100,17,47,Pré-Pago,Ativo,55,19095,Não Cancelou
+20,0,38,2,6313,105,42,29,Pré-Pago,Ativo,25,47781,Não Cancelou
+8,0,36,1,3335,29,16,19,Pré-Pago,Ativo,30,19856,Não Cancelou
+16,1,37,0,3485,48,25,21,Pré-Pago,Inativo,30,24132,Cancelou
+16,1,38,0,2763,51,50,36,Pré-Pago,Inativo,45,19535,Cancelou
+7,0,38,0,628,9,16,7,Pré-Pago,Inativo,30,8948,Cancelou
+8,0,38,1,2163,32,16,11,Pré-Pago,Ativo,45,94875,Não Cancelou
+10,0,35,2,7280,104,30,27,Pré-Pago,Ativo,55,15576,Não Cancelou
+7,0,38,0,1123,14,25,9,Pré-Pago,Inativo,45,90925,Cancelou
+7,0,38,2,833,11,20,7,Pré-Pago,Ativo,55,4266,Não Cancelou
+32,0,33,4,16570,245,16,85,Contrato,Ativo,25,828675,Não Cancelou
+13,0,36,4,7460,123,287,38,Contrato,Ativo,30,145132,Não Cancelou
+9,0,38,1,4213,89,18,33,Pré-Pago,Ativo,30,24408,Não Cancelou
+10,0,37,0,2160,51,54,25,Pré-Pago,Inativo,30,30444,Não Cancelou
+13,0,38,1,3275,60,191,28,Pré-Pago,Ativo,25,1009575,Não Cancelou
+11,0,29,2,1810,43,209,16,Contrato,Ativo,30,91012,Não Cancelou
+11,0,28,1,2063,46,46,73,Pré-Pago,Ativo,55,100635,Não Cancelou
+18,0,29,0,1195,32,26,12,Pré-Pago,Inativo,30,15308,Não Cancelou
+7,0,28,0,1320,17,37,8,Pré-Pago,Inativo,45,125925,Não Cancelou
+17,0,27,1,1720,39,35,18,Pré-Pago,Ativo,25,236655,Não Cancelou
+9,0,27,1,3720,68,24,28,Pré-Pago,Ativo,30,24752,Não Cancelou
+9,0,20,1,2190,33,44,19,Pré-Pago,Ativo,30,26492,Não Cancelou
+23,0,19,2,6887,148,101,47,Contrato,Ativo,25,771075,Não Cancelou
+19,0,17,1,9427,178,89,45,Pré-Pago,Ativo,55,277575,Não Cancelou
+15,0,18,4,3347,52,47,24,Pré-Pago,Ativo,30,32396,Não Cancelou
+9,0,11,2,4885,47,231,15,Pré-Pago,Ativo,30,112128,Não Cancelou
+10,1,11,2,1982,26,16,12,Pré-Pago,Ativo,30,14432,Cancelou
+11,0,40,1,4485,76,3,16,Pré-Pago,Ativo,30,19444,Não Cancelou
+3,0,41,0,433,10,5,3,Pré-Pago,Inativo,30,3772,Não Cancelou
+13,0,39,1,2568,65,357,23,Pré-Pago,Ativo,30,153332,Não Cancelou
+13,0,40,1,4313,71,0,34,Pré-Pago,Ativo,15,24112,Não Cancelou
+6,0,40,1,2508,63,0,32,Pré-Pago,Ativo,25,115695,Não Cancelou
+14,0,40,2,3890,87,30,27,Pré-Pago,Ativo,30,27908,Não Cancelou
+7,0,40,1,2475,44,283,17,Pré-Pago,Ativo,30,123276,Não Cancelou
+16,0,39,3,9230,126,142,42,Pré-Pago,Ativo,30,94224,Não Cancelou
+10,0,40,1,13888,174,0,43,Pré-Pago,Ativo,30,56248,Não Cancelou
+10,0,40,2,4630,88,0,24,Pré-Pago,Ativo,30,18872,Não Cancelou
+9,0,40,1,6033,100,5,11,Pré-Pago,Ativo,30,26532,Não Cancelou
+12,1,40,0,2353,59,6,16,Pré-Pago,Inativo,30,12048,Não Cancelou
+28,0,40,4,15255,230,52,31,Pré-Pago,Ativo,30,8274,Não Cancelou
+7,0,40,2,3210,32,481,7,Pré-Pago,Ativo,30,205368,Não Cancelou
+12,0,39,1,15600,187,148,29,Pré-Pago,Ativo,25,1376415,Não Cancelou
+6,0,39,2,6615,91,184,25,Pré-Pago,Ativo,30,100424,Não Cancelou
+3,0,39,0,990,19,0,10,Pré-Pago,Inativo,25,45405,Não Cancelou
+5,0,40,0,825,19,11,7,Pré-Pago,Inativo,30,7776,Não Cancelou
+0,0,39,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+6,0,39,1,7623,132,382,42,Pré-Pago,Ativo,30,18382,Não Cancelou
+10,0,39,2,11580,159,9,46,Pré-Pago,Ativo,45,315975,Não Cancelou
+11,0,39,2,6833,80,106,36,Pré-Pago,Ativo,25,788085,Não Cancelou
+26,1,35,0,1070,52,14,16,Pré-Pago,Inativo,30,10088,Cancelou
+24,0,38,9,10550,98,0,41,Pré-Pago,Ativo,55,15972,Não Cancelou
+16,0,38,2,5933,103,24,23,Pré-Pago,Ativo,25,37962,Não Cancelou
+4,0,36,1,2955,27,0,13,Pré-Pago,Ativo,30,11928,Não Cancelou
+12,0,37,0,3105,46,7,15,Pré-Pago,Inativo,30,15404,Cancelou
+12,0,38,0,2383,49,32,30,Pré-Pago,Inativo,45,1408,Cancelou
+3,0,38,0,248,7,0,1,Pré-Pago,Inativo,30,102,Cancelou
+4,0,38,1,1783,30,0,5,Pré-Pago,Ativo,45,45325,Não Cancelou
+6,0,35,2,6900,102,12,21,Pré-Pago,Ativo,55,12303,Não Cancelou
+3,0,38,0,743,12,7,3,Pré-Pago,Inativo,45,36375,Cancelou
+3,0,38,2,453,9,2,1,Pré-Pago,Ativo,55,993,Não Cancelou
+28,0,33,4,16190,243,0,79,Contrato,Ativo,25,739485,Não Cancelou
+9,0,36,4,7080,121,269,32,Contrato,Ativo,30,136404,Não Cancelou
+5,0,38,1,3833,87,0,27,Pré-Pago,Ativo,30,1568,Não Cancelou
+6,0,37,0,1780,49,36,19,Pré-Pago,Inativo,30,21716,Não Cancelou
+9,0,38,1,2895,58,173,22,Pré-Pago,Ativo,25,911385,Não Cancelou
+7,0,29,2,1430,41,191,10,Contrato,Ativo,30,82284,Não Cancelou
+7,0,28,1,1683,44,28,67,Pré-Pago,Ativo,55,67905,Não Cancelou
+14,0,29,0,815,30,8,6,Pré-Pago,Inativo,30,658,Não Cancelou
+3,0,28,0,940,15,19,2,Pré-Pago,Inativo,45,71375,Não Cancelou
+13,0,27,1,1340,37,17,12,Pré-Pago,Ativo,25,138465,Não Cancelou
+5,0,27,1,3340,66,6,22,Pré-Pago,Ativo,30,16024,Não Cancelou
+5,0,20,1,1810,31,26,13,Pré-Pago,Ativo,30,17764,Não Cancelou
+19,0,19,2,6507,146,83,41,Contrato,Ativo,25,672885,Não Cancelou
+15,0,17,1,9047,176,71,39,Pré-Pago,Ativo,55,244845,Não Cancelou
+11,0,18,4,2967,50,29,18,Pré-Pago,Ativo,30,23668,Não Cancelou
+5,0,11,2,4505,45,213,9,Pré-Pago,Ativo,30,1034,Não Cancelou
+6,1,11,2,1602,24,0,6,Pré-Pago,Ativo,30,6504,Cancelou
+11,0,35,0,4675,71,4,18,Pré-Pago,Ativo,25,23157,Não Cancelou
+3,0,36,0,623,5,6,5,Pré-Pago,Inativo,25,5526,Não Cancelou
+13,0,34,0,2758,60,358,25,Pré-Pago,Ativo,25,173781,Não Cancelou
+13,0,35,0,4503,66,0,36,Pré-Pago,Ativo,15,251295,Não Cancelou
+6,0,35,0,2698,58,1,34,Pré-Pago,Ativo,15,15708,Não Cancelou
+14,0,35,1,4080,82,31,29,Pré-Pago,Ativo,30,29048,Não Cancelou
+7,0,35,0,2665,39,284,19,Pré-Pago,Ativo,30,124416,Não Cancelou
+16,0,34,2,9420,121,143,44,Pré-Pago,Ativo,30,95364,Não Cancelou
+10,0,35,0,14078,169,0,45,Pré-Pago,Ativo,30,56988,Não Cancelou
+10,0,35,1,4820,83,1,26,Pré-Pago,Ativo,30,20012,Não Cancelou
+9,0,35,0,6223,95,6,13,Pré-Pago,Ativo,25,31131,Não Cancelou
+12,0,35,0,2543,54,7,18,Pré-Pago,Inativo,30,13188,Não Cancelou
+28,0,35,3,15445,225,53,33,Pré-Pago,Ativo,30,8388,Não Cancelou
+7,0,35,1,3400,27,482,9,Pré-Pago,Ativo,30,206508,Não Cancelou
+12,0,34,0,15790,182,149,31,Pré-Pago,Ativo,25,138924,Não Cancelou
+6,0,34,1,6805,86,185,27,Pré-Pago,Ativo,30,101564,Não Cancelou
+3,0,34,0,1180,14,0,12,Pré-Pago,Inativo,25,5373,Não Cancelou
+5,0,35,0,1015,14,12,9,Pré-Pago,Inativo,25,100305,Não Cancelou
+0,0,34,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+6,0,34,0,7813,127,383,44,Pré-Pago,Ativo,25,20808,Não Cancelou
+10,0,34,1,11770,154,10,48,Pré-Pago,Ativo,30,51696,Não Cancelou
+11,0,34,1,7023,75,107,38,Pré-Pago,Ativo,25,80091,Não Cancelou
+26,1,30,0,1260,47,15,18,Pré-Pago,Inativo,25,126315,Cancelou
+24,0,33,8,10740,93,0,43,Pré-Pago,Ativo,45,270825,Não Cancelou
+16,0,33,1,6123,98,25,25,Pré-Pago,Ativo,25,392445,Cancelou
+4,0,31,0,3145,22,0,15,Pré-Pago,Ativo,30,12668,Não Cancelou
+12,1,32,0,3295,41,8,17,Pré-Pago,Inativo,30,16544,Cancelou
+12,0,33,0,2573,44,33,32,Pré-Pago,Inativo,30,23668,Cancelou
+3,0,33,0,438,2,0,3,Pré-Pago,Inativo,30,176,Cancelou
+4,0,33,0,1973,25,0,7,Pré-Pago,Ativo,30,7992,Não Cancelou
+6,0,30,1,7090,97,13,23,Pré-Pago,Ativo,45,212175,Não Cancelou
+3,0,33,0,933,7,8,5,Pré-Pago,Inativo,45,435,Cancelou
+3,0,33,1,643,4,3,3,Pré-Pago,Ativo,55,14205,Não Cancelou
+28,0,28,3,16380,238,0,81,Pré-Pago,Ativo,25,74781,Não Cancelou
+9,0,31,3,7270,116,270,34,Contrato,Ativo,25,154737,Não Cancelou
+5,0,33,0,4023,82,1,29,Pré-Pago,Ativo,25,189225,Não Cancelou
+6,0,32,0,1970,44,37,21,Pré-Pago,Inativo,30,22856,Não Cancelou
+9,0,33,0,3085,53,174,24,Pré-Pago,Ativo,25,92421,Não Cancelou
+7,0,24,1,1620,36,192,12,Contrato,Ativo,25,93852,Não Cancelou
+7,0,23,0,1873,39,29,69,Pré-Pago,Ativo,45,1203,Não Cancelou
+14,0,24,0,1005,25,9,8,Pré-Pago,Inativo,25,8685,Não Cancelou
+3,0,23,0,1130,10,20,4,Pré-Pago,Inativo,45,785,Não Cancelou
+13,0,22,0,1530,32,18,14,Pré-Pago,Ativo,25,15129,Não Cancelou
+5,0,22,0,3530,61,7,24,Pré-Pago,Ativo,30,17164,Não Cancelou
+5,0,15,0,2000,26,27,15,Pré-Pago,Ativo,25,21267,Não Cancelou
+19,0,14,1,6697,141,84,43,Contrato,Ativo,15,83809,Não Cancelou
+15,0,12,0,9237,171,72,41,Pré-Pago,Ativo,45,4152,Não Cancelou
+11,0,13,3,3157,45,30,20,Pré-Pago,Ativo,30,24808,Não Cancelou
+5,0,6,1,4695,40,214,11,Pré-Pago,Ativo,30,10454,Não Cancelou
+6,0,6,1,1792,19,0,8,Pré-Pago,Ativo,30,7244,Cancelou
+15,0,45,2,4675,83,20,20,Pré-Pago,Ativo,30,27032,Não Cancelou
+7,0,46,0,623,17,22,7,Pré-Pago,Inativo,30,1136,Não Cancelou
+17,0,44,2,2758,72,374,27,Pré-Pago,Ativo,30,16092,Não Cancelou
+17,0,45,2,4503,78,16,38,Pré-Pago,Ativo,15,339955,Não Cancelou
+10,0,45,2,2698,70,17,36,Pré-Pago,Ativo,25,20106,Não Cancelou
+18,0,45,3,4080,94,47,31,Pré-Pago,Ativo,30,35496,Não Cancelou
+11,0,45,2,2665,51,300,21,Pré-Pago,Ativo,45,8179,Não Cancelou
+20,0,44,4,9420,133,159,46,Pré-Pago,Ativo,30,101812,Não Cancelou
+14,0,45,2,14078,181,15,47,Pré-Pago,Ativo,30,63036,Não Cancelou
+14,0,45,3,4820,95,17,28,Pré-Pago,Ativo,45,165375,Não Cancelou
+13,0,45,2,6223,107,22,15,Pré-Pago,Ativo,30,3412,Não Cancelou
+16,0,45,0,2543,66,23,20,Pré-Pago,Inativo,45,122725,Não Cancelou
+32,0,45,5,15445,237,69,35,Contrato,Ativo,30,90328,Não Cancelou
+11,0,45,3,3400,39,498,11,Pré-Pago,Ativo,45,1330975,Não Cancelou
+16,0,44,2,15790,194,165,33,Pré-Pago,Ativo,30,129936,Não Cancelou
+10,0,44,3,6805,98,201,29,Pré-Pago,Ativo,45,675075,Não Cancelou
+7,0,44,0,1180,26,15,14,Pré-Pago,Inativo,30,10824,Não Cancelou
+9,0,45,0,1015,26,28,11,Pré-Pago,Inativo,30,15364,Não Cancelou
+7,0,44,0,305,12,15,3,Pré-Pago,Inativo,30,7268,Cancelou
+10,0,44,2,7813,139,399,46,Pré-Pago,Ativo,30,191408,Não Cancelou
+14,0,44,3,11770,166,26,50,Pré-Pago,Ativo,45,3634,Não Cancelou
+15,0,44,3,7023,87,123,40,Pré-Pago,Ativo,30,7764,Não Cancelou
+30,1,40,0,1260,59,31,20,Pré-Pago,Inativo,30,17676,Cancelou
+28,0,43,10,10740,105,16,45,Contrato,Ativo,55,186675,Não Cancelou
+20,0,43,3,6123,110,41,27,Pré-Pago,Ativo,30,41332,Não Cancelou
+8,0,41,2,3145,34,15,17,Pré-Pago,Ativo,45,116975,Não Cancelou
+16,1,42,0,3295,53,24,19,Pré-Pago,Inativo,30,22992,Cancelou
+16,1,43,0,2573,56,49,34,Pré-Pago,Inativo,45,188225,Cancelou
+7,0,43,0,438,14,15,5,Pré-Pago,Inativo,30,7808,Cancelou
+8,0,43,2,1973,37,15,9,Pré-Pago,Ativo,45,8775,Não Cancelou
+10,0,40,3,7090,109,29,25,Pré-Pago,Ativo,55,151485,Não Cancelou
+7,0,43,0,933,19,24,7,Pré-Pago,Inativo,45,838,Cancelou
+7,0,43,3,643,16,19,5,Pré-Pago,Ativo,55,38385,Não Cancelou
+32,0,38,5,16380,250,15,83,Contrato,Ativo,25,81585,Não Cancelou
+13,0,41,5,7270,128,286,36,Contrato,Ativo,30,143992,Não Cancelou
+9,0,43,2,4023,94,17,31,Pré-Pago,Ativo,30,23268,Não Cancelou
+10,0,42,0,1970,56,53,23,Pré-Pago,Inativo,45,18315,Não Cancelou
+13,0,43,2,3085,65,190,26,Pré-Pago,Ativo,30,886,Não Cancelou
+11,0,34,3,1620,48,208,14,Contrato,Ativo,30,89872,Não Cancelou
+11,0,33,2,1873,51,45,71,Pré-Pago,Ativo,55,9636,Não Cancelou
+18,0,34,0,1005,37,25,10,Pré-Pago,Inativo,30,14168,Não Cancelou
+7,0,33,0,1130,22,36,6,Pré-Pago,Inativo,45,1188,Não Cancelou
+17,0,32,2,1530,44,34,16,Pré-Pago,Ativo,25,22383,Não Cancelou
+9,0,32,2,3530,73,23,26,Pré-Pago,Ativo,45,147575,Não Cancelou
+9,0,25,2,2000,38,43,17,Pré-Pago,Ativo,30,25352,Não Cancelou
+23,0,24,3,6697,153,100,45,Contrato,Ativo,25,75825,Não Cancelou
+19,0,22,2,9237,183,88,43,Pré-Pago,Ativo,55,2733,Não Cancelou
+15,0,23,5,3157,57,46,22,Pré-Pago,Ativo,45,19535,Não Cancelou
+9,0,16,3,4695,52,230,13,Pré-Pago,Ativo,30,110988,Não Cancelou
+10,0,16,3,1792,31,15,10,Pré-Pago,Ativo,30,13292,Cancelou
+19,0,41,2,5385,88,37,19,Pré-Pago,Ativo,30,36692,Não Cancelou
+11,0,42,0,1333,22,22,6,Pré-Pago,Inativo,30,1422,Não Cancelou
+21,0,40,2,3468,77,374,26,Pré-Pago,Ativo,30,16378,Não Cancelou
+21,0,41,2,5213,83,16,37,Pré-Pago,Ativo,15,37928,Não Cancelou
+14,0,41,2,3408,75,17,35,Pré-Pago,Ativo,25,233235,Não Cancelou
+22,0,41,3,4790,99,47,30,Pré-Pago,Ativo,30,38356,Não Cancelou
+15,0,41,2,3375,56,300,20,Pré-Pago,Ativo,45,835775,Não Cancelou
+24,0,40,4,10130,138,159,45,Pré-Pago,Ativo,30,104672,Não Cancelou
+18,0,41,2,14788,186,15,46,Pré-Pago,Ativo,30,65896,Não Cancelou
+18,0,41,3,5530,100,17,27,Pré-Pago,Ativo,45,18325,Não Cancelou
+17,0,41,2,6933,112,22,14,Pré-Pago,Ativo,30,3698,Não Cancelou
+20,0,41,0,3253,71,23,19,Pré-Pago,Inativo,45,1406,Não Cancelou
+36,0,41,5,16155,242,69,34,Contrato,Ativo,30,93188,Não Cancelou
+15,0,41,3,4110,44,498,10,Pré-Pago,Ativo,45,134885,Não Cancelou
+20,0,40,2,16500,199,165,32,Pré-Pago,Ativo,25,1493955,Não Cancelou
+14,0,40,3,7515,103,201,28,Pré-Pago,Ativo,30,110872,Não Cancelou
+11,0,40,0,1890,31,15,13,Pré-Pago,Inativo,25,153945,Não Cancelou
+13,0,41,0,1725,31,28,10,Pré-Pago,Inativo,30,18224,Não Cancelou
+11,0,40,0,1015,17,15,2,Pré-Pago,Inativo,30,10128,Cancelou
+14,0,40,2,8523,144,399,45,Pré-Pago,Ativo,30,194268,Não Cancelou
+18,0,40,3,12480,171,26,49,Pré-Pago,Ativo,45,381275,Não Cancelou
+19,0,40,3,7733,92,123,39,Pré-Pago,Ativo,25,905625,Não Cancelou
+34,1,36,0,1970,64,31,19,Contrato,Inativo,30,20536,Cancelou
+32,0,39,10,11450,110,16,44,Pré-Pago,Ativo,55,1974,Não Cancelou
+24,0,39,3,6833,115,41,26,Pré-Pago,Ativo,30,44192,Não Cancelou
+12,0,37,2,3855,39,15,16,Pré-Pago,Ativo,30,21576,Não Cancelou
+20,1,38,0,4005,58,24,18,Pré-Pago,Inativo,30,25852,Cancelou
+20,1,39,0,3283,61,49,33,Pré-Pago,Inativo,45,2061,Cancelou
+11,0,39,0,1148,19,15,4,Pré-Pago,Inativo,30,10668,Cancelou
+12,0,39,2,2683,42,15,8,Pré-Pago,Ativo,45,105625,Não Cancelou
+14,0,36,3,7800,114,29,24,Pré-Pago,Ativo,55,16221,Não Cancelou
+11,0,39,0,1643,24,24,6,Pré-Pago,Inativo,45,101675,Cancelou
+11,0,39,3,1353,21,19,4,Pré-Pago,Ativo,55,4911,Não Cancelou
+36,0,34,5,17090,255,15,82,Contrato,Ativo,25,848025,Não Cancelou
+17,0,37,5,7980,133,286,35,Contrato,Ativo,30,146852,Não Cancelou
+13,0,39,2,4733,99,17,30,Pré-Pago,Ativo,30,26128,Não Cancelou
+14,0,38,0,2680,61,53,22,Pré-Pago,Inativo,45,201025,Não Cancelou
+17,0,39,2,3795,70,190,25,Pré-Pago,Ativo,25,1028925,Não Cancelou
+15,0,30,3,2330,53,208,13,Contrato,Ativo,30,92732,Não Cancelou
+15,0,29,2,2583,56,45,70,Pré-Pago,Ativo,55,107085,Não Cancelou
+22,1,30,0,1715,42,25,9,Pré-Pago,Inativo,30,17028,Cancelou
+11,0,29,0,1840,27,36,5,Pré-Pago,Inativo,45,136675,Não Cancelou
+21,0,28,2,2240,49,34,15,Pré-Pago,Ativo,25,256005,Não Cancelou
+13,0,28,2,4240,78,23,25,Pré-Pago,Ativo,30,26472,Não Cancelou
+13,0,21,2,2710,43,43,16,Pré-Pago,Ativo,30,28212,Não Cancelou
+27,0,20,3,7407,158,100,44,Contrato,Ativo,25,790425,Não Cancelou
+23,0,18,2,9947,188,88,42,Pré-Pago,Ativo,55,284025,Não Cancelou
+19,0,19,5,3867,62,46,21,Pré-Pago,Ativo,30,34116,Não Cancelou
+13,0,12,3,5405,57,230,12,Pré-Pago,Ativo,30,113848,Não Cancelou
+14,1,12,3,2502,36,15,9,Pré-Pago,Ativo,30,16152,Cancelou
+7,0,39,0,3965,66,0,19,Pré-Pago,Ativo,30,16124,Não Cancelou
+0,0,40,0,0,0,0,0,Pré-Pago,Inativo,30,0,Não Cancelou
+9,0,38,0,2048,55,341,26,Pré-Pago,Ativo,30,144812,Não Cancelou
+9,0,39,0,3793,61,0,37,Pré-Pago,Ativo,15,21197,Não Cancelou
+2,0,39,0,1988,53,0,35,Pré-Pago,Ativo,25,91845,Não Cancelou
+10,0,39,1,3370,77,14,30,Pré-Pago,Ativo,30,19388,Não Cancelou
+3,0,39,0,1955,34,267,20,Pré-Pago,Ativo,30,114756,Não Cancelou
+12,0,38,2,8710,116,126,45,Pré-Pago,Ativo,30,85704,Não Cancelou
+6,0,39,0,13368,164,0,46,Pré-Pago,Ativo,30,54128,Não Cancelou
+6,0,39,1,4110,78,0,27,Pré-Pago,Ativo,30,16752,Não Cancelou
+5,0,39,0,5513,90,0,14,Pré-Pago,Ativo,30,22412,Não Cancelou
+8,0,39,0,1833,49,0,19,Pré-Pago,Inativo,30,7528,Não Cancelou
+24,0,39,3,14735,220,36,34,Pré-Pago,Ativo,30,7422,Não Cancelou
+3,0,39,1,2690,22,465,10,Pré-Pago,Ativo,30,196848,Não Cancelou
+8,0,38,0,15080,177,132,32,Pré-Pago,Ativo,25,1280565,Não Cancelou
+2,0,38,1,6095,81,168,28,Pré-Pago,Ativo,30,91904,Não Cancelou
+0,0,38,0,470,9,0,13,Pré-Pago,Inativo,25,21555,Não Cancelou
+1,0,39,0,305,9,0,10,Pré-Pago,Inativo,30,1256,Não Cancelou
+0,0,38,0,0,0,0,0,Pré-Pago,Inativo,25,0,Cancelou
+2,0,38,0,7103,122,366,45,Pré-Pago,Ativo,30,1753,Não Cancelou
+6,0,38,1,11060,149,0,49,Pré-Pago,Ativo,45,280225,Não Cancelou
+7,0,38,1,6313,70,90,39,Pré-Pago,Ativo,25,692235,Não Cancelou
+22,0,34,0,550,42,0,19,Pré-Pago,Inativo,30,2368,Cancelou
+20,0,37,8,10030,88,0,44,Pré-Pago,Ativo,55,15177,Não Cancelou
+12,0,37,1,5413,93,8,26,Pré-Pago,Ativo,25,28377,Cancelou
+0,0,35,0,2435,17,0,16,Pré-Pago,Ativo,30,9808,Não Cancelou
+8,1,36,0,2585,36,0,18,Pré-Pago,Inativo,30,10484,Cancelou
+8,0,37,0,1863,39,16,33,Pré-Pago,Inativo,30,14008,Cancelou
+0,0,37,0,0,0,0,0,Pré-Pago,Inativo,30,0,Cancelou
+0,0,37,0,1263,20,0,8,Pré-Pago,Ativo,45,32075,Não Cancelou
+2,0,34,1,6380,92,0,24,Pré-Pago,Ativo,55,9708,Não Cancelou
+0,0,37,0,223,2,0,6,Pré-Pago,Inativo,45,5625,Cancelou
+0,0,37,1,0,0,0,0,Pré-Pago,Ativo,55,0,Não Cancelou
+24,1,32,3,15670,233,0,82,Pré-Pago,Ativo,25,715635,Não Cancelou
+5,0,35,3,6560,111,253,35,Contrato,Ativo,25,1438695,Não Cancelou
+1,0,37,0,3313,77,0,30,Pré-Pago,Ativo,30,1356,Não Cancelou
+2,0,36,0,1260,39,20,22,Pré-Pago,Inativo,30,13196,Não Cancelou
+5,0,37,0,2375,48,157,25,Pré-Pago,Ativo,25,815535,Não Cancelou
+3,0,28,1,910,31,175,13,Contrato,Ativo,25,829845,Não Cancelou
+3,0,27,0,1163,34,12,70,Pré-Pago,Ativo,45,59925,Não Cancelou
+10,0,28,0,295,20,0,9,Pré-Pago,Inativo,30,126,Não Cancelou
+0,0,27,0,420,5,3,5,Pré-Pago,Inativo,45,18125,Não Cancelou
+9,0,26,0,820,27,1,15,Pré-Pago,Ativo,25,42615,Não Cancelou
+1,0,26,0,2820,56,0,25,Pré-Pago,Ativo,30,11504,Não Cancelou
+1,0,19,0,1290,21,10,16,Pré-Pago,Ativo,25,103995,Não Cancelou
+15,0,18,1,5987,136,67,44,Contrato,Ativo,25,577035,Não Cancelou
+11,0,16,0,8527,166,55,42,Pré-Pago,Ativo,55,212895,Não Cancelou
+7,0,17,3,2447,40,13,21,Pré-Pago,Ativo,30,15148,Não Cancelou
+1,0,10,1,3985,35,197,12,Pré-Pago,Ativo,30,9488,Não Cancelou
+2,1,10,1,1082,14,0,9,Pré-Pago,Ativo,30,4384,Cancelou
+13,0,40,1,4675,77,12,19,Pré-Pago,Ativo,30,23808,Não Cancelou
+5,0,41,0,623,11,14,6,Pré-Pago,Inativo,30,8136,Não Cancelou
+15,0,39,1,2758,66,366,26,Pré-Pago,Ativo,30,157696,Não Cancelou
+15,0,40,1,4503,72,8,37,Pré-Pago,Ativo,15,295625,Não Cancelou
+8,0,40,1,2698,64,9,35,Pré-Pago,Ativo,25,16479,Não Cancelou
+16,0,40,2,4080,88,39,30,Pré-Pago,Ativo,30,32272,Não Cancelou
+9,0,40,1,2665,45,292,20,Pré-Pago,Ativo,30,12764,Não Cancelou
+18,0,39,3,9420,127,151,45,Pré-Pago,Ativo,30,98588,Não Cancelou
+12,0,40,1,14078,175,7,46,Pré-Pago,Ativo,30,59812,Não Cancelou
+12,0,40,2,4820,89,9,27,Pré-Pago,Ativo,30,23236,Não Cancelou
+11,0,40,1,6223,101,14,14,Pré-Pago,Ativo,30,30896,Não Cancelou
+14,0,40,0,2543,60,15,19,Pré-Pago,Inativo,30,16412,Não Cancelou
+30,0,40,4,15445,231,61,34,Pré-Pago,Ativo,30,87104,Não Cancelou
+9,0,40,2,3400,33,490,10,Pré-Pago,Ativo,30,209732,Não Cancelou
+14,0,39,1,15790,188,157,32,Pré-Pago,Ativo,25,142551,Não Cancelou
+8,0,39,2,6805,92,193,28,Pré-Pago,Ativo,30,104788,Não Cancelou
+5,0,39,0,1180,20,7,13,Pré-Pago,Inativo,25,855,Não Cancelou
+7,0,40,0,1015,20,20,10,Pré-Pago,Inativo,30,1214,Não Cancelou
+5,0,39,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+8,0,39,1,7813,133,391,45,Pré-Pago,Ativo,30,188184,Não Cancelou
+12,0,39,2,11770,160,18,49,Pré-Pago,Ativo,45,34325,Não Cancelou
+13,0,39,2,7023,81,115,39,Pré-Pago,Ativo,25,83718,Não Cancelou
+28,1,35,0,1260,53,23,19,Pré-Pago,Inativo,30,14452,Cancelou
+26,0,38,9,10740,99,8,44,Pré-Pago,Ativo,55,174585,Não Cancelou
+18,0,38,2,6123,104,33,26,Pré-Pago,Ativo,25,428715,Não Cancelou
+6,0,36,1,3145,28,7,16,Pré-Pago,Ativo,30,15492,Não Cancelou
+14,1,37,0,3295,47,16,18,Pré-Pago,Inativo,30,19768,Cancelou
+14,0,38,0,2573,50,41,33,Pré-Pago,Inativo,45,168075,Cancelou
+5,0,38,0,438,8,7,4,Pré-Pago,Inativo,30,4584,Cancelou
+6,0,38,1,1973,31,7,8,Pré-Pago,Ativo,45,676,Não Cancelou
+8,0,35,2,7090,103,21,24,Pré-Pago,Ativo,55,139395,Não Cancelou
+5,0,38,0,933,13,16,6,Pré-Pago,Inativo,45,6365,Cancelou
+5,0,38,2,643,10,11,4,Pré-Pago,Ativo,55,26295,Não Cancelou
+30,0,33,4,16380,244,7,82,Contrato,Ativo,25,77958,Não Cancelou
+11,0,36,4,7270,122,278,35,Contrato,Ativo,30,140768,Não Cancelou
+7,0,38,1,4023,88,9,30,Pré-Pago,Ativo,30,20044,Não Cancelou
+8,0,37,0,1970,50,45,22,Pré-Pago,Inativo,30,2608,Não Cancelou
+11,0,38,1,3085,59,182,25,Pré-Pago,Ativo,25,96048,Não Cancelou
+9,0,29,2,1620,42,200,13,Contrato,Ativo,30,86648,Não Cancelou
+9,0,28,1,1873,45,37,70,Pré-Pago,Ativo,55,8427,Não Cancelou
+16,0,29,0,1005,31,17,9,Pré-Pago,Inativo,30,10944,Não Cancelou
+5,0,28,0,1130,16,28,5,Pré-Pago,Inativo,45,9865,Não Cancelou
+15,0,27,1,1530,38,26,15,Pré-Pago,Ativo,25,18756,Não Cancelou
+7,0,27,1,3530,67,15,25,Pré-Pago,Ativo,30,20388,Não Cancelou
+7,0,20,1,2000,32,35,16,Pré-Pago,Ativo,30,22128,Não Cancelou
+21,0,19,2,6697,147,92,44,Contrato,Ativo,25,72198,Não Cancelou
+17,0,17,1,9237,177,80,42,Pré-Pago,Ativo,55,26121,Não Cancelou
+13,0,18,4,3157,51,38,21,Pré-Pago,Ativo,30,28032,Não Cancelou
+7,0,11,2,4695,46,222,12,Pré-Pago,Ativo,30,107764,Não Cancelou
+8,1,11,2,1792,25,7,9,Pré-Pago,Ativo,30,10068,Cancelou
+13,0,40,1,4675,77,12,19,Pré-Pago,Ativo,30,23808,Não Cancelou
+5,0,41,0,623,11,14,6,Pré-Pago,Inativo,30,8136,Não Cancelou
+15,0,39,1,2758,66,366,26,Pré-Pago,Ativo,30,157696,Não Cancelou
+15,0,40,1,4503,72,8,37,Pré-Pago,Ativo,15,295625,Não Cancelou
+8,0,40,1,2698,64,9,35,Pré-Pago,Ativo,25,16479,Não Cancelou
+16,0,40,2,4080,88,39,30,Pré-Pago,Ativo,30,32272,Não Cancelou
+9,0,40,1,2665,45,292,20,Pré-Pago,Ativo,30,12764,Não Cancelou
+18,0,39,3,9420,127,151,45,Pré-Pago,Ativo,30,98588,Não Cancelou
+12,0,40,1,14078,175,7,46,Pré-Pago,Ativo,30,59812,Não Cancelou
+12,0,40,2,4820,89,9,27,Pré-Pago,Ativo,30,23236,Não Cancelou
+11,0,40,1,6223,101,14,14,Pré-Pago,Ativo,30,30896,Não Cancelou
+14,0,40,0,2543,60,15,19,Pré-Pago,Inativo,30,16412,Não Cancelou
+30,0,40,4,15445,231,61,34,Contrato,Ativo,30,87104,Não Cancelou
+9,0,40,2,3400,33,490,10,Pré-Pago,Ativo,30,209732,Não Cancelou
+14,0,39,1,15790,188,157,32,Pré-Pago,Ativo,25,142551,Não Cancelou
+8,0,39,2,6805,92,193,28,Pré-Pago,Ativo,30,104788,Não Cancelou
+5,0,39,0,1180,20,7,13,Pré-Pago,Inativo,25,855,Não Cancelou
+7,0,40,0,1015,20,20,10,Pré-Pago,Inativo,30,1214,Não Cancelou
+5,0,39,0,305,6,7,2,Pré-Pago,Inativo,25,45495,Cancelou
+8,0,39,1,7813,133,391,45,Pré-Pago,Ativo,30,188184,Não Cancelou
+12,0,39,2,11770,160,18,49,Pré-Pago,Ativo,45,34325,Não Cancelou
+13,0,39,2,7023,81,115,39,Pré-Pago,Ativo,25,83718,Não Cancelou
+28,1,35,0,1260,53,23,19,Pré-Pago,Inativo,30,14452,Cancelou
+26,0,38,9,10740,99,8,44,Contrato,Ativo,55,174585,Não Cancelou
+18,0,38,2,6123,104,33,26,Pré-Pago,Ativo,25,428715,Não Cancelou
+6,0,36,1,3145,28,7,16,Pré-Pago,Ativo,30,15492,Não Cancelou
+14,1,37,0,3295,47,16,18,Pré-Pago,Inativo,30,19768,Cancelou
+14,1,38,0,2573,50,41,33,Pré-Pago,Inativo,45,168075,Cancelou
+5,0,38,0,438,8,7,4,Pré-Pago,Inativo,30,4584,Cancelou
+6,0,38,1,1973,31,7,8,Pré-Pago,Ativo,45,676,Não Cancelou
+8,0,35,2,7090,103,21,24,Pré-Pago,Ativo,55,139395,Não Cancelou
+5,1,38,0,933,13,16,6,Pré-Pago,Inativo,45,6365,Cancelou
+5,0,38,2,643,10,11,4,Pré-Pago,Ativo,55,26295,Não Cancelou
+30,0,33,4,16380,244,7,82,Contrato,Ativo,25,77958,Não Cancelou
+11,0,36,4,7270,122,278,35,Contrato,Ativo,30,140768,Não Cancelou
+7,0,38,1,4023,88,9,30,Pré-Pago,Ativo,30,20044,Não Cancelou
+8,0,37,0,1970,50,45,22,Pré-Pago,Inativo,30,2608,Não Cancelou
+11,0,38,1,3085,59,182,25,Pré-Pago,Ativo,25,96048,Não Cancelou
+9,0,29,2,1620,42,200,13,Contrato,Ativo,30,86648,Não Cancelou
+9,0,28,1,1873,45,37,70,Pré-Pago,Ativo,55,8427,Não Cancelou
+16,0,29,0,1005,31,17,9,Pré-Pago,Inativo,30,10944,Não Cancelou
+5,0,28,0,1130,16,28,5,Pré-Pago,Inativo,45,9865,Não Cancelou
+15,0,27,1,1530,38,26,15,Pré-Pago,Ativo,25,18756,Não Cancelou
+7,0,27,1,3530,67,15,25,Pré-Pago,Ativo,30,20388,Não Cancelou
+7,0,20,1,2000,32,35,16,Pré-Pago,Ativo,30,22128,Não Cancelou
+21,0,19,2,6697,147,92,44,Contrato,Ativo,25,72198,Não Cancelou
+17,0,17,1,9237,177,80,42,Pré-Pago,Ativo,55,26121,Não Cancelou
+13,0,18,4,3157,51,38,21,Pré-Pago,Ativo,30,28032,Não Cancelou
+7,0,11,2,4695,46,222,12,Pré-Pago,Ativo,30,107764,Não Cancelou
+8,1,11,2,1792,25,7,9,Pré-Pago,Ativo,30,10068,Cancelou
